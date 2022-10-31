@@ -1,0 +1,3421 @@
+SpeciesName,Code,CountryName,Status,SharkRay
+Acroteriobatus variegatus,IN,India,CR,Ray
+Acroteriobatus variegatus,LK,Sri Lanka,CR,Ray
+Aetobatus laticeps,CO,Colombia,VU,Ray
+Aetobatus laticeps,CR,Costa Rica,VU,Ray
+Aetobatus laticeps,EC,Ecuador,VU,Ray
+Aetobatus laticeps,SV,El Salvador,VU,Ray
+Aetobatus laticeps,GT,Guatemala,VU,Ray
+Aetobatus laticeps,HN,Honduras,VU,Ray
+Aetobatus laticeps,MX,Mexico,VU,Ray
+Aetobatus laticeps,NI,Nicaragua,VU,Ray
+Aetobatus laticeps,PA,Panama,VU,Ray
+Aetobatus narinari,AO,Angola,EN,Ray
+Aetobatus narinari,AI,Anguilla,EN,Ray
+Aetobatus narinari,AG,Antigua and Barbuda,EN,Ray
+Aetobatus narinari,AW,Aruba,EN,Ray
+Aetobatus narinari,BS,Bahamas,EN,Ray
+Aetobatus narinari,BB,Barbados,EN,Ray
+Aetobatus narinari,BZ,Belize,EN,Ray
+Aetobatus narinari,BJ,Benin,EN,Ray
+Aetobatus narinari,BM,Bermuda,EN,Ray
+Aetobatus narinari,BQ,"Bonaire, Sint Eustatius and Saba",EN,Ray
+Aetobatus narinari,BR,Brazil,EN,Ray
+Aetobatus narinari,CI,Côte d'Ivoire,EN,Ray
+Aetobatus narinari,CM,Cameroon,EN,Ray
+Aetobatus narinari,KY,Cayman Islands,EN,Ray
+Aetobatus narinari,CO,Colombia,EN,Ray
+Aetobatus narinari,CG,Congo,EN,Ray
+Aetobatus narinari,CD,"Congo, the Democratic Republic of the",EN,Ray
+Aetobatus narinari,CR,Costa Rica,EN,Ray
+Aetobatus narinari,CU,Cuba,EN,Ray
+Aetobatus narinari,CW,Curaçao,EN,Ray
+Aetobatus narinari,DM,Dominica,EN,Ray
+Aetobatus narinari,DO,Dominican Republic,EN,Ray
+Aetobatus narinari,SV,El Salvador,EN,Ray
+Aetobatus narinari,GQ,Equatorial Guinea,EN,Ray
+Aetobatus narinari,GF,French Guiana,EN,Ray
+Aetobatus narinari,GA,Gabon,EN,Ray
+Aetobatus narinari,GM,Gambia,EN,Ray
+Aetobatus narinari,GH,Ghana,EN,Ray
+Aetobatus narinari,GD,Grenada,EN,Ray
+Aetobatus narinari,GP,Guadeloupe,EN,Ray
+Aetobatus narinari,GT,Guatemala,EN,Ray
+Aetobatus narinari,GN,Guinea,EN,Ray
+Aetobatus narinari,GW,Guinea-Bissau,EN,Ray
+Aetobatus narinari,GY,Guyana,EN,Ray
+Aetobatus narinari,HT,Haiti,EN,Ray
+Aetobatus narinari,HN,Honduras,EN,Ray
+Aetobatus narinari,JM,Jamaica,EN,Ray
+Aetobatus narinari,LR,Liberia,EN,Ray
+Aetobatus narinari,MQ,Martinique,EN,Ray
+Aetobatus narinari,MR,Mauritania,EN,Ray
+Aetobatus narinari,MX,Mexico,EN,Ray
+Aetobatus narinari,MS,Montserrat,EN,Ray
+Aetobatus narinari,NI,Nicaragua,EN,Ray
+Aetobatus narinari,NG,Nigeria,EN,Ray
+Aetobatus narinari,PA,Panama,EN,Ray
+Aetobatus narinari,PR,Puerto Rico,EN,Ray
+Aetobatus narinari,BL,Saint Barthélemy,EN,Ray
+Aetobatus narinari,KN,Saint Kitts and Nevis,EN,Ray
+Aetobatus narinari,LC,Saint Lucia,EN,Ray
+Aetobatus narinari,MF,Saint Martin (French part),EN,Ray
+Aetobatus narinari,VC,Saint Vincent and the Grenadines,EN,Ray
+Aetobatus narinari,ST,Sao Tome and Principe,EN,Ray
+Aetobatus narinari,SN,Senegal,EN,Ray
+Aetobatus narinari,SL,Sierra Leone,EN,Ray
+Aetobatus narinari,SX,Sint Maarten (Dutch part),EN,Ray
+Aetobatus narinari,ZA,South Africa,EN,Ray
+Aetobatus narinari,SR,Suriname,EN,Ray
+Aetobatus narinari,TG,Togo,EN,Ray
+Aetobatus narinari,TT,Trinidad and Tobago,EN,Ray
+Aetobatus narinari,TC,Turks and Caicos Islands,EN,Ray
+Aetobatus narinari,US,United States,EN,Ray
+Aetobatus narinari,VE,"Venezuela, Bolivarian Republic of",EN,Ray
+Aetobatus narinari,VG,"Virgin Islands, British",EN,Ray
+Aetobatus narinari,VI,"Virgin Islands, U.S.",EN,Ray
+Aetobatus ocellatus,AU,Australia,VU,Ray
+Aetobatus ocellatus,BH,Bahrain,VU,Ray
+Aetobatus ocellatus,BD,Bangladesh,VU,Ray
+Aetobatus ocellatus,BN,Brunei Darussalam,VU,Ray
+Aetobatus ocellatus,KH,Cambodia,VU,Ray
+Aetobatus ocellatus,CN,China,VU,Ray
+Aetobatus ocellatus,EG,Egypt,VU,Ray
+Aetobatus ocellatus,ER,Eritrea,VU,Ray
+Aetobatus ocellatus,FJ,Fiji,VU,Ray
+Aetobatus ocellatus,IN,India,VU,Ray
+Aetobatus ocellatus,ID,Indonesia,VU,Ray
+Aetobatus ocellatus,IR,"Iran, Islamic Republic of",VU,Ray
+Aetobatus ocellatus,IQ,Iraq,VU,Ray
+Aetobatus ocellatus,IL,Israel,VU,Ray
+Aetobatus ocellatus,JP,Japan,VU,Ray
+Aetobatus ocellatus,JO,Jordan,VU,Ray
+Aetobatus ocellatus,KE,Kenya,VU,Ray
+Aetobatus ocellatus,KP,"Korea, Democratic People's Republic of",VU,Ray
+Aetobatus ocellatus,KR,"Korea, Republic of",VU,Ray
+Aetobatus ocellatus,KW,Kuwait,VU,Ray
+Aetobatus ocellatus,MG,Madagascar,VU,Ray
+Aetobatus ocellatus,MY,Malaysia,VU,Ray
+Aetobatus ocellatus,MV,Maldives,VU,Ray
+Aetobatus ocellatus,MH,Marshall Islands,VU,Ray
+Aetobatus ocellatus,FM,"Micronesia, Federated States of",VU,Ray
+Aetobatus ocellatus,MZ,Mozambique,VU,Ray
+Aetobatus ocellatus,MM,Myanmar,VU,Ray
+Aetobatus ocellatus,NC,New Caledonia,VU,Ray
+Aetobatus ocellatus,OM,Oman,VU,Ray
+Aetobatus ocellatus,PK,Pakistan,VU,Ray
+Aetobatus ocellatus,PW,Palau,VU,Ray
+Aetobatus ocellatus,PG,Papua New Guinea,VU,Ray
+Aetobatus ocellatus,PH,Philippines,VU,Ray
+Aetobatus ocellatus,QA,Qatar,VU,Ray
+Aetobatus ocellatus,SA,Saudi Arabia,VU,Ray
+Aetobatus ocellatus,SG,Singapore,VU,Ray
+Aetobatus ocellatus,SB,Solomon Islands,VU,Ray
+Aetobatus ocellatus,ZA,South Africa,VU,Ray
+Aetobatus ocellatus,LK,Sri Lanka,VU,Ray
+Aetobatus ocellatus,SD,Sudan,VU,Ray
+Aetobatus ocellatus,TW,"Taiwan, Province of China",VU,Ray
+Aetobatus ocellatus,TZ,"Tanzania, United Republic of",VU,Ray
+Aetobatus ocellatus,TH,Thailand,VU,Ray
+Aetobatus ocellatus,TL,Timor-Leste,VU,Ray
+Aetobatus ocellatus,AE,United Arab Emirates,VU,Ray
+Aetobatus ocellatus,US,United States,VU,Ray
+Aetobatus ocellatus,VN,Viet Nam,VU,Ray
+Aetobatus ocellatus,YE,Yemen,VU,Ray
+Aetomylaeus asperrimus,CR,Costa Rica,DD,Ray
+Aetomylaeus asperrimus,EC,Ecuador,DD,Ray
+Aetomylaeus asperrimus,PA,Panama,DD,Ray
+Aetomylaeus nichofii,BD,Bangladesh,VU,Ray
+Aetomylaeus nichofii,BN,Brunei Darussalam,VU,Ray
+Aetomylaeus nichofii,KH,Cambodia,VU,Ray
+Aetomylaeus nichofii,CN,China,VU,Ray
+Aetomylaeus nichofii,IN,India,VU,Ray
+Aetomylaeus nichofii,ID,Indonesia,VU,Ray
+Aetomylaeus nichofii,JP,Japan,VU,Ray
+Aetomylaeus nichofii,KP,"Korea, Democratic People's Republic of",VU,Ray
+Aetomylaeus nichofii,KR,"Korea, Republic of",VU,Ray
+Aetomylaeus nichofii,MY,Malaysia,VU,Ray
+Aetomylaeus nichofii,MV,Maldives,VU,Ray
+Aetomylaeus nichofii,MZ,Mozambique,VU,Ray
+Aetomylaeus nichofii,MM,Myanmar,VU,Ray
+Aetomylaeus nichofii,OM,Oman,VU,Ray
+Aetomylaeus nichofii,PK,Pakistan,VU,Ray
+Aetomylaeus nichofii,PH,Philippines,VU,Ray
+Aetomylaeus nichofii,SG,Singapore,VU,Ray
+Aetomylaeus nichofii,LK,Sri Lanka,VU,Ray
+Aetomylaeus nichofii,TW,"Taiwan, Province of China",VU,Ray
+Aetomylaeus nichofii,TH,Thailand,VU,Ray
+Aetomylaeus nichofii,VN,Viet Nam,VU,Ray
+Anoxypristis cuspidata,AU,Australia,EN,Ray
+Anoxypristis cuspidata,BD,Bangladesh,EN,Ray
+Anoxypristis cuspidata,KH,Cambodia,EN,Ray
+Anoxypristis cuspidata,CN,China,EN,Ray
+Anoxypristis cuspidata,IN,India,EN,Ray
+Anoxypristis cuspidata,ID,Indonesia,EN,Ray
+Anoxypristis cuspidata,IR,"Iran, Islamic Republic of",EN,Ray
+Anoxypristis cuspidata,JP,Japan,EN,Ray
+Anoxypristis cuspidata,KP,"Korea, Democratic People's Republic of",EN,Ray
+Anoxypristis cuspidata,MY,Malaysia,EN,Ray
+Anoxypristis cuspidata,MM,Myanmar,EN,Ray
+Anoxypristis cuspidata,OM,Oman,EN,Ray
+Anoxypristis cuspidata,PK,Pakistan,EN,Ray
+Anoxypristis cuspidata,PG,Papua New Guinea,EN,Ray
+Anoxypristis cuspidata,SG,Singapore,EN,Ray
+Anoxypristis cuspidata,SO,Somalia,EN,Ray
+Anoxypristis cuspidata,LK,Sri Lanka,EN,Ray
+Anoxypristis cuspidata,TW,"Taiwan, Province of China",EN,Ray
+Anoxypristis cuspidata,TH,Thailand,EN,Ray
+Anoxypristis cuspidata,TL,Timor-Leste,EN,Ray
+Anoxypristis cuspidata,VN,Viet Nam,EN,Ray
+Anoxypristis cuspidata,YE,Yemen,EN,Ray
+Atelomycterus baliensis,ID,Indonesia,LC,Shark
+Atelomycterus marmoratus,BD,Bangladesh,NT,Shark
+Atelomycterus marmoratus,KH,Cambodia,NT,Shark
+Atelomycterus marmoratus,CN,China,NT,Shark
+Atelomycterus marmoratus,IN,India,NT,Shark
+Atelomycterus marmoratus,ID,Indonesia,NT,Shark
+Atelomycterus marmoratus,MY,Malaysia,NT,Shark
+Atelomycterus marmoratus,PK,Pakistan,NT,Shark
+Atelomycterus marmoratus,PG,Papua New Guinea,NT,Shark
+Atelomycterus marmoratus,PH,Philippines,NT,Shark
+Atelomycterus marmoratus,SG,Singapore,NT,Shark
+Atelomycterus marmoratus,TW,"Taiwan, Province of China",NT,Shark
+Atelomycterus marmoratus,TH,Thailand,NT,Shark
+Atelomycterus marmoratus,TL,Timor-Leste,NT,Shark
+Atelomycterus marmoratus,VN,Viet Nam,NT,Shark
+Aulohalaelurus kanakorum,NC,New Caledonia,DD,Shark
+Bathytoshia lata_new,AL,Albania,VU,Ray
+Bathytoshia lata_new,DZ,Algeria,VU,Ray
+Bathytoshia lata_new,AO,Angola,VU,Ray
+Bathytoshia lata_new,AU,Australia,VU,Ray
+Bathytoshia lata_new,BJ,Benin,VU,Ray
+Bathytoshia lata_new,BA,Bosnia and Herzegovina,VU,Ray
+Bathytoshia lata_new,BN,Brunei Darussalam,VU,Ray
+Bathytoshia lata_new,CI,Côte d'Ivoire,VU,Ray
+Bathytoshia lata_new,CM,Cameroon,VU,Ray
+Bathytoshia lata_new,CV,Cape Verde,VU,Ray
+Bathytoshia lata_new,CG,Congo,VU,Ray
+Bathytoshia lata_new,CD,"Congo, the Democratic Republic of the",VU,Ray
+Bathytoshia lata_new,HR,Croatia,VU,Ray
+Bathytoshia lata_new,CY,Cyprus,VU,Ray
+Bathytoshia lata_new,EG,Egypt,VU,Ray
+Bathytoshia lata_new,GQ,Equatorial Guinea,VU,Ray
+Bathytoshia lata_new,FR,France,VU,Ray
+Bathytoshia lata_new,GA,Gabon,VU,Ray
+Bathytoshia lata_new,GM,Gambia,VU,Ray
+Bathytoshia lata_new,GH,Ghana,VU,Ray
+Bathytoshia lata_new,GI,Gibraltar,VU,Ray
+Bathytoshia lata_new,GR,Greece,VU,Ray
+Bathytoshia lata_new,GN,Guinea,VU,Ray
+Bathytoshia lata_new,GW,Guinea-Bissau,VU,Ray
+Bathytoshia lata_new,IN,India,VU,Ray
+Bathytoshia lata_new,ID,Indonesia,VU,Ray
+Bathytoshia lata_new,IL,Israel,VU,Ray
+Bathytoshia lata_new,IT,Italy,VU,Ray
+Bathytoshia lata_new,JP,Japan,VU,Ray
+Bathytoshia lata_new,JO,Jordan,VU,Ray
+Bathytoshia lata_new,LB,Lebanon,VU,Ray
+Bathytoshia lata_new,LR,Liberia,VU,Ray
+Bathytoshia lata_new,LY,Libya,VU,Ray
+Bathytoshia lata_new,MT,Malta,VU,Ray
+Bathytoshia lata_new,MR,Mauritania,VU,Ray
+Bathytoshia lata_new,MC,Monaco,VU,Ray
+Bathytoshia lata_new,ME,Montenegro,VU,Ray
+Bathytoshia lata_new,MA,Morocco,VU,Ray
+Bathytoshia lata_new,NZ,New Zealand,VU,Ray
+Bathytoshia lata_new,NG,Nigeria,VU,Ray
+Bathytoshia lata_new,OM,Oman,VU,Ray
+Bathytoshia lata_new,PK,Pakistan,VU,Ray
+Bathytoshia lata_new,PS,"Palestine, State of",VU,Ray
+Bathytoshia lata_new,PT,Portugal,VU,Ray
+Bathytoshia lata_new,SN,Senegal,VU,Ray
+Bathytoshia lata_new,SL,Sierra Leone,VU,Ray
+Bathytoshia lata_new,SI,Slovenia,VU,Ray
+Bathytoshia lata_new,ZA,South Africa,VU,Ray
+Bathytoshia lata_new,ES,Spain,VU,Ray
+Bathytoshia lata_new,SY,Syrian Arab Republic,VU,Ray
+Bathytoshia lata_new,TW,"Taiwan, Province of China",VU,Ray
+Bathytoshia lata_new,TH,Thailand,VU,Ray
+Bathytoshia lata_new,TG,Togo,VU,Ray
+Bathytoshia lata_new,TN,Tunisia,VU,Ray
+Bathytoshia lata_new,TR,Turkey,VU,Ray
+Bathytoshia lata_new,EH,Western Sahara,VU,Ray
+Brachaelurus colcloughi,AU,Australia,VU,Shark
+Carcharhinus acronotus,AI,Anguilla,EN,Shark
+Carcharhinus acronotus,AG,Antigua and Barbuda,EN,Shark
+Carcharhinus acronotus,AW,Aruba,EN,Shark
+Carcharhinus acronotus,BS,Bahamas,EN,Shark
+Carcharhinus acronotus,BB,Barbados,EN,Shark
+Carcharhinus acronotus,BZ,Belize,EN,Shark
+Carcharhinus acronotus,BM,Bermuda,EN,Shark
+Carcharhinus acronotus,BQ,"Bonaire, Sint Eustatius and Saba",EN,Shark
+Carcharhinus acronotus,BR,Brazil,EN,Shark
+Carcharhinus acronotus,KY,Cayman Islands,EN,Shark
+Carcharhinus acronotus,CO,Colombia,EN,Shark
+Carcharhinus acronotus,CR,Costa Rica,EN,Shark
+Carcharhinus acronotus,CU,Cuba,EN,Shark
+Carcharhinus acronotus,CW,Curaçao,EN,Shark
+Carcharhinus acronotus,DM,Dominica,EN,Shark
+Carcharhinus acronotus,DO,Dominican Republic,EN,Shark
+Carcharhinus acronotus,GF,French Guiana,EN,Shark
+Carcharhinus acronotus,GD,Grenada,EN,Shark
+Carcharhinus acronotus,GP,Guadeloupe,EN,Shark
+Carcharhinus acronotus,GT,Guatemala,EN,Shark
+Carcharhinus acronotus,GY,Guyana,EN,Shark
+Carcharhinus acronotus,HT,Haiti,EN,Shark
+Carcharhinus acronotus,HN,Honduras,EN,Shark
+Carcharhinus acronotus,JM,Jamaica,EN,Shark
+Carcharhinus acronotus,MQ,Martinique,EN,Shark
+Carcharhinus acronotus,MX,Mexico,EN,Shark
+Carcharhinus acronotus,MS,Montserrat,EN,Shark
+Carcharhinus acronotus,NI,Nicaragua,EN,Shark
+Carcharhinus acronotus,PA,Panama,EN,Shark
+Carcharhinus acronotus,PR,Puerto Rico,EN,Shark
+Carcharhinus acronotus,BL,Saint Barthélemy,EN,Shark
+Carcharhinus acronotus,KN,Saint Kitts and Nevis,EN,Shark
+Carcharhinus acronotus,LC,Saint Lucia,EN,Shark
+Carcharhinus acronotus,MF,Saint Martin (French part),EN,Shark
+Carcharhinus acronotus,PM,Saint Pierre and Miquelon,EN,Shark
+Carcharhinus acronotus,VC,Saint Vincent and the Grenadines,EN,Shark
+Carcharhinus acronotus,SX,Sint Maarten (Dutch part),EN,Shark
+Carcharhinus acronotus,SR,Suriname,EN,Shark
+Carcharhinus acronotus,TT,Trinidad and Tobago,EN,Shark
+Carcharhinus acronotus,TC,Turks and Caicos Islands,EN,Shark
+Carcharhinus acronotus,US,United States,EN,Shark
+Carcharhinus acronotus,UY,Uruguay,EN,Shark
+Carcharhinus acronotus,VE,"Venezuela, Bolivarian Republic of",EN,Shark
+Carcharhinus acronotus,VG,"Virgin Islands, British",EN,Shark
+Carcharhinus acronotus,VI,"Virgin Islands, U.S.",EN,Shark
+Carcharhinus albimarginatus,AU,Australia,VU,Shark
+Carcharhinus albimarginatus,IO,British Indian Ocean Territory,VU,Shark
+Carcharhinus albimarginatus,CC,Cocos (Keeling) Islands,VU,Shark
+Carcharhinus albimarginatus,CO,Colombia,VU,Shark
+Carcharhinus albimarginatus,CR,Costa Rica,VU,Shark
+Carcharhinus albimarginatus,EC,Ecuador,VU,Shark
+Carcharhinus albimarginatus,EG,Egypt,VU,Shark
+Carcharhinus albimarginatus,ER,Eritrea,VU,Shark
+Carcharhinus albimarginatus,PF,French Polynesia,VU,Shark
+Carcharhinus albimarginatus,GU,Guam,VU,Shark
+Carcharhinus albimarginatus,GT,Guatemala,VU,Shark
+Carcharhinus albimarginatus,ID,Indonesia,VU,Shark
+Carcharhinus albimarginatus,KE,Kenya,VU,Shark
+Carcharhinus albimarginatus,KI,Kiribati,VU,Shark
+Carcharhinus albimarginatus,MG,Madagascar,VU,Shark
+Carcharhinus albimarginatus,MH,Marshall Islands,VU,Shark
+Carcharhinus albimarginatus,MU,Mauritius,VU,Shark
+Carcharhinus albimarginatus,MX,Mexico,VU,Shark
+Carcharhinus albimarginatus,NC,New Caledonia,VU,Shark
+Carcharhinus albimarginatus,PW,Palau,VU,Shark
+Carcharhinus albimarginatus,PG,Papua New Guinea,VU,Shark
+Carcharhinus albimarginatus,PH,Philippines,VU,Shark
+Carcharhinus albimarginatus,SA,Saudi Arabia,VU,Shark
+Carcharhinus albimarginatus,SC,Seychelles,VU,Shark
+Carcharhinus albimarginatus,SB,Solomon Islands,VU,Shark
+Carcharhinus albimarginatus,ZA,South Africa,VU,Shark
+Carcharhinus albimarginatus,SD,Sudan,VU,Shark
+Carcharhinus albimarginatus,TW,"Taiwan, Province of China",VU,Shark
+Carcharhinus albimarginatus,TV,Tuvalu,VU,Shark
+Carcharhinus albimarginatus,YE,Yemen,VU,Shark
+Carcharhinus amblyrhynchos,AS,American Samoa,EN,Shark
+Carcharhinus amblyrhynchos,AU,Australia,EN,Shark
+Carcharhinus amblyrhynchos,BH,Bahrain,EN,Shark
+Carcharhinus amblyrhynchos,BD,Bangladesh,EN,Shark
+Carcharhinus amblyrhynchos,IO,British Indian Ocean Territory,EN,Shark
+Carcharhinus amblyrhynchos,KH,Cambodia,EN,Shark
+Carcharhinus amblyrhynchos,CN,China,EN,Shark
+Carcharhinus amblyrhynchos,CX,Christmas Island,EN,Shark
+Carcharhinus amblyrhynchos,CC,Cocos (Keeling) Islands,EN,Shark
+Carcharhinus amblyrhynchos,KM,Comoros,EN,Shark
+Carcharhinus amblyrhynchos,CK,Cook Islands,EN,Shark
+Carcharhinus amblyrhynchos,DJ,Djibouti,EN,Shark
+Carcharhinus amblyrhynchos,EC,Ecuador,EN,Shark
+Carcharhinus amblyrhynchos,EG,Egypt,EN,Shark
+Carcharhinus amblyrhynchos,ER,Eritrea,EN,Shark
+Carcharhinus amblyrhynchos,FJ,Fiji,EN,Shark
+Carcharhinus amblyrhynchos,PF,French Polynesia,EN,Shark
+Carcharhinus amblyrhynchos,GU,Guam,EN,Shark
+Carcharhinus amblyrhynchos,HK,Hong Kong,EN,Shark
+Carcharhinus amblyrhynchos,IN,India,EN,Shark
+Carcharhinus amblyrhynchos,ID,Indonesia,EN,Shark
+Carcharhinus amblyrhynchos,IR,"Iran, Islamic Republic of",EN,Shark
+Carcharhinus amblyrhynchos,IQ,Iraq,EN,Shark
+Carcharhinus amblyrhynchos,JP,Japan,EN,Shark
+Carcharhinus amblyrhynchos,KE,Kenya,EN,Shark
+Carcharhinus amblyrhynchos,KI,Kiribati,EN,Shark
+Carcharhinus amblyrhynchos,KW,Kuwait,EN,Shark
+Carcharhinus amblyrhynchos,MG,Madagascar,EN,Shark
+Carcharhinus amblyrhynchos,MY,Malaysia,EN,Shark
+Carcharhinus amblyrhynchos,MV,Maldives,EN,Shark
+Carcharhinus amblyrhynchos,MH,Marshall Islands,EN,Shark
+Carcharhinus amblyrhynchos,YT,Mayotte,EN,Shark
+Carcharhinus amblyrhynchos,FM,"Micronesia, Federated States of",EN,Shark
+Carcharhinus amblyrhynchos,MZ,Mozambique,EN,Shark
+Carcharhinus amblyrhynchos,MM,Myanmar,EN,Shark
+Carcharhinus amblyrhynchos,NR,Nauru,EN,Shark
+Carcharhinus amblyrhynchos,NC,New Caledonia,EN,Shark
+Carcharhinus amblyrhynchos,NU,Niue,EN,Shark
+Carcharhinus amblyrhynchos,MP,Northern Mariana Islands,EN,Shark
+Carcharhinus amblyrhynchos,OM,Oman,EN,Shark
+Carcharhinus amblyrhynchos,PK,Pakistan,EN,Shark
+Carcharhinus amblyrhynchos,PW,Palau,EN,Shark
+Carcharhinus amblyrhynchos,PG,Papua New Guinea,EN,Shark
+Carcharhinus amblyrhynchos,PH,Philippines,EN,Shark
+Carcharhinus amblyrhynchos,QA,Qatar,EN,Shark
+Carcharhinus amblyrhynchos,RE,Réunion,EN,Shark
+Carcharhinus amblyrhynchos,WS,Samoa,EN,Shark
+Carcharhinus amblyrhynchos,SA,Saudi Arabia,EN,Shark
+Carcharhinus amblyrhynchos,SG,Singapore,EN,Shark
+Carcharhinus amblyrhynchos,SB,Solomon Islands,EN,Shark
+Carcharhinus amblyrhynchos,SO,Somalia,EN,Shark
+Carcharhinus amblyrhynchos,ZA,South Africa,EN,Shark
+Carcharhinus amblyrhynchos,LK,Sri Lanka,EN,Shark
+Carcharhinus amblyrhynchos,SD,Sudan,EN,Shark
+Carcharhinus amblyrhynchos,TW,"Taiwan, Province of China",EN,Shark
+Carcharhinus amblyrhynchos,TZ,"Tanzania, United Republic of",EN,Shark
+Carcharhinus amblyrhynchos,TH,Thailand,EN,Shark
+Carcharhinus amblyrhynchos,TL,Timor-Leste,EN,Shark
+Carcharhinus amblyrhynchos,TK,Tokelau,EN,Shark
+Carcharhinus amblyrhynchos,TO,Tonga,EN,Shark
+Carcharhinus amblyrhynchos,TV,Tuvalu,EN,Shark
+Carcharhinus amblyrhynchos,AE,United Arab Emirates,EN,Shark
+Carcharhinus amblyrhynchos,UM,United States Minor Outlying Islands,EN,Shark
+Carcharhinus amblyrhynchos,VU,Vanuatu,EN,Shark
+Carcharhinus amblyrhynchos,VN,Viet Nam,EN,Shark
+Carcharhinus amblyrhynchos,WF,Wallis and Futuna,EN,Shark
+Carcharhinus amblyrhynchos,YE,Yemen,EN,Shark
+Carcharhinus coatesi,AU,Australia,LC,Shark
+Carcharhinus coatesi,PG,Papua New Guinea,LC,Shark
+Carcharhinus galapagensis,AU,Australia,LC,Shark
+Carcharhinus galapagensis,BM,Bermuda,LC,Shark
+Carcharhinus galapagensis,BR,Brazil,LC,Shark
+Carcharhinus galapagensis,CO,Colombia,LC,Shark
+Carcharhinus galapagensis,CK,Cook Islands,LC,Shark
+Carcharhinus galapagensis,EC,Ecuador,LC,Shark
+Carcharhinus galapagensis,FR,France,LC,Shark
+Carcharhinus galapagensis,PF,French Polynesia,LC,Shark
+Carcharhinus galapagensis,MG,Madagascar,LC,Shark
+Carcharhinus galapagensis,NZ,New Zealand,LC,Shark
+Carcharhinus galapagensis,NF,Norfolk Island,LC,Shark
+Carcharhinus galapagensis,PA,Panama,LC,Shark
+Carcharhinus galapagensis,PT,Portugal,LC,Shark
+Carcharhinus galapagensis,SH,"Saint Helena, Ascension and Tristan da Cunha",LC,Shark
+Carcharhinus galapagensis,WS,Samoa,LC,Shark
+Carcharhinus galapagensis,ST,Sao Tome and Principe,LC,Shark
+Carcharhinus galapagensis,US,United States,LC,Shark
+Carcharhinus leucas,AS,American Samoa,VU,Shark
+Carcharhinus leucas,AO,Angola,VU,Shark
+Carcharhinus leucas,AI,Anguilla,VU,Shark
+Carcharhinus leucas,AG,Antigua and Barbuda,VU,Shark
+Carcharhinus leucas,AW,Aruba,VU,Shark
+Carcharhinus leucas,AU,Australia,VU,Shark
+Carcharhinus leucas,BS,Bahamas,VU,Shark
+Carcharhinus leucas,BH,Bahrain,VU,Shark
+Carcharhinus leucas,BD,Bangladesh,VU,Shark
+Carcharhinus leucas,BB,Barbados,VU,Shark
+Carcharhinus leucas,BZ,Belize,VU,Shark
+Carcharhinus leucas,BJ,Benin,VU,Shark
+Carcharhinus leucas,BQ,"Bonaire, Sint Eustatius and Saba",VU,Shark
+Carcharhinus leucas,BR,Brazil,VU,Shark
+Carcharhinus leucas,BN,Brunei Darussalam,VU,Shark
+Carcharhinus leucas,CI,Côte d'Ivoire,VU,Shark
+Carcharhinus leucas,KH,Cambodia,VU,Shark
+Carcharhinus leucas,CM,Cameroon,VU,Shark
+Carcharhinus leucas,KY,Cayman Islands,VU,Shark
+Carcharhinus leucas,CN,China,VU,Shark
+Carcharhinus leucas,CO,Colombia,VU,Shark
+Carcharhinus leucas,CG,Congo,VU,Shark
+Carcharhinus leucas,CD,"Congo, the Democratic Republic of the",VU,Shark
+Carcharhinus leucas,CR,Costa Rica,VU,Shark
+Carcharhinus leucas,CU,Cuba,VU,Shark
+Carcharhinus leucas,CW,Curaçao,VU,Shark
+Carcharhinus leucas,DJ,Djibouti,VU,Shark
+Carcharhinus leucas,DM,Dominica,VU,Shark
+Carcharhinus leucas,DO,Dominican Republic,VU,Shark
+Carcharhinus leucas,EC,Ecuador,VU,Shark
+Carcharhinus leucas,SV,El Salvador,VU,Shark
+Carcharhinus leucas,GQ,Equatorial Guinea,VU,Shark
+Carcharhinus leucas,FJ,Fiji,VU,Shark
+Carcharhinus leucas,GF,French Guiana,VU,Shark
+Carcharhinus leucas,PF,French Polynesia,VU,Shark
+Carcharhinus leucas,GA,Gabon,VU,Shark
+Carcharhinus leucas,GM,Gambia,VU,Shark
+Carcharhinus leucas,GH,Ghana,VU,Shark
+Carcharhinus leucas,GD,Grenada,VU,Shark
+Carcharhinus leucas,GP,Guadeloupe,VU,Shark
+Carcharhinus leucas,GT,Guatemala,VU,Shark
+Carcharhinus leucas,GN,Guinea,VU,Shark
+Carcharhinus leucas,GW,Guinea-Bissau,VU,Shark
+Carcharhinus leucas,GY,Guyana,VU,Shark
+Carcharhinus leucas,HT,Haiti,VU,Shark
+Carcharhinus leucas,HN,Honduras,VU,Shark
+Carcharhinus leucas,IN,India,VU,Shark
+Carcharhinus leucas,ID,Indonesia,VU,Shark
+Carcharhinus leucas,IR,"Iran, Islamic Republic of",VU,Shark
+Carcharhinus leucas,IQ,Iraq,VU,Shark
+Carcharhinus leucas,JM,Jamaica,VU,Shark
+Carcharhinus leucas,KE,Kenya,VU,Shark
+Carcharhinus leucas,KW,Kuwait,VU,Shark
+Carcharhinus leucas,LR,Liberia,VU,Shark
+Carcharhinus leucas,MG,Madagascar,VU,Shark
+Carcharhinus leucas,MG,Malawi,VU,Shark
+Carcharhinus leucas,MY,Malaysia,VU,Shark
+Carcharhinus leucas,MV,Maldives,VU,Shark
+Carcharhinus leucas,MQ,Martinique,VU,Shark
+Carcharhinus leucas,MR,Mauritania,VU,Shark
+Carcharhinus leucas,MU,Mauritius,VU,Shark
+Carcharhinus leucas,MX,Mexico,VU,Shark
+Carcharhinus leucas,MS,Montserrat,VU,Shark
+Carcharhinus leucas,MA,Morocco,VU,Shark
+Carcharhinus leucas,MZ,Mozambique,VU,Shark
+Carcharhinus leucas,MM,Myanmar,VU,Shark
+Carcharhinus leucas,NA,Namibia,VU,Shark
+Carcharhinus leucas,NC,New Caledonia,VU,Shark
+Carcharhinus leucas,NI,Nicaragua,VU,Shark
+Carcharhinus leucas,NG,Nigeria,VU,Shark
+Carcharhinus leucas,OM,Oman,VU,Shark
+Carcharhinus leucas,PK,Pakistan,VU,Shark
+Carcharhinus leucas,PA,Panama,VU,Shark
+Carcharhinus leucas,PG,Papua New Guinea,VU,Shark
+Carcharhinus leucas,PE,Peru,VU,Shark
+Carcharhinus leucas,PH,Philippines,VU,Shark
+Carcharhinus leucas,PT,Portugal,VU,Shark
+Carcharhinus leucas,PR,Puerto Rico,VU,Shark
+Carcharhinus leucas,QA,Qatar,VU,Shark
+Carcharhinus leucas,RE,Réunion,VU,Shark
+Carcharhinus leucas,KN,Saint Kitts and Nevis,VU,Shark
+Carcharhinus leucas,LC,Saint Lucia,VU,Shark
+Carcharhinus leucas,MF,Saint Martin (French part),VU,Shark
+Carcharhinus leucas,VC,Saint Vincent and the Grenadines,VU,Shark
+Carcharhinus leucas,WS,Samoa,VU,Shark
+Carcharhinus leucas,ST,Sao Tome and Principe,VU,Shark
+Carcharhinus leucas,SA,Saudi Arabia,VU,Shark
+Carcharhinus leucas,SN,Senegal,VU,Shark
+Carcharhinus leucas,SC,Seychelles,VU,Shark
+Carcharhinus leucas,SL,Sierra Leone,VU,Shark
+Carcharhinus leucas,SX,Sint Maarten (Dutch part),VU,Shark
+Carcharhinus leucas,SO,Somalia,VU,Shark
+Carcharhinus leucas,ZA,South Africa,VU,Shark
+Carcharhinus leucas,ES,Spain,VU,Shark
+Carcharhinus leucas,LK,Sri Lanka,VU,Shark
+Carcharhinus leucas,SR,Suriname,VU,Shark
+Carcharhinus leucas,TW,"Taiwan, Province of China",VU,Shark
+Carcharhinus leucas,TZ,"Tanzania, United Republic of",VU,Shark
+Carcharhinus leucas,TH,Thailand,VU,Shark
+Carcharhinus leucas,TG,Togo,VU,Shark
+Carcharhinus leucas,TO,Tonga,VU,Shark
+Carcharhinus leucas,TT,Trinidad and Tobago,VU,Shark
+Carcharhinus leucas,TC,Turks and Caicos Islands,VU,Shark
+Carcharhinus leucas,AE,United Arab Emirates,VU,Shark
+Carcharhinus leucas,US,United States,VU,Shark
+Carcharhinus leucas,VE,"Venezuela, Bolivarian Republic of",VU,Shark
+Carcharhinus leucas,VN,Viet Nam,VU,Shark
+Carcharhinus leucas,VG,"Virgin Islands, British",VU,Shark
+Carcharhinus leucas,VI,"Virgin Islands, U.S.",VU,Shark
+Carcharhinus leucas,EH,Western Sahara,VU,Shark
+Carcharhinus leucas,YE,Yemen,VU,Shark
+Carcharhinus leucas,ZW,Zimbabwe,VU,Shark
+Carcharhinus limbatus,AL,Albania,VU,Shark
+Carcharhinus limbatus,DZ,Algeria,VU,Shark
+Carcharhinus limbatus,AO,Angola,VU,Shark
+Carcharhinus limbatus,AI,Anguilla,VU,Shark
+Carcharhinus limbatus,AG,Antigua and Barbuda,VU,Shark
+Carcharhinus limbatus,AW,Aruba,VU,Shark
+Carcharhinus limbatus,AU,Australia,VU,Shark
+Carcharhinus limbatus,BS,Bahamas,VU,Shark
+Carcharhinus limbatus,BH,Bahrain,VU,Shark
+Carcharhinus limbatus,BD,Bangladesh,VU,Shark
+Carcharhinus limbatus,BB,Barbados,VU,Shark
+Carcharhinus limbatus,BZ,Belize,VU,Shark
+Carcharhinus limbatus,BJ,Benin,VU,Shark
+Carcharhinus limbatus,BQ,"Bonaire, Sint Eustatius and Saba",VU,Shark
+Carcharhinus limbatus,BA,Bosnia and Herzegovina,VU,Shark
+Carcharhinus limbatus,BR,Brazil,VU,Shark
+Carcharhinus limbatus,BN,Brunei Darussalam,VU,Shark
+Carcharhinus limbatus,CI,Côte d'Ivoire,VU,Shark
+Carcharhinus limbatus,KH,Cambodia,VU,Shark
+Carcharhinus limbatus,CM,Cameroon,VU,Shark
+Carcharhinus limbatus,CN,China,VU,Shark
+Carcharhinus limbatus,CO,Colombia,VU,Shark
+Carcharhinus limbatus,CG,Congo,VU,Shark
+Carcharhinus limbatus,CD,"Congo, the Democratic Republic of the",VU,Shark
+Carcharhinus limbatus,CR,Costa Rica,VU,Shark
+Carcharhinus limbatus,HR,Croatia,VU,Shark
+Carcharhinus limbatus,CU,Cuba,VU,Shark
+Carcharhinus limbatus,CW,Curaçao,VU,Shark
+Carcharhinus limbatus,DJ,Djibouti,VU,Shark
+Carcharhinus limbatus,DM,Dominica,VU,Shark
+Carcharhinus limbatus,DO,Dominican Republic,VU,Shark
+Carcharhinus limbatus,EC,Ecuador,VU,Shark
+Carcharhinus limbatus,EG,Egypt,VU,Shark
+Carcharhinus limbatus,SV,El Salvador,VU,Shark
+Carcharhinus limbatus,GQ,Equatorial Guinea,VU,Shark
+Carcharhinus limbatus,ER,Eritrea,VU,Shark
+Carcharhinus limbatus,FJ,Fiji,VU,Shark
+Carcharhinus limbatus,FR,France,VU,Shark
+Carcharhinus limbatus,GF,French Guiana,VU,Shark
+Carcharhinus limbatus,PF,French Polynesia,VU,Shark
+Carcharhinus limbatus,GA,Gabon,VU,Shark
+Carcharhinus limbatus,GM,Gambia,VU,Shark
+Carcharhinus limbatus,GH,Ghana,VU,Shark
+Carcharhinus limbatus,GR,Greece,VU,Shark
+Carcharhinus limbatus,GD,Grenada,VU,Shark
+Carcharhinus limbatus,GT,Guatemala,VU,Shark
+Carcharhinus limbatus,GN,Guinea,VU,Shark
+Carcharhinus limbatus,GW,Guinea-Bissau,VU,Shark
+Carcharhinus limbatus,GY,Guyana,VU,Shark
+Carcharhinus limbatus,HT,Haiti,VU,Shark
+Carcharhinus limbatus,HN,Honduras,VU,Shark
+Carcharhinus limbatus,IN,India,VU,Shark
+Carcharhinus limbatus,ID,Indonesia,VU,Shark
+Carcharhinus limbatus,IR,"Iran, Islamic Republic of",VU,Shark
+Carcharhinus limbatus,IQ,Iraq,VU,Shark
+Carcharhinus limbatus,IL,Israel,VU,Shark
+Carcharhinus limbatus,IT,Italy,VU,Shark
+Carcharhinus limbatus,JM,Jamaica,VU,Shark
+Carcharhinus limbatus,JP,Japan,VU,Shark
+Carcharhinus limbatus,KE,Kenya,VU,Shark
+Carcharhinus limbatus,KW,Kuwait,VU,Shark
+Carcharhinus limbatus,LB,Lebanon,VU,Shark
+Carcharhinus limbatus,LR,Liberia,VU,Shark
+Carcharhinus limbatus,LY,Libya,VU,Shark
+Carcharhinus limbatus,MG,Madagascar,VU,Shark
+Carcharhinus limbatus,MY,Malaysia,VU,Shark
+Carcharhinus limbatus,MT,Malta,VU,Shark
+Carcharhinus limbatus,MQ,Martinique,VU,Shark
+Carcharhinus limbatus,MR,Mauritania,VU,Shark
+Carcharhinus limbatus,MX,Mexico,VU,Shark
+Carcharhinus limbatus,ME,Montenegro,VU,Shark
+Carcharhinus limbatus,MS,Montserrat,VU,Shark
+Carcharhinus limbatus,MA,Morocco,VU,Shark
+Carcharhinus limbatus,MZ,Mozambique,VU,Shark
+Carcharhinus limbatus,MM,Myanmar,VU,Shark
+Carcharhinus limbatus,NC,New Caledonia,VU,Shark
+Carcharhinus limbatus,NI,Nicaragua,VU,Shark
+Carcharhinus limbatus,NG,Nigeria,VU,Shark
+Carcharhinus limbatus,OM,Oman,VU,Shark
+Carcharhinus limbatus,PK,Pakistan,VU,Shark
+Carcharhinus limbatus,PA,Panama,VU,Shark
+Carcharhinus limbatus,PG,Papua New Guinea,VU,Shark
+Carcharhinus limbatus,PE,Peru,VU,Shark
+Carcharhinus limbatus,PH,Philippines,VU,Shark
+Carcharhinus limbatus,PT,Portugal,VU,Shark
+Carcharhinus limbatus,PR,Puerto Rico,VU,Shark
+Carcharhinus limbatus,QA,Qatar,VU,Shark
+Carcharhinus limbatus,KN,Saint Kitts and Nevis,VU,Shark
+Carcharhinus limbatus,LC,Saint Lucia,VU,Shark
+Carcharhinus limbatus,MF,Saint Martin (French part),VU,Shark
+Carcharhinus limbatus,VC,Saint Vincent and the Grenadines,VU,Shark
+Carcharhinus limbatus,WS,Samoa,VU,Shark
+Carcharhinus limbatus,ST,Sao Tome and Principe,VU,Shark
+Carcharhinus limbatus,SA,Saudi Arabia,VU,Shark
+Carcharhinus limbatus,SN,Senegal,VU,Shark
+Carcharhinus limbatus,SC,Seychelles,VU,Shark
+Carcharhinus limbatus,SL,Sierra Leone,VU,Shark
+Carcharhinus limbatus,SX,Sint Maarten (Dutch part),VU,Shark
+Carcharhinus limbatus,SI,Slovenia,VU,Shark
+Carcharhinus limbatus,SB,Solomon Islands,VU,Shark
+Carcharhinus limbatus,SO,Somalia,VU,Shark
+Carcharhinus limbatus,ZA,South Africa,VU,Shark
+Carcharhinus limbatus,ES,Spain,VU,Shark
+Carcharhinus limbatus,LK,Sri Lanka,VU,Shark
+Carcharhinus limbatus,SD,Sudan,VU,Shark
+Carcharhinus limbatus,SR,Suriname,VU,Shark
+Carcharhinus limbatus,SY,Syrian Arab Republic,VU,Shark
+Carcharhinus limbatus,TW,"Taiwan, Province of China",VU,Shark
+Carcharhinus limbatus,TZ,"Tanzania, United Republic of",VU,Shark
+Carcharhinus limbatus,TH,Thailand,VU,Shark
+Carcharhinus limbatus,TL,Timor-Leste,VU,Shark
+Carcharhinus limbatus,TG,Togo,VU,Shark
+Carcharhinus limbatus,TO,Tonga,VU,Shark
+Carcharhinus limbatus,TT,Trinidad and Tobago,VU,Shark
+Carcharhinus limbatus,TN,Tunisia,VU,Shark
+Carcharhinus limbatus,TR,Turkey,VU,Shark
+Carcharhinus limbatus,TC,Turks and Caicos Islands,VU,Shark
+Carcharhinus limbatus,AE,United Arab Emirates,VU,Shark
+Carcharhinus limbatus,US,United States,VU,Shark
+Carcharhinus limbatus,VE,"Venezuela, Bolivarian Republic of",VU,Shark
+Carcharhinus limbatus,VN,Viet Nam,VU,Shark
+Carcharhinus limbatus,VG,"Virgin Islands, British",VU,Shark
+Carcharhinus limbatus,VI,"Virgin Islands, U.S.",VU,Shark
+Carcharhinus limbatus,EH,Western Sahara,VU,Shark
+Carcharhinus limbatus,YE,Yemen,VU,Shark
+Carcharhinus melanopterus,AS,American Samoa,VU,Shark
+Carcharhinus melanopterus,AU,Australia,VU,Shark
+Carcharhinus melanopterus,BD,Bangladesh,VU,Shark
+Carcharhinus melanopterus,IO,British Indian Ocean Territory,VU,Shark
+Carcharhinus melanopterus,BN,Brunei Darussalam,VU,Shark
+Carcharhinus melanopterus,KH,Cambodia,VU,Shark
+Carcharhinus melanopterus,CN,China,VU,Shark
+Carcharhinus melanopterus,CX,Christmas Island,VU,Shark
+Carcharhinus melanopterus,CC,Cocos (Keeling) Islands,VU,Shark
+Carcharhinus melanopterus,KM,Comoros,VU,Shark
+Carcharhinus melanopterus,CK,Cook Islands,VU,Shark
+Carcharhinus melanopterus,CR,Costa Rica,VU,Shark
+Carcharhinus melanopterus,DJ,Djibouti,VU,Shark
+Carcharhinus melanopterus,EG,Egypt,VU,Shark
+Carcharhinus melanopterus,ER,Eritrea,VU,Shark
+Carcharhinus melanopterus,FJ,Fiji,VU,Shark
+Carcharhinus melanopterus,PF,French Polynesia,VU,Shark
+Carcharhinus melanopterus,GU,Guam,VU,Shark
+Carcharhinus melanopterus,HK,Hong Kong,VU,Shark
+Carcharhinus melanopterus,IN,India,VU,Shark
+Carcharhinus melanopterus,ID,Indonesia,VU,Shark
+Carcharhinus melanopterus,IR,"Iran, Islamic Republic of",VU,Shark
+Carcharhinus melanopterus,IQ,Iraq,VU,Shark
+Carcharhinus melanopterus,IL,Israel,VU,Shark
+Carcharhinus melanopterus,JP,Japan,VU,Shark
+Carcharhinus melanopterus,KE,Kenya,VU,Shark
+Carcharhinus melanopterus,KI,Kiribati,VU,Shark
+Carcharhinus melanopterus,MG,Madagascar,VU,Shark
+Carcharhinus melanopterus,MY,Malaysia,VU,Shark
+Carcharhinus melanopterus,MV,Maldives,VU,Shark
+Carcharhinus melanopterus,MH,Marshall Islands,VU,Shark
+Carcharhinus melanopterus,MU,Mauritius,VU,Shark
+Carcharhinus melanopterus,YT,Mayotte,VU,Shark
+Carcharhinus melanopterus,FM,"Micronesia, Federated States of",VU,Shark
+Carcharhinus melanopterus,MZ,Mozambique,VU,Shark
+Carcharhinus melanopterus,MM,Myanmar,VU,Shark
+Carcharhinus melanopterus,NR,Nauru,VU,Shark
+Carcharhinus melanopterus,NC,New Caledonia,VU,Shark
+Carcharhinus melanopterus,NU,Niue,VU,Shark
+Carcharhinus melanopterus,MP,Northern Mariana Islands,VU,Shark
+Carcharhinus melanopterus,OM,Oman,VU,Shark
+Carcharhinus melanopterus,PK,Pakistan,VU,Shark
+Carcharhinus melanopterus,PW,Palau,VU,Shark
+Carcharhinus melanopterus,PG,Papua New Guinea,VU,Shark
+Carcharhinus melanopterus,PH,Philippines,VU,Shark
+Carcharhinus melanopterus,QA,Qatar,VU,Shark
+Carcharhinus melanopterus,RE,Réunion,VU,Shark
+Carcharhinus melanopterus,WS,Samoa,VU,Shark
+Carcharhinus melanopterus,SA,Saudi Arabia,VU,Shark
+Carcharhinus melanopterus,SC,Seychelles,VU,Shark
+Carcharhinus melanopterus,SG,Singapore,VU,Shark
+Carcharhinus melanopterus,SB,Solomon Islands,VU,Shark
+Carcharhinus melanopterus,SO,Somalia,VU,Shark
+Carcharhinus melanopterus,ZA,South Africa,VU,Shark
+Carcharhinus melanopterus,LK,Sri Lanka,VU,Shark
+Carcharhinus melanopterus,SD,Sudan,VU,Shark
+Carcharhinus melanopterus,TW,"Taiwan, Province of China",VU,Shark
+Carcharhinus melanopterus,TZ,"Tanzania, United Republic of",VU,Shark
+Carcharhinus melanopterus,TH,Thailand,VU,Shark
+Carcharhinus melanopterus,TL,Timor-Leste,VU,Shark
+Carcharhinus melanopterus,TK,Tokelau,VU,Shark
+Carcharhinus melanopterus,TO,Tonga,VU,Shark
+Carcharhinus melanopterus,TN,Tunisia,VU,Shark
+Carcharhinus melanopterus,TV,Tuvalu,VU,Shark
+Carcharhinus melanopterus,AE,United Arab Emirates,VU,Shark
+Carcharhinus melanopterus,UM,United States Minor Outlying Islands,VU,Shark
+Carcharhinus melanopterus,VU,Vanuatu,VU,Shark
+Carcharhinus melanopterus,VN,Viet Nam,VU,Shark
+Carcharhinus melanopterus,WF,Wallis and Futuna,VU,Shark
+Carcharhinus melanopterus,YE,Yemen,VU,Shark
+Carcharhinus perezi,AI,Anguilla,EN,Shark
+Carcharhinus perezi,AG,Antigua and Barbuda,EN,Shark
+Carcharhinus perezi,AW,Aruba,EN,Shark
+Carcharhinus perezi,BS,Bahamas,EN,Shark
+Carcharhinus perezi,BB,Barbados,EN,Shark
+Carcharhinus perezi,BZ,Belize,EN,Shark
+Carcharhinus perezi,BM,Bermuda,EN,Shark
+Carcharhinus perezi,BQ,"Bonaire, Sint Eustatius and Saba",EN,Shark
+Carcharhinus perezi,BR,Brazil,EN,Shark
+Carcharhinus perezi,KY,Cayman Islands,EN,Shark
+Carcharhinus perezi,CO,Colombia,EN,Shark
+Carcharhinus perezi,CR,Costa Rica,EN,Shark
+Carcharhinus perezi,CU,Cuba,EN,Shark
+Carcharhinus perezi,CW,Curaçao,EN,Shark
+Carcharhinus perezi,DM,Dominica,EN,Shark
+Carcharhinus perezi,DO,Dominican Republic,EN,Shark
+Carcharhinus perezi,GF,French Guiana,EN,Shark
+Carcharhinus perezi,GD,Grenada,EN,Shark
+Carcharhinus perezi,GP,Guadeloupe,EN,Shark
+Carcharhinus perezi,GT,Guatemala,EN,Shark
+Carcharhinus perezi,GY,Guyana,EN,Shark
+Carcharhinus perezi,HT,Haiti,EN,Shark
+Carcharhinus perezi,HN,Honduras,EN,Shark
+Carcharhinus perezi,JM,Jamaica,EN,Shark
+Carcharhinus perezi,MQ,Martinique,EN,Shark
+Carcharhinus perezi,MX,Mexico,EN,Shark
+Carcharhinus perezi,MS,Montserrat,EN,Shark
+Carcharhinus perezi,NI,Nicaragua,EN,Shark
+Carcharhinus perezi,PA,Panama,EN,Shark
+Carcharhinus perezi,PR,Puerto Rico,EN,Shark
+Carcharhinus perezi,BL,Saint Barthélemy,EN,Shark
+Carcharhinus perezi,KN,Saint Kitts and Nevis,EN,Shark
+Carcharhinus perezi,LC,Saint Lucia,EN,Shark
+Carcharhinus perezi,MF,Saint Martin (French part),EN,Shark
+Carcharhinus perezi,VC,Saint Vincent and the Grenadines,EN,Shark
+Carcharhinus perezi,SX,Sint Maarten (Dutch part),EN,Shark
+Carcharhinus perezi,SR,Suriname,EN,Shark
+Carcharhinus perezi,TT,Trinidad and Tobago,EN,Shark
+Carcharhinus perezi,TC,Turks and Caicos Islands,EN,Shark
+Carcharhinus perezi,US,United States,EN,Shark
+Carcharhinus perezi,VE,"Venezuela, Bolivarian Republic of",EN,Shark
+Carcharhinus perezi,VG,"Virgin Islands, British",EN,Shark
+Carcharhinus perezi,VI,"Virgin Islands, U.S.",EN,Shark
+Carcharhinus sorrah,AU,Australia,NT,Shark
+Carcharhinus sorrah,BH,Bahrain,NT,Shark
+Carcharhinus sorrah,BN,Brunei Darussalam,NT,Shark
+Carcharhinus sorrah,KH,Cambodia,NT,Shark
+Carcharhinus sorrah,CN,China,NT,Shark
+Carcharhinus sorrah,DJ,Djibouti,NT,Shark
+Carcharhinus sorrah,EG,Egypt,NT,Shark
+Carcharhinus sorrah,ER,Eritrea,NT,Shark
+Carcharhinus sorrah,HK,Hong Kong,NT,Shark
+Carcharhinus sorrah,IN,India,NT,Shark
+Carcharhinus sorrah,ID,Indonesia,NT,Shark
+Carcharhinus sorrah,IR,"Iran, Islamic Republic of",NT,Shark
+Carcharhinus sorrah,IQ,Iraq,NT,Shark
+Carcharhinus sorrah,KE,Kenya,NT,Shark
+Carcharhinus sorrah,KW,Kuwait,NT,Shark
+Carcharhinus sorrah,MG,Madagascar,NT,Shark
+Carcharhinus sorrah,MY,Malaysia,NT,Shark
+Carcharhinus sorrah,MZ,Mozambique,NT,Shark
+Carcharhinus sorrah,MM,Myanmar,NT,Shark
+Carcharhinus sorrah,OM,Oman,NT,Shark
+Carcharhinus sorrah,PK,Pakistan,NT,Shark
+Carcharhinus sorrah,PG,Papua New Guinea,NT,Shark
+Carcharhinus sorrah,PH,Philippines,NT,Shark
+Carcharhinus sorrah,QA,Qatar,NT,Shark
+Carcharhinus sorrah,SA,Saudi Arabia,NT,Shark
+Carcharhinus sorrah,SC,Seychelles,NT,Shark
+Carcharhinus sorrah,SG,Singapore,NT,Shark
+Carcharhinus sorrah,SB,Solomon Islands,NT,Shark
+Carcharhinus sorrah,SO,Somalia,NT,Shark
+Carcharhinus sorrah,ZA,South Africa,NT,Shark
+Carcharhinus sorrah,LK,Sri Lanka,NT,Shark
+Carcharhinus sorrah,SD,Sudan,NT,Shark
+Carcharhinus sorrah,TW,"Taiwan, Province of China",NT,Shark
+Carcharhinus sorrah,TZ,"Tanzania, United Republic of",NT,Shark
+Carcharhinus sorrah,TH,Thailand,NT,Shark
+Carcharhinus sorrah,TL,Timor-Leste,NT,Shark
+Carcharhinus sorrah,AE,United Arab Emirates,NT,Shark
+Carcharhinus sorrah,VN,Viet Nam,NT,Shark
+Carcharhinus sorrah,YE,Yemen,NT,Shark
+Carcharias taurus,AL,Albania,CR,Shark
+Carcharias taurus,DZ,Algeria,CR,Shark
+Carcharias taurus,AO,Angola,CR,Shark
+Carcharias taurus,AR,Argentina,CR,Shark
+Carcharias taurus,AU,Australia,CR,Shark
+Carcharias taurus,BS,Bahamas,CR,Shark
+Carcharias taurus,BH,Bahrain,CR,Shark
+Carcharias taurus,BJ,Benin,CR,Shark
+Carcharias taurus,BA,Bosnia and Herzegovina,CR,Shark
+Carcharias taurus,BR,Brazil,CR,Shark
+Carcharias taurus,CI,Côte d'Ivoire,CR,Shark
+Carcharias taurus,CI,Cabo Verde,CR,Shark
+Carcharias taurus,KH,Cambodia,CR,Shark
+Carcharias taurus,CM,Cameroon,CR,Shark
+Carcharias taurus,CN,China,CR,Shark
+Carcharias taurus,CG,Congo,CR,Shark
+Carcharias taurus,CD,"Congo, the Democratic Republic of the",CR,Shark
+Carcharias taurus,HR,Croatia,CR,Shark
+Carcharias taurus,EG,Egypt,CR,Shark
+Carcharias taurus,ER,Eritrea,CR,Shark
+Carcharias taurus,FR,France,CR,Shark
+Carcharias taurus,GM,Gambia,CR,Shark
+Carcharias taurus,GH,Ghana,CR,Shark
+Carcharias taurus,GR,Greece,CR,Shark
+Carcharias taurus,GW,Guinea-Bissau,CR,Shark
+Carcharias taurus,IN,India,CR,Shark
+Carcharias taurus,ID,Indonesia,CR,Shark
+Carcharias taurus,IR,"Iran, Islamic Republic of",CR,Shark
+Carcharias taurus,IQ,Iraq,CR,Shark
+Carcharias taurus,IL,Israel,CR,Shark
+Carcharias taurus,IT,Italy,CR,Shark
+Carcharias taurus,JP,Japan,CR,Shark
+Carcharias taurus,KP,"Korea, Democratic People's Republic of",CR,Shark
+Carcharias taurus,KR,"Korea, Republic of",CR,Shark
+Carcharias taurus,KW,Kuwait,CR,Shark
+Carcharias taurus,LY,Libya,CR,Shark
+Carcharias taurus,MT,Malta,CR,Shark
+Carcharias taurus,MR,Mauritania,CR,Shark
+Carcharias taurus,ME,Montenegro,CR,Shark
+Carcharias taurus,MA,Morocco,CR,Shark
+Carcharias taurus,MZ,Mozambique,CR,Shark
+Carcharias taurus,MM,Myanmar,CR,Shark
+Carcharias taurus,NA,Namibia,CR,Shark
+Carcharias taurus,NG,Nigeria,CR,Shark
+Carcharias taurus,OM,Oman,CR,Shark
+Carcharias taurus,PK,Pakistan,CR,Shark
+Carcharias taurus,PG,Papua New Guinea,CR,Shark
+Carcharias taurus,QA,Qatar,CR,Shark
+Carcharias taurus,SA,Saudi Arabia,CR,Shark
+Carcharias taurus,SN,Senegal,CR,Shark
+Carcharias taurus,SI,Slovenia,CR,Shark
+Carcharias taurus,ZA,South Africa,CR,Shark
+Carcharias taurus,ES,Spain,CR,Shark
+Carcharias taurus,SD,Sudan,CR,Shark
+Carcharias taurus,TW,"Taiwan, Province of China",CR,Shark
+Carcharias taurus,TZ,"Tanzania, United Republic of",CR,Shark
+Carcharias taurus,TH,Thailand,CR,Shark
+Carcharias taurus,TG,Togo,CR,Shark
+Carcharias taurus,TN,Tunisia,CR,Shark
+Carcharias taurus,AE,United Arab Emirates,CR,Shark
+Carcharias taurus,US,United States,CR,Shark
+Carcharias taurus,UY,Uruguay,CR,Shark
+Carcharias taurus,VN,Viet Nam,CR,Shark
+Carcharias taurus,EH,Western Sahara,CR,Shark
+Carcharias taurus,YE,Yemen,CR,Shark
+Chiloscyllium arabicum,BH,Bahrain,NT,Shark
+Chiloscyllium arabicum,IN,India,NT,Shark
+Chiloscyllium arabicum,IR,"Iran, Islamic Republic of",NT,Shark
+Chiloscyllium arabicum,IQ,Iraq,NT,Shark
+Chiloscyllium arabicum,KW,Kuwait,NT,Shark
+Chiloscyllium arabicum,OM,Oman,NT,Shark
+Chiloscyllium arabicum,PK,Pakistan,NT,Shark
+Chiloscyllium arabicum,QA,Qatar,NT,Shark
+Chiloscyllium arabicum,SA,Saudi Arabia,NT,Shark
+Chiloscyllium arabicum,AE,United Arab Emirates,NT,Shark
+Chiloscyllium burmensis,BD,Bangladesh,VU,Shark
+Chiloscyllium burmensis,IN,India,VU,Shark
+Chiloscyllium burmensis,MM,Myanmar,VU,Shark
+Chiloscyllium caeruleopunctatum,MG,Madagascar,DD,Shark
+Chiloscyllium griseum,BD,Bangladesh,VU,Shark
+Chiloscyllium griseum,CN,China,VU,Shark
+Chiloscyllium griseum,IN,India,VU,Shark
+Chiloscyllium griseum,ID,Indonesia,VU,Shark
+Chiloscyllium griseum,MY,Malaysia,VU,Shark
+Chiloscyllium griseum,MM,Myanmar,VU,Shark
+Chiloscyllium griseum,PK,Pakistan,VU,Shark
+Chiloscyllium griseum,PG,Papua New Guinea,VU,Shark
+Chiloscyllium griseum,LK,Sri Lanka,VU,Shark
+Chiloscyllium griseum,TH,Thailand,VU,Shark
+Chiloscyllium griseum,VN,Viet Nam,VU,Shark
+Chiloscyllium hasselti,BD,Bangladesh,EN,Shark
+Chiloscyllium hasselti,BN,Brunei Darussalam,EN,Shark
+Chiloscyllium hasselti,IN,India,EN,Shark
+Chiloscyllium hasselti,ID,Indonesia,EN,Shark
+Chiloscyllium hasselti,MY,Malaysia,EN,Shark
+Chiloscyllium hasselti,MM,Myanmar,EN,Shark
+Chiloscyllium hasselti,SG,Singapore,EN,Shark
+Chiloscyllium hasselti,TH,Thailand,EN,Shark
+Chiloscyllium hasselti,VN,Viet Nam,EN,Shark
+Chiloscyllium indicum,BD,Bangladesh,VU,Shark
+Chiloscyllium indicum,KH,Cambodia,VU,Shark
+Chiloscyllium indicum,CN,China,VU,Shark
+Chiloscyllium indicum,IN,India,VU,Shark
+Chiloscyllium indicum,ID,Indonesia,VU,Shark
+Chiloscyllium indicum,JP,Japan,VU,Shark
+Chiloscyllium indicum,KR,"Korea, Republic of",VU,Shark
+Chiloscyllium indicum,MY,Malaysia,VU,Shark
+Chiloscyllium indicum,MM,Myanmar,VU,Shark
+Chiloscyllium indicum,PG,Papua New Guinea,VU,Shark
+Chiloscyllium indicum,PH,Philippines,VU,Shark
+Chiloscyllium indicum,SG,Singapore,VU,Shark
+Chiloscyllium indicum,SB,Solomon Islands,VU,Shark
+Chiloscyllium indicum,LK,Sri Lanka,VU,Shark
+Chiloscyllium indicum,TW,"Taiwan, Province of China",VU,Shark
+Chiloscyllium indicum,TH,Thailand,VU,Shark
+Chiloscyllium indicum,VN,Viet Nam,VU,Shark
+Chiloscyllium plagiosum,BD,Bangladesh,NT,Shark
+Chiloscyllium plagiosum,KH,Cambodia,NT,Shark
+Chiloscyllium plagiosum,CN,China,NT,Shark
+Chiloscyllium plagiosum,IN,India,NT,Shark
+Chiloscyllium plagiosum,ID,Indonesia,NT,Shark
+Chiloscyllium plagiosum,JP,Japan,NT,Shark
+Chiloscyllium plagiosum,MY,Malaysia,NT,Shark
+Chiloscyllium plagiosum,MM,Myanmar,NT,Shark
+Chiloscyllium plagiosum,PG,Papua New Guinea,NT,Shark
+Chiloscyllium plagiosum,PH,Philippines,NT,Shark
+Chiloscyllium plagiosum,SG,Singapore,NT,Shark
+Chiloscyllium plagiosum,LK,Sri Lanka,NT,Shark
+Chiloscyllium plagiosum,TW,"Taiwan, Province of China",NT,Shark
+Chiloscyllium plagiosum,TH,Thailand,NT,Shark
+Chiloscyllium plagiosum,VN,Viet Nam,NT,Shark
+Chiloscyllium punctatum,AU,Australia,NT,Shark
+Chiloscyllium punctatum,KH,Cambodia,NT,Shark
+Chiloscyllium punctatum,CN,China,NT,Shark
+Chiloscyllium punctatum,IN,India,NT,Shark
+Chiloscyllium punctatum,ID,Indonesia,NT,Shark
+Chiloscyllium punctatum,JP,Japan,NT,Shark
+Chiloscyllium punctatum,MY,Malaysia,NT,Shark
+Chiloscyllium punctatum,PG,Papua New Guinea,NT,Shark
+Chiloscyllium punctatum,PH,Philippines,NT,Shark
+Chiloscyllium punctatum,SG,Singapore,NT,Shark
+Chiloscyllium punctatum,TW,"Taiwan, Province of China",NT,Shark
+Chiloscyllium punctatum,TH,Thailand,NT,Shark
+Chiloscyllium punctatum,TL,Timor-Leste,NT,Shark
+Chiloscyllium punctatum,VN,Viet Nam,NT,Shark
+Diplobatis picta,BR,Brazil,VU,Ray
+Diplobatis picta,CO,Colombia,VU,Ray
+Diplobatis picta,GF,French Guiana,VU,Ray
+Diplobatis picta,GY,Guyana,VU,Ray
+Diplobatis picta,SR,Suriname,VU,Ray
+Diplobatis picta,TT,Trinidad and Tobago,VU,Ray
+Diplobatis picta,VE,"Venezuela, Bolivarian Republic of",VU,Ray
+Eucrossorhinus dasypogon,AU,Australia,LC,Shark
+Eucrossorhinus dasypogon,ID,Indonesia,LC,Shark
+Eucrossorhinus dasypogon,PG,Papua New Guinea,LC,Shark
+Galeocerdo cuvier,AS,American Samoa,NT,Shark
+Galeocerdo cuvier,AO,Angola,NT,Shark
+Galeocerdo cuvier,AI,Anguilla,NT,Shark
+Galeocerdo cuvier,AG,Antigua and Barbuda,NT,Shark
+Galeocerdo cuvier,AW,Aruba,NT,Shark
+Galeocerdo cuvier,AU,Australia,NT,Shark
+Galeocerdo cuvier,BH,Bahrain,NT,Shark
+Galeocerdo cuvier,BB,Barbados,NT,Shark
+Galeocerdo cuvier,BZ,Belize,NT,Shark
+Galeocerdo cuvier,BJ,Benin,NT,Shark
+Galeocerdo cuvier,BM,Bermuda,NT,Shark
+Galeocerdo cuvier,BR,Brazil,NT,Shark
+Galeocerdo cuvier,CI,Côte d'Ivoire,NT,Shark
+Galeocerdo cuvier,CM,Cameroon,NT,Shark
+Galeocerdo cuvier,KY,Cayman Islands,NT,Shark
+Galeocerdo cuvier,CN,China,NT,Shark
+Galeocerdo cuvier,CO,Colombia,NT,Shark
+Galeocerdo cuvier,CG,Congo,NT,Shark
+Galeocerdo cuvier,CK,Cook Islands,NT,Shark
+Galeocerdo cuvier,CR,Costa Rica,NT,Shark
+Galeocerdo cuvier,CU,Cuba,NT,Shark
+Galeocerdo cuvier,DJ,Djibouti,NT,Shark
+Galeocerdo cuvier,DM,Dominica,NT,Shark
+Galeocerdo cuvier,DO,Dominican Republic,NT,Shark
+Galeocerdo cuvier,EC,Ecuador,NT,Shark
+Galeocerdo cuvier,EG,Egypt,NT,Shark
+Galeocerdo cuvier,GQ,Equatorial Guinea,NT,Shark
+Galeocerdo cuvier,ER,Eritrea,NT,Shark
+Galeocerdo cuvier,FJ,Fiji,NT,Shark
+Galeocerdo cuvier,GF,French Guiana,NT,Shark
+Galeocerdo cuvier,PF,French Polynesia,NT,Shark
+Galeocerdo cuvier,GA,Gabon,NT,Shark
+Galeocerdo cuvier,GM,Gambia,NT,Shark
+Galeocerdo cuvier,GH,Ghana,NT,Shark
+Galeocerdo cuvier,GD,Grenada,NT,Shark
+Galeocerdo cuvier,GP,Guadeloupe,NT,Shark
+Galeocerdo cuvier,GU,Guam,NT,Shark
+Galeocerdo cuvier,GT,Guatemala,NT,Shark
+Galeocerdo cuvier,GN,Guinea,NT,Shark
+Galeocerdo cuvier,GW,Guinea-Bissau,NT,Shark
+Galeocerdo cuvier,GY,Guyana,NT,Shark
+Galeocerdo cuvier,HT,Haiti,NT,Shark
+Galeocerdo cuvier,HN,Honduras,NT,Shark
+Galeocerdo cuvier,IS,Iceland,NT,Shark
+Galeocerdo cuvier,IN,India,NT,Shark
+Galeocerdo cuvier,ID,Indonesia,NT,Shark
+Galeocerdo cuvier,IR,"Iran, Islamic Republic of",NT,Shark
+Galeocerdo cuvier,IQ,Iraq,NT,Shark
+Galeocerdo cuvier,JM,Jamaica,NT,Shark
+Galeocerdo cuvier,KE,Kenya,NT,Shark
+Galeocerdo cuvier,KI,Kiribati,NT,Shark
+Galeocerdo cuvier,KW,Kuwait,NT,Shark
+Galeocerdo cuvier,LR,Liberia,NT,Shark
+Galeocerdo cuvier,LY,Libya,NT,Shark
+Galeocerdo cuvier,MV,Maldives,NT,Shark
+Galeocerdo cuvier,MH,Marshall Islands,NT,Shark
+Galeocerdo cuvier,MQ,Martinique,NT,Shark
+Galeocerdo cuvier,MR,Mauritania,NT,Shark
+Galeocerdo cuvier,MX,Mexico,NT,Shark
+Galeocerdo cuvier,FM,"Micronesia, Federated States of",NT,Shark
+Galeocerdo cuvier,MS,Montserrat,NT,Shark
+Galeocerdo cuvier,MA,Morocco,NT,Shark
+Galeocerdo cuvier,MZ,Mozambique,NT,Shark
+Galeocerdo cuvier,NR,Nauru,NT,Shark
+Galeocerdo cuvier,NC,New Caledonia,NT,Shark
+Galeocerdo cuvier,NZ,New Zealand,NT,Shark
+Galeocerdo cuvier,NI,Nicaragua,NT,Shark
+Galeocerdo cuvier,NG,Nigeria,NT,Shark
+Galeocerdo cuvier,NU,Niue,NT,Shark
+Galeocerdo cuvier,NF,Norfolk Island,NT,Shark
+Galeocerdo cuvier,MP,Northern Mariana Islands,NT,Shark
+Galeocerdo cuvier,OM,Oman,NT,Shark
+Galeocerdo cuvier,PK,Pakistan,NT,Shark
+Galeocerdo cuvier,PW,Palau,NT,Shark
+Galeocerdo cuvier,PA,Panama,NT,Shark
+Galeocerdo cuvier,PG,Papua New Guinea,NT,Shark
+Galeocerdo cuvier,PE,Peru,NT,Shark
+Galeocerdo cuvier,PN,Pitcairn,NT,Shark
+Galeocerdo cuvier,PT,Portugal,NT,Shark
+Galeocerdo cuvier,PR,Puerto Rico,NT,Shark
+Galeocerdo cuvier,QA,Qatar,NT,Shark
+Galeocerdo cuvier,KN,Saint Kitts and Nevis,NT,Shark
+Galeocerdo cuvier,LC,Saint Lucia,NT,Shark
+Galeocerdo cuvier,VC,Saint Vincent and the Grenadines,NT,Shark
+Galeocerdo cuvier,WS,Samoa,NT,Shark
+Galeocerdo cuvier,SA,Saudi Arabia,NT,Shark
+Galeocerdo cuvier,SN,Senegal,NT,Shark
+Galeocerdo cuvier,SL,Sierra Leone,NT,Shark
+Galeocerdo cuvier,SB,Solomon Islands,NT,Shark
+Galeocerdo cuvier,SO,Somalia,NT,Shark
+Galeocerdo cuvier,ZA,South Africa,NT,Shark
+Galeocerdo cuvier,LK,Sri Lanka,NT,Shark
+Galeocerdo cuvier,SD,Sudan,NT,Shark
+Galeocerdo cuvier,SR,Suriname,NT,Shark
+Galeocerdo cuvier,TW,"Taiwan, Province of China",NT,Shark
+Galeocerdo cuvier,TZ,"Tanzania, United Republic of",NT,Shark
+Galeocerdo cuvier,TL,Timor-Leste,NT,Shark
+Galeocerdo cuvier,TG,Togo,NT,Shark
+Galeocerdo cuvier,TK,Tokelau,NT,Shark
+Galeocerdo cuvier,TO,Tonga,NT,Shark
+Galeocerdo cuvier,TT,Trinidad and Tobago,NT,Shark
+Galeocerdo cuvier,TV,Tuvalu,NT,Shark
+Galeocerdo cuvier,AE,United Arab Emirates,NT,Shark
+Galeocerdo cuvier,GB,United Kingdom,NT,Shark
+Galeocerdo cuvier,US,United States,NT,Shark
+Galeocerdo cuvier,UM,United States Minor Outlying Islands,NT,Shark
+Galeocerdo cuvier,UY,Uruguay,NT,Shark
+Galeocerdo cuvier,VU,Vanuatu,NT,Shark
+Galeocerdo cuvier,VE,"Venezuela, Bolivarian Republic of",NT,Shark
+Galeocerdo cuvier,VN,Viet Nam,NT,Shark
+Galeocerdo cuvier,VG,"Virgin Islands, British",NT,Shark
+Galeocerdo cuvier,VI,"Virgin Islands, U.S.",NT,Shark
+Galeocerdo cuvier,WF,Wallis and Futuna,NT,Shark
+Galeocerdo cuvier,EH,Western Sahara,NT,Shark
+Galeocerdo cuvier,YE,Yemen,NT,Shark
+Ginglymostoma cirratum,AO,Angola,VU,Shark
+Ginglymostoma cirratum,AI,Anguilla,VU,Shark
+Ginglymostoma cirratum,AG,Antigua and Barbuda,VU,Shark
+Ginglymostoma cirratum,AW,Aruba,VU,Shark
+Ginglymostoma cirratum,BS,Bahamas,VU,Shark
+Ginglymostoma cirratum,BB,Barbados,VU,Shark
+Ginglymostoma cirratum,BZ,Belize,VU,Shark
+Ginglymostoma cirratum,BJ,Benin,VU,Shark
+Ginglymostoma cirratum,BM,Bermuda,VU,Shark
+Ginglymostoma cirratum,BQ,"Bonaire, Sint Eustatius and Saba",VU,Shark
+Ginglymostoma cirratum,BR,Brazil,VU,Shark
+Ginglymostoma cirratum,CI,Côte d'Ivoire,VU,Shark
+Ginglymostoma cirratum,CM,Cameroon,VU,Shark
+Ginglymostoma cirratum,CV,Cape Verde,VU,Shark
+Ginglymostoma cirratum,CO,Colombia,VU,Shark
+Ginglymostoma cirratum,CG,Congo,VU,Shark
+Ginglymostoma cirratum,CD,"Congo, the Democratic Republic of the",VU,Shark
+Ginglymostoma cirratum,CR,Costa Rica,VU,Shark
+Ginglymostoma cirratum,CU,Cuba,VU,Shark
+Ginglymostoma cirratum,DM,Dominica,VU,Shark
+Ginglymostoma cirratum,GQ,Equatorial Guinea,VU,Shark
+Ginglymostoma cirratum,GF,French Guiana,VU,Shark
+Ginglymostoma cirratum,GA,Gabon,VU,Shark
+Ginglymostoma cirratum,GM,Gambia,VU,Shark
+Ginglymostoma cirratum,GH,Ghana,VU,Shark
+Ginglymostoma cirratum,GD,Grenada,VU,Shark
+Ginglymostoma cirratum,GP,Guadeloupe,VU,Shark
+Ginglymostoma cirratum,GT,Guatemala,VU,Shark
+Ginglymostoma cirratum,GN,Guinea,VU,Shark
+Ginglymostoma cirratum,GW,Guinea-Bissau,VU,Shark
+Ginglymostoma cirratum,GY,Guyana,VU,Shark
+Ginglymostoma cirratum,HT,Haiti,VU,Shark
+Ginglymostoma cirratum,HN,Honduras,VU,Shark
+Ginglymostoma cirratum,JM,Jamaica,VU,Shark
+Ginglymostoma cirratum,LR,Liberia,VU,Shark
+Ginglymostoma cirratum,MQ,Martinique,VU,Shark
+Ginglymostoma cirratum,MR,Mauritania,VU,Shark
+Ginglymostoma cirratum,MX,Mexico,VU,Shark
+Ginglymostoma cirratum,MS,Montserrat,VU,Shark
+Ginglymostoma cirratum,MA,Morocco,VU,Shark
+Ginglymostoma cirratum,NI,Nicaragua,VU,Shark
+Ginglymostoma cirratum,NG,Nigeria,VU,Shark
+Ginglymostoma cirratum,PA,Panama,VU,Shark
+Ginglymostoma cirratum,PR,Puerto Rico,VU,Shark
+Ginglymostoma cirratum,BL,Saint Barthélemy,VU,Shark
+Ginglymostoma cirratum,KN,Saint Kitts and Nevis,VU,Shark
+Ginglymostoma cirratum,LC,Saint Lucia,VU,Shark
+Ginglymostoma cirratum,MF,Saint Martin (French part),VU,Shark
+Ginglymostoma cirratum,VC,Saint Vincent and the Grenadines,VU,Shark
+Ginglymostoma cirratum,SN,Senegal,VU,Shark
+Ginglymostoma cirratum,SL,Sierra Leone,VU,Shark
+Ginglymostoma cirratum,SX,Sint Maarten (Dutch part),VU,Shark
+Ginglymostoma cirratum,SR,Suriname,VU,Shark
+Ginglymostoma cirratum,TG,Togo,VU,Shark
+Ginglymostoma cirratum,TT,Trinidad and Tobago,VU,Shark
+Ginglymostoma cirratum,TC,Turks and Caicos Islands,VU,Shark
+Ginglymostoma cirratum,US,United States,VU,Shark
+Ginglymostoma cirratum,VE,"Venezuela, Bolivarian Republic of",VU,Shark
+Ginglymostoma cirratum,VG,"Virgin Islands, British",VU,Shark
+Ginglymostoma cirratum,VI,"Virgin Islands, U.S.",VU,Shark
+Ginglymostoma cirratum,EH,Western Sahara,VU,Shark
+Ginglymostoma unami,CO,Colombia,EN,Shark
+Ginglymostoma unami,CR,Costa Rica,EN,Shark
+Ginglymostoma unami,EC,Ecuador,EN,Shark
+Ginglymostoma unami,SV,El Salvador,EN,Shark
+Ginglymostoma unami,GT,Guatemala,EN,Shark
+Ginglymostoma unami,HN,Honduras,EN,Shark
+Ginglymostoma unami,MX,Mexico,EN,Shark
+Ginglymostoma unami,NI,Nicaragua,EN,Shark
+Ginglymostoma unami,PA,Panama,EN,Shark
+Ginglymostoma unami,PE,Peru,EN,Shark
+Glaucostegus typus,AU,Australia,CR,Ray
+Glaucostegus typus,BD,Bangladesh,CR,Ray
+Glaucostegus typus,BN,Brunei Darussalam,CR,Ray
+Glaucostegus typus,KH,Cambodia,CR,Ray
+Glaucostegus typus,CN,China,CR,Ray
+Glaucostegus typus,IN,India,CR,Ray
+Glaucostegus typus,ID,Indonesia,CR,Ray
+Glaucostegus typus,MY,Malaysia,CR,Ray
+Glaucostegus typus,MM,Myanmar,CR,Ray
+Glaucostegus typus,PG,Papua New Guinea,CR,Ray
+Glaucostegus typus,SG,Singapore,CR,Ray
+Glaucostegus typus,SB,Solomon Islands,CR,Ray
+Glaucostegus typus,LK,Sri Lanka,CR,Ray
+Glaucostegus typus,TW,"Taiwan, Province of China",CR,Ray
+Glaucostegus typus,TH,Thailand,CR,Ray
+Glaucostegus typus,TL,Timor-Leste,CR,Ray
+Glaucostegus typus,VN,Viet Nam,CR,Ray
+Gymnura poecilura,BH,Bahrain,VU,Ray
+Gymnura poecilura,BD,Bangladesh,VU,Ray
+Gymnura poecilura,BN,Brunei Darussalam,VU,Ray
+Gymnura poecilura,KH,Cambodia,VU,Ray
+Gymnura poecilura,CN,China,VU,Ray
+Gymnura poecilura,DJ,Djibouti,VU,Ray
+Gymnura poecilura,EG,Egypt,VU,Ray
+Gymnura poecilura,ER,Eritrea,VU,Ray
+Gymnura poecilura,IN,India,VU,Ray
+Gymnura poecilura,ID,Indonesia,VU,Ray
+Gymnura poecilura,IR,"Iran, Islamic Republic of",VU,Ray
+Gymnura poecilura,IQ,Iraq,VU,Ray
+Gymnura poecilura,IL,Israel,VU,Ray
+Gymnura poecilura,JP,Japan,VU,Ray
+Gymnura poecilura,KW,Kuwait,VU,Ray
+Gymnura poecilura,MY,Malaysia,VU,Ray
+Gymnura poecilura,MM,Myanmar,VU,Ray
+Gymnura poecilura,OM,Oman,VU,Ray
+Gymnura poecilura,PK,Pakistan,VU,Ray
+Gymnura poecilura,PH,Philippines,VU,Ray
+Gymnura poecilura,QA,Qatar,VU,Ray
+Gymnura poecilura,SA,Saudi Arabia,VU,Ray
+Gymnura poecilura,SG,Singapore,VU,Ray
+Gymnura poecilura,SO,Somalia,VU,Ray
+Gymnura poecilura,LK,Sri Lanka,VU,Ray
+Gymnura poecilura,SD,Sudan,VU,Ray
+Gymnura poecilura,TW,"Taiwan, Province of China",VU,Ray
+Gymnura poecilura,TH,Thailand,VU,Ray
+Gymnura poecilura,VN,Viet Nam,VU,Ray
+Gymnura poecilura,YE,Yemen,VU,Ray
+Halaelurus maculosus,ID,Indonesia,NT,Shark
+Halaelurus maculosus,PH,Philippines,NT,Shark
+Haploblepharus kistnasamyi,ZA,South Africa,VU,Shark
+Hemigaleus australiensis,AU,Australia,LC,Shark
+Hemigaleus australiensis,PG,Papua New Guinea,LC,Shark
+Hemigaleus microstoma,BN,Brunei Darussalam,VU,Shark
+Hemigaleus microstoma,KH,Cambodia,VU,Shark
+Hemigaleus microstoma,CN,China,VU,Shark
+Hemigaleus microstoma,DJ,Djibouti,VU,Shark
+Hemigaleus microstoma,EG,Egypt,VU,Shark
+Hemigaleus microstoma,ER,Eritrea,VU,Shark
+Hemigaleus microstoma,IN,India,VU,Shark
+Hemigaleus microstoma,ID,Indonesia,VU,Shark
+Hemigaleus microstoma,IL,Israel,VU,Shark
+Hemigaleus microstoma,JO,Jordan,VU,Shark
+Hemigaleus microstoma,MY,Malaysia,VU,Shark
+Hemigaleus microstoma,MM,Myanmar,VU,Shark
+Hemigaleus microstoma,PK,Pakistan,VU,Shark
+Hemigaleus microstoma,PH,Philippines,VU,Shark
+Hemigaleus microstoma,SA,Saudi Arabia,VU,Shark
+Hemigaleus microstoma,SO,Somalia,VU,Shark
+Hemigaleus microstoma,LK,Sri Lanka,VU,Shark
+Hemigaleus microstoma,SD,Sudan,VU,Shark
+Hemigaleus microstoma,TW,"Taiwan, Province of China",VU,Shark
+Hemigaleus microstoma,TH,Thailand,VU,Shark
+Hemigaleus microstoma,VN,Viet Nam,VU,Shark
+Hemigaleus microstoma,YE,Yemen,VU,Shark
+Hemiscyllium freycineti,ID,Indonesia,NT,Shark
+Hemiscyllium galei,ID,Indonesia,VU,Shark
+Hemiscyllium hallstromi,PG,Papua New Guinea,VU,Shark
+Hemiscyllium halmahera,ID,Indonesia,NT,Shark
+Hemiscyllium henryi,ID,Indonesia,VU,Shark
+Hemiscyllium michaeli,PG,Papua New Guinea,VU,Shark
+Hemiscyllium ocellatum,AU,Australia,LC,Shark
+Hemiscyllium ocellatum,ID,Indonesia,LC,Shark
+Hemiscyllium ocellatum,PG,Papua New Guinea,LC,Shark
+Hemiscyllium strahani,ID,Indonesia,VU,Shark
+Hemiscyllium strahani,PG,Papua New Guinea,VU,Shark
+Hemiscyllium trispeculare,AU,Australia,LC,Shark
+Hemiscyllium trispeculare,ID,Indonesia,LC,Shark
+Hemitriakis leucoperiptera,PH,Philippines,CR,Shark
+Hemitrygon bennetti,BD,Bangladesh,VU,Ray
+Hemitrygon bennetti,KH,Cambodia,VU,Ray
+Hemitrygon bennetti,CN,China,VU,Ray
+Hemitrygon bennetti,IN,India,VU,Ray
+Hemitrygon bennetti,ID,Indonesia,VU,Ray
+Hemitrygon bennetti,MY,Malaysia,VU,Ray
+Hemitrygon bennetti,TW,"Taiwan, Province of China",VU,Ray
+Hemitrygon bennetti,TH,Thailand,VU,Ray
+Hemitrygon bennetti,VN,Viet Nam,VU,Ray
+Hemitrygon parvonigra,AU,Australia,DD,Ray
+Hemitrygon parvonigra,ID,Indonesia,DD,Ray
+Hemitrygon parvonigra,MY,Malaysia,DD,Ray
+Hemitrygon parvonigra,PH,Philippines,DD,Ray
+Heterodontus japonicus,CN,China,LC,Shark
+Heterodontus japonicus,JP,Japan,LC,Shark
+Heterodontus japonicus,KP,"Korea, Democratic People's Republic of",LC,Shark
+Heterodontus japonicus,KR,"Korea, Republic of",LC,Shark
+Heterodontus japonicus,TW,"Taiwan, Province of China",LC,Shark
+Heterodontus mexicanus,CO,Colombia,LC,Shark
+Heterodontus mexicanus,CR,Costa Rica,LC,Shark
+Heterodontus mexicanus,EC,Ecuador,LC,Shark
+Heterodontus mexicanus,SV,El Salvador,LC,Shark
+Heterodontus mexicanus,GT,Guatemala,LC,Shark
+Heterodontus mexicanus,HN,Honduras,LC,Shark
+Heterodontus mexicanus,MX,Mexico,LC,Shark
+Heterodontus mexicanus,NI,Nicaragua,LC,Shark
+Heterodontus mexicanus,PA,Panama,LC,Shark
+Heterodontus mexicanus,PE,Peru,LC,Shark
+Heterodontus quoyi,EC,Ecuador,LC,Shark
+Heterodontus quoyi,PE,Peru,LC,Shark
+Himantura leoparda,AU,Australia,VU,Ray
+Himantura leoparda,KH,Cambodia,VU,Ray
+Himantura leoparda,CN,China,VU,Ray
+Himantura leoparda,ID,Indonesia,VU,Ray
+Himantura leoparda,JP,Japan,VU,Ray
+Himantura leoparda,MY,Malaysia,VU,Ray
+Himantura leoparda,PG,Papua New Guinea,VU,Ray
+Himantura leoparda,TW,"Taiwan, Province of China",VU,Ray
+Himantura leoparda,TH,Thailand,VU,Ray
+Himantura leoparda,VN,Viet Nam,VU,Ray
+Himantura uarnak,BH,Bahrain,EN,Ray
+Himantura uarnak,BD,Bangladesh,EN,Ray
+Himantura uarnak,BN,Brunei Darussalam,EN,Ray
+Himantura uarnak,KH,Cambodia,EN,Ray
+Himantura uarnak,DJ,Djibouti,EN,Ray
+Himantura uarnak,EG,Egypt,EN,Ray
+Himantura uarnak,ER,Eritrea,EN,Ray
+Himantura uarnak,IN,India,EN,Ray
+Himantura uarnak,ID,Indonesia,EN,Ray
+Himantura uarnak,IR,"Iran, Islamic Republic of",EN,Ray
+Himantura uarnak,IQ,Iraq,EN,Ray
+Himantura uarnak,IL,Israel,EN,Ray
+Himantura uarnak,JP,Japan,EN,Ray
+Himantura uarnak,KE,Kenya,EN,Ray
+Himantura uarnak,KW,Kuwait,EN,Ray
+Himantura uarnak,LB,Lebanon,EN,Ray
+Himantura uarnak,MG,Madagascar,EN,Ray
+Himantura uarnak,MY,Malaysia,EN,Ray
+Himantura uarnak,MZ,Mozambique,EN,Ray
+Himantura uarnak,MM,Myanmar,EN,Ray
+Himantura uarnak,OM,Oman,EN,Ray
+Himantura uarnak,PK,Pakistan,EN,Ray
+Himantura uarnak,PH,Philippines,EN,Ray
+Himantura uarnak,QA,Qatar,EN,Ray
+Himantura uarnak,SA,Saudi Arabia,EN,Ray
+Himantura uarnak,SO,Somalia,EN,Ray
+Himantura uarnak,ZA,South Africa,EN,Ray
+Himantura uarnak,LK,Sri Lanka,EN,Ray
+Himantura uarnak,SD,Sudan,EN,Ray
+Himantura uarnak,SY,Syrian Arab Republic,EN,Ray
+Himantura uarnak,TW,"Taiwan, Province of China",EN,Ray
+Himantura uarnak,TZ,"Tanzania, United Republic of",EN,Ray
+Himantura uarnak,TH,Thailand,EN,Ray
+Himantura uarnak,AE,United Arab Emirates,EN,Ray
+Himantura uarnak,VN,Viet Nam,EN,Ray
+Himantura uarnak,YE,Yemen,EN,Ray
+Himantura undulata,BD,Bangladesh,EN,Ray
+Himantura undulata,BN,Brunei Darussalam,EN,Ray
+Himantura undulata,KH,Cambodia,EN,Ray
+Himantura undulata,IN,India,EN,Ray
+Himantura undulata,ID,Indonesia,EN,Ray
+Himantura undulata,MY,Malaysia,EN,Ray
+Himantura undulata,MM,Myanmar,EN,Ray
+Himantura undulata,PH,Philippines,EN,Ray
+Himantura undulata,SG,Singapore,EN,Ray
+Himantura undulata,LK,Sri Lanka,EN,Ray
+Himantura undulata,TH,Thailand,EN,Ray
+Himantura undulata,VN,Viet Nam,EN,Ray
+Hypanus americanus,AI,Anguilla,NT,Ray
+Hypanus americanus,AG,Antigua and Barbuda,NT,Ray
+Hypanus americanus,AW,Aruba,NT,Ray
+Hypanus americanus,BS,Bahamas,NT,Ray
+Hypanus americanus,BB,Barbados,NT,Ray
+Hypanus americanus,BZ,Belize,NT,Ray
+Hypanus americanus,BM,Bermuda,NT,Ray
+Hypanus americanus,BQ,"Bonaire, Sint Eustatius and Saba",NT,Ray
+Hypanus americanus,BR,Brazil,NT,Ray
+Hypanus americanus,KY,Cayman Islands,NT,Ray
+Hypanus americanus,CO,Colombia,NT,Ray
+Hypanus americanus,CR,Costa Rica,NT,Ray
+Hypanus americanus,CU,Cuba,NT,Ray
+Hypanus americanus,CW,Curaçao,NT,Ray
+Hypanus americanus,DM,Dominica,NT,Ray
+Hypanus americanus,DO,Dominican Republic,NT,Ray
+Hypanus americanus,GF,French Guiana,NT,Ray
+Hypanus americanus,GD,Grenada,NT,Ray
+Hypanus americanus,GP,Guadeloupe,NT,Ray
+Hypanus americanus,GT,Guatemala,NT,Ray
+Hypanus americanus,GY,Guyana,NT,Ray
+Hypanus americanus,HT,Haiti,NT,Ray
+Hypanus americanus,HN,Honduras,NT,Ray
+Hypanus americanus,JM,Jamaica,NT,Ray
+Hypanus americanus,MQ,Martinique,NT,Ray
+Hypanus americanus,MX,Mexico,NT,Ray
+Hypanus americanus,MS,Montserrat,NT,Ray
+Hypanus americanus,NI,Nicaragua,NT,Ray
+Hypanus americanus,PA,Panama,NT,Ray
+Hypanus americanus,PR,Puerto Rico,NT,Ray
+Hypanus americanus,BL,Saint Barthélemy,NT,Ray
+Hypanus americanus,KN,Saint Kitts and Nevis,NT,Ray
+Hypanus americanus,LC,Saint Lucia,NT,Ray
+Hypanus americanus,MF,Saint Martin (French part),NT,Ray
+Hypanus americanus,VC,Saint Vincent and the Grenadines,NT,Ray
+Hypanus americanus,SX,Sint Maarten (Dutch part),NT,Ray
+Hypanus americanus,SR,Suriname,NT,Ray
+Hypanus americanus,TT,Trinidad and Tobago,NT,Ray
+Hypanus americanus,TC,Turks and Caicos Islands,NT,Ray
+Hypanus americanus,US,United States,NT,Ray
+Hypanus americanus,VE,"Venezuela, Bolivarian Republic of",NT,Ray
+Hypanus americanus,VG,"Virgin Islands, British",NT,Ray
+Hypanus americanus,VI,"Virgin Islands, U.S.",NT,Ray
+Hypanus berthalutzae,BR,Brazil,VU,Ray
+Hypanus longus,CO,Colombia,VU,Ray
+Hypanus longus,CR,Costa Rica,VU,Ray
+Hypanus longus,EC,Ecuador,VU,Ray
+Hypanus longus,SV,El Salvador,VU,Ray
+Hypanus longus,GT,Guatemala,VU,Ray
+Hypanus longus,HN,Honduras,VU,Ray
+Hypanus longus,MX,Mexico,VU,Ray
+Hypanus longus,NI,Nicaragua,VU,Ray
+Hypanus longus,PA,Panama,VU,Ray
+Hypanus marianae,BR,Brazil,EN,Ray
+Hypnos monopterygius,AU,Australia,LC,Ray
+Loxodon macrorhinus,AU,Australia,NT,Shark
+Loxodon macrorhinus,CN,China,NT,Shark
+Loxodon macrorhinus,DJ,Djibouti,NT,Shark
+Loxodon macrorhinus,EG,Egypt,NT,Shark
+Loxodon macrorhinus,ER,Eritrea,NT,Shark
+Loxodon macrorhinus,IN,India,NT,Shark
+Loxodon macrorhinus,ID,Indonesia,NT,Shark
+Loxodon macrorhinus,JP,Japan,NT,Shark
+Loxodon macrorhinus,KE,Kenya,NT,Shark
+Loxodon macrorhinus,MG,Madagascar,NT,Shark
+Loxodon macrorhinus,MZ,Mozambique,NT,Shark
+Loxodon macrorhinus,MM,Myanmar,NT,Shark
+Loxodon macrorhinus,OM,Oman,NT,Shark
+Loxodon macrorhinus,PK,Pakistan,NT,Shark
+Loxodon macrorhinus,SA,Saudi Arabia,NT,Shark
+Loxodon macrorhinus,SO,Somalia,NT,Shark
+Loxodon macrorhinus,ZA,South Africa,NT,Shark
+Loxodon macrorhinus,LK,Sri Lanka,NT,Shark
+Loxodon macrorhinus,SD,Sudan,NT,Shark
+Loxodon macrorhinus,TW,"Taiwan, Province of China",NT,Shark
+Loxodon macrorhinus,TZ,"Tanzania, United Republic of",NT,Shark
+Loxodon macrorhinus,YE,Yemen,NT,Shark
+Maculabatis ambigua,DJ,Djibouti,NT,Ray
+Maculabatis ambigua,EG,Egypt,NT,Ray
+Maculabatis ambigua,ER,Eritrea,NT,Ray
+Maculabatis ambigua,KE,Kenya,NT,Ray
+Maculabatis ambigua,SA,Saudi Arabia,NT,Ray
+Maculabatis ambigua,SO,Somalia,NT,Ray
+Maculabatis ambigua,SD,Sudan,NT,Ray
+Maculabatis ambigua,TZ,"Tanzania, United Republic of",NT,Ray
+Maculabatis ambigua,YE,Yemen,NT,Ray
+Mobula alfredi,AS,American Samoa,VU,Ray
+Mobula alfredi,AU,Australia,VU,Ray
+Mobula alfredi,BH,Bahrain,VU,Ray
+Mobula alfredi,BD,Bangladesh,VU,Ray
+Mobula alfredi,IO,British Indian Ocean Territory,VU,Ray
+Mobula alfredi,BN,Brunei Darussalam,VU,Ray
+Mobula alfredi,KH,Cambodia,VU,Ray
+Mobula alfredi,CN,China,VU,Ray
+Mobula alfredi,CX,Christmas Island,VU,Ray
+Mobula alfredi,CC,Cocos (Keeling) Islands,VU,Ray
+Mobula alfredi,CK,Cook Islands,VU,Ray
+Mobula alfredi,DJ,Djibouti,VU,Ray
+Mobula alfredi,EG,Egypt,VU,Ray
+Mobula alfredi,ER,Eritrea,VU,Ray
+Mobula alfredi,FJ,Fiji,VU,Ray
+Mobula alfredi,PF,French Polynesia,VU,Ray
+Mobula alfredi,GU,Guam,VU,Ray
+Mobula alfredi,HK,Hong Kong,VU,Ray
+Mobula alfredi,IN,India,VU,Ray
+Mobula alfredi,ID,Indonesia,VU,Ray
+Mobula alfredi,IR,"Iran, Islamic Republic of",VU,Ray
+Mobula alfredi,IQ,Iraq,VU,Ray
+Mobula alfredi,JP,Japan,VU,Ray
+Mobula alfredi,KE,Kenya,VU,Ray
+Mobula alfredi,KI,Kiribati,VU,Ray
+Mobula alfredi,KR,"Korea, Republic of",VU,Ray
+Mobula alfredi,KW,Kuwait,VU,Ray
+Mobula alfredi,MO,Macao,VU,Ray
+Mobula alfredi,MG,Madagascar,VU,Ray
+Mobula alfredi,MY,Malaysia,VU,Ray
+Mobula alfredi,MV,Maldives,VU,Ray
+Mobula alfredi,MH,Marshall Islands,VU,Ray
+Mobula alfredi,MU,Mauritius,VU,Ray
+Mobula alfredi,YT,Mayotte,VU,Ray
+Mobula alfredi,FM,"Micronesia, Federated States of",VU,Ray
+Mobula alfredi,MZ,Mozambique,VU,Ray
+Mobula alfredi,MM,Myanmar,VU,Ray
+Mobula alfredi,NR,Nauru,VU,Ray
+Mobula alfredi,NC,New Caledonia,VU,Ray
+Mobula alfredi,MP,Northern Mariana Islands,VU,Ray
+Mobula alfredi,OM,Oman,VU,Ray
+Mobula alfredi,PK,Pakistan,VU,Ray
+Mobula alfredi,PW,Palau,VU,Ray
+Mobula alfredi,PG,Papua New Guinea,VU,Ray
+Mobula alfredi,PH,Philippines,VU,Ray
+Mobula alfredi,QA,Qatar,VU,Ray
+Mobula alfredi,RE,Réunion,VU,Ray
+Mobula alfredi,WS,Samoa,VU,Ray
+Mobula alfredi,SA,Saudi Arabia,VU,Ray
+Mobula alfredi,SC,Seychelles,VU,Ray
+Mobula alfredi,SG,Singapore,VU,Ray
+Mobula alfredi,SB,Solomon Islands,VU,Ray
+Mobula alfredi,SO,Somalia,VU,Ray
+Mobula alfredi,ZA,South Africa,VU,Ray
+Mobula alfredi,LK,Sri Lanka,VU,Ray
+Mobula alfredi,SD,Sudan,VU,Ray
+Mobula alfredi,TW,"Taiwan, Province of China",VU,Ray
+Mobula alfredi,TZ,"Tanzania, United Republic of",VU,Ray
+Mobula alfredi,TH,Thailand,VU,Ray
+Mobula alfredi,TL,Timor-Leste,VU,Ray
+Mobula alfredi,TK,Tokelau,VU,Ray
+Mobula alfredi,AE,United Arab Emirates,VU,Ray
+Mobula alfredi,US,United States,VU,Ray
+Mobula alfredi,UM,United States Minor Outlying Islands,VU,Ray
+Mobula alfredi,VU,Vanuatu,VU,Ray
+Mobula alfredi,VN,Viet Nam,VU,Ray
+Mobula alfredi,WF,Wallis and Futuna,VU,Ray
+Mobula alfredi,YE,Yemen,VU,Ray
+Mobula birostris,AS,American Samoa,EN,Ray
+Mobula birostris,AO,Angola,EN,Ray
+Mobula birostris,AI,Anguilla,EN,Ray
+Mobula birostris,AG,Antigua and Barbuda,EN,Ray
+Mobula birostris,AR,Argentina,EN,Ray
+Mobula birostris,AW,Aruba,EN,Ray
+Mobula birostris,AU,Australia,EN,Ray
+Mobula birostris,BS,Bahamas,EN,Ray
+Mobula birostris,BH,Bahrain,EN,Ray
+Mobula birostris,BB,Barbados,EN,Ray
+Mobula birostris,BZ,Belize,EN,Ray
+Mobula birostris,BJ,Benin,EN,Ray
+Mobula birostris,BM,Bermuda,EN,Ray
+Mobula birostris,BQ,"Bonaire, Sint Eustatius and Saba",EN,Ray
+Mobula birostris,BR,Brazil,EN,Ray
+Mobula birostris,CI,Côte d'Ivoire,EN,Ray
+Mobula birostris,CM,Cameroon,EN,Ray
+Mobula birostris,CV,Cape Verde,EN,Ray
+Mobula birostris,KY,Cayman Islands,EN,Ray
+Mobula birostris,CN,China,EN,Ray
+Mobula birostris,CX,Christmas Island,EN,Ray
+Mobula birostris,CC,Cocos (Keeling) Islands,EN,Ray
+Mobula birostris,CO,Colombia,EN,Ray
+Mobula birostris,KM,Comoros,EN,Ray
+Mobula birostris,CG,Congo,EN,Ray
+Mobula birostris,CK,Cook Islands,EN,Ray
+Mobula birostris,CR,Costa Rica,EN,Ray
+Mobula birostris,CU,Cuba,EN,Ray
+Mobula birostris,CW,Curaçao,EN,Ray
+Mobula birostris,DJ,Djibouti,EN,Ray
+Mobula birostris,DM,Dominica,EN,Ray
+Mobula birostris,DO,Dominican Republic,EN,Ray
+Mobula birostris,EC,Ecuador,EN,Ray
+Mobula birostris,EG,Egypt,EN,Ray
+Mobula birostris,SV,El Salvador,EN,Ray
+Mobula birostris,GQ,Equatorial Guinea,EN,Ray
+Mobula birostris,ER,Eritrea,EN,Ray
+Mobula birostris,FJ,Fiji,EN,Ray
+Mobula birostris,GF,French Guiana,EN,Ray
+Mobula birostris,PF,French Polynesia,EN,Ray
+Mobula birostris,GA,Gabon,EN,Ray
+Mobula birostris,GM,Gambia,EN,Ray
+Mobula birostris,GH,Ghana,EN,Ray
+Mobula birostris,GD,Grenada,EN,Ray
+Mobula birostris,GP,Guadeloupe,EN,Ray
+Mobula birostris,GU,Guam,EN,Ray
+Mobula birostris,GT,Guatemala,EN,Ray
+Mobula birostris,GN,Guinea,EN,Ray
+Mobula birostris,GW,Guinea-Bissau,EN,Ray
+Mobula birostris,GY,Guyana,EN,Ray
+Mobula birostris,HT,Haiti,EN,Ray
+Mobula birostris,HN,Honduras,EN,Ray
+Mobula birostris,HK,Hong Kong,EN,Ray
+Mobula birostris,IN,India,EN,Ray
+Mobula birostris,ID,Indonesia,EN,Ray
+Mobula birostris,IR,"Iran, Islamic Republic of",EN,Ray
+Mobula birostris,IQ,Iraq,EN,Ray
+Mobula birostris,JM,Jamaica,EN,Ray
+Mobula birostris,JP,Japan,EN,Ray
+Mobula birostris,KE,Kenya,EN,Ray
+Mobula birostris,KI,Kiribati,EN,Ray
+Mobula birostris,KP,"Korea, Democratic People's Republic of",EN,Ray
+Mobula birostris,KR,"Korea, Republic of",EN,Ray
+Mobula birostris,KW,Kuwait,EN,Ray
+Mobula birostris,LR,Liberia,EN,Ray
+Mobula birostris,MO,Macao,EN,Ray
+Mobula birostris,MG,Madagascar,EN,Ray
+Mobula birostris,MY,Malaysia,EN,Ray
+Mobula birostris,MV,Maldives,EN,Ray
+Mobula birostris,MH,Marshall Islands,EN,Ray
+Mobula birostris,MQ,Martinique,EN,Ray
+Mobula birostris,MR,Mauritania,EN,Ray
+Mobula birostris,MU,Mauritius,EN,Ray
+Mobula birostris,MX,Mexico,EN,Ray
+Mobula birostris,FM,"Micronesia, Federated States of",EN,Ray
+Mobula birostris,MS,Montserrat,EN,Ray
+Mobula birostris,MZ,Mozambique,EN,Ray
+Mobula birostris,MM,Myanmar,EN,Ray
+Mobula birostris,NA,Namibia,EN,Ray
+Mobula birostris,NR,Nauru,EN,Ray
+Mobula birostris,NC,New Caledonia,EN,Ray
+Mobula birostris,NZ,New Zealand,EN,Ray
+Mobula birostris,NI,Nicaragua,EN,Ray
+Mobula birostris,NG,Nigeria,EN,Ray
+Mobula birostris,NU,Niue,EN,Ray
+Mobula birostris,NF,Norfolk Island,EN,Ray
+Mobula birostris,MP,Northern Mariana Islands,EN,Ray
+Mobula birostris,OM,Oman,EN,Ray
+Mobula birostris,PK,Pakistan,EN,Ray
+Mobula birostris,PW,Palau,EN,Ray
+Mobula birostris,PA,Panama,EN,Ray
+Mobula birostris,PG,Papua New Guinea,EN,Ray
+Mobula birostris,PE,Peru,EN,Ray
+Mobula birostris,PH,Philippines,EN,Ray
+Mobula birostris,PT,Portugal,EN,Ray
+Mobula birostris,PR,Puerto Rico,EN,Ray
+Mobula birostris,QA,Qatar,EN,Ray
+Mobula birostris,RE,Réunion,EN,Ray
+Mobula birostris,RU,Russian Federation,EN,Ray
+Mobula birostris,BL,Saint Barthélemy,EN,Ray
+Mobula birostris,SH,"Saint Helena, Ascension and Tristan da Cunha",EN,Ray
+Mobula birostris,KN,Saint Kitts and Nevis,EN,Ray
+Mobula birostris,LC,Saint Lucia,EN,Ray
+Mobula birostris,MF,Saint Martin (French part),EN,Ray
+Mobula birostris,VC,Saint Vincent and the Grenadines,EN,Ray
+Mobula birostris,WS,Samoa,EN,Ray
+Mobula birostris,ST,Sao Tome and Principe,EN,Ray
+Mobula birostris,SA,Saudi Arabia,EN,Ray
+Mobula birostris,SN,Senegal,EN,Ray
+Mobula birostris,SC,Seychelles,EN,Ray
+Mobula birostris,SL,Sierra Leone,EN,Ray
+Mobula birostris,SX,Sint Maarten (Dutch part),EN,Ray
+Mobula birostris,SB,Solomon Islands,EN,Ray
+Mobula birostris,SO,Somalia,EN,Ray
+Mobula birostris,ZA,South Africa,EN,Ray
+Mobula birostris,ES,Spain,EN,Ray
+Mobula birostris,LK,Sri Lanka,EN,Ray
+Mobula birostris,SD,Sudan,EN,Ray
+Mobula birostris,SR,Suriname,EN,Ray
+Mobula birostris,TW,"Taiwan, Province of China",EN,Ray
+Mobula birostris,TZ,"Tanzania, United Republic of",EN,Ray
+Mobula birostris,TH,Thailand,EN,Ray
+Mobula birostris,TG,Togo,EN,Ray
+Mobula birostris,TK,Tokelau,EN,Ray
+Mobula birostris,TO,Tonga,EN,Ray
+Mobula birostris,TT,Trinidad and Tobago,EN,Ray
+Mobula birostris,TC,Turks and Caicos Islands,EN,Ray
+Mobula birostris,TV,Tuvalu,EN,Ray
+Mobula birostris,AE,United Arab Emirates,EN,Ray
+Mobula birostris,US,United States,EN,Ray
+Mobula birostris,UM,United States Minor Outlying Islands,EN,Ray
+Mobula birostris,UY,Uruguay,EN,Ray
+Mobula birostris,VU,Vanuatu,EN,Ray
+Mobula birostris,VE,"Venezuela, Bolivarian Republic of",EN,Ray
+Mobula birostris,VG,"Virgin Islands, British",EN,Ray
+Mobula birostris,VI,"Virgin Islands, U.S.",EN,Ray
+Mobula birostris,WF,Wallis and Futuna,EN,Ray
+Mobula birostris,EH,Western Sahara,EN,Ray
+Mobula birostris,YE,Yemen,EN,Ray
+Mobula eregoodoo,AU,Australia,EN,Ray
+Mobula eregoodoo,BH,Bahrain,EN,Ray
+Mobula eregoodoo,BD,Bangladesh,EN,Ray
+Mobula eregoodoo,IO,British Indian Ocean Territory,EN,Ray
+Mobula eregoodoo,BN,Brunei Darussalam,EN,Ray
+Mobula eregoodoo,KH,Cambodia,EN,Ray
+Mobula eregoodoo,CN,China,EN,Ray
+Mobula eregoodoo,CX,Christmas Island,EN,Ray
+Mobula eregoodoo,CC,Cocos (Keeling) Islands,EN,Ray
+Mobula eregoodoo,KM,Comoros,EN,Ray
+Mobula eregoodoo,DJ,Djibouti,EN,Ray
+Mobula eregoodoo,EG,Egypt,EN,Ray
+Mobula eregoodoo,ER,Eritrea,EN,Ray
+Mobula eregoodoo,ET,Ethiopia,EN,Ray
+Mobula eregoodoo,GU,Guam,EN,Ray
+Mobula eregoodoo,IN,India,EN,Ray
+Mobula eregoodoo,ID,Indonesia,EN,Ray
+Mobula eregoodoo,IR,"Iran, Islamic Republic of",EN,Ray
+Mobula eregoodoo,IQ,Iraq,EN,Ray
+Mobula eregoodoo,IL,Israel,EN,Ray
+Mobula eregoodoo,JO,Jordan,EN,Ray
+Mobula eregoodoo,KE,Kenya,EN,Ray
+Mobula eregoodoo,KW,Kuwait,EN,Ray
+Mobula eregoodoo,MG,Madagascar,EN,Ray
+Mobula eregoodoo,MY,Malaysia,EN,Ray
+Mobula eregoodoo,MV,Maldives,EN,Ray
+Mobula eregoodoo,MU,Mauritius,EN,Ray
+Mobula eregoodoo,YT,Mayotte,EN,Ray
+Mobula eregoodoo,MZ,Mozambique,EN,Ray
+Mobula eregoodoo,MM,Myanmar,EN,Ray
+Mobula eregoodoo,OM,Oman,EN,Ray
+Mobula eregoodoo,PK,Pakistan,EN,Ray
+Mobula eregoodoo,PG,Papua New Guinea,EN,Ray
+Mobula eregoodoo,PH,Philippines,EN,Ray
+Mobula eregoodoo,QA,Qatar,EN,Ray
+Mobula eregoodoo,RE,Réunion,EN,Ray
+Mobula eregoodoo,SA,Saudi Arabia,EN,Ray
+Mobula eregoodoo,SC,Seychelles,EN,Ray
+Mobula eregoodoo,SG,Singapore,EN,Ray
+Mobula eregoodoo,SO,Somalia,EN,Ray
+Mobula eregoodoo,ZA,South Africa,EN,Ray
+Mobula eregoodoo,LK,Sri Lanka,EN,Ray
+Mobula eregoodoo,SD,Sudan,EN,Ray
+Mobula eregoodoo,TW,"Taiwan, Province of China",EN,Ray
+Mobula eregoodoo,TZ,"Tanzania, United Republic of",EN,Ray
+Mobula eregoodoo,TH,Thailand,EN,Ray
+Mobula eregoodoo,TL,Timor-Leste,EN,Ray
+Mobula eregoodoo,AE,United Arab Emirates,EN,Ray
+Mobula eregoodoo,VN,Viet Nam,EN,Ray
+Mobula eregoodoo,YE,Yemen,EN,Ray
+Mobula kuhlii,AU,Australia,EN,Ray
+Mobula kuhlii,BD,Bangladesh,EN,Ray
+Mobula kuhlii,IO,British Indian Ocean Territory,EN,Ray
+Mobula kuhlii,BN,Brunei Darussalam,EN,Ray
+Mobula kuhlii,KH,Cambodia,EN,Ray
+Mobula kuhlii,CN,China,EN,Ray
+Mobula kuhlii,CX,Christmas Island,EN,Ray
+Mobula kuhlii,CC,Cocos (Keeling) Islands,EN,Ray
+Mobula kuhlii,KM,Comoros,EN,Ray
+Mobula kuhlii,GU,Guam,EN,Ray
+Mobula kuhlii,HK,Hong Kong,EN,Ray
+Mobula kuhlii,IN,India,EN,Ray
+Mobula kuhlii,ID,Indonesia,EN,Ray
+Mobula kuhlii,IR,"Iran, Islamic Republic of",EN,Ray
+Mobula kuhlii,KE,Kenya,EN,Ray
+Mobula kuhlii,MO,Macao,EN,Ray
+Mobula kuhlii,MG,Madagascar,EN,Ray
+Mobula kuhlii,MY,Malaysia,EN,Ray
+Mobula kuhlii,MV,Maldives,EN,Ray
+Mobula kuhlii,MU,Mauritius,EN,Ray
+Mobula kuhlii,YT,Mayotte,EN,Ray
+Mobula kuhlii,MZ,Mozambique,EN,Ray
+Mobula kuhlii,MM,Myanmar,EN,Ray
+Mobula kuhlii,OM,Oman,EN,Ray
+Mobula kuhlii,PK,Pakistan,EN,Ray
+Mobula kuhlii,PG,Papua New Guinea,EN,Ray
+Mobula kuhlii,PH,Philippines,EN,Ray
+Mobula kuhlii,QA,Qatar,EN,Ray
+Mobula kuhlii,RE,Réunion,EN,Ray
+Mobula kuhlii,SC,Seychelles,EN,Ray
+Mobula kuhlii,SG,Singapore,EN,Ray
+Mobula kuhlii,SB,Solomon Islands,EN,Ray
+Mobula kuhlii,SO,Somalia,EN,Ray
+Mobula kuhlii,ZA,South Africa,EN,Ray
+Mobula kuhlii,LK,Sri Lanka,EN,Ray
+Mobula kuhlii,TW,"Taiwan, Province of China",EN,Ray
+Mobula kuhlii,TZ,"Tanzania, United Republic of",EN,Ray
+Mobula kuhlii,TH,Thailand,EN,Ray
+Mobula kuhlii,TL,Timor-Leste,EN,Ray
+Mobula kuhlii,AE,United Arab Emirates,EN,Ray
+Mobula kuhlii,VN,Viet Nam,EN,Ray
+Mobula kuhlii,YE,Yemen,EN,Ray
+Mobula tarapacana,AS,American Samoa,EN,Ray
+Mobula tarapacana,AI,Anguilla,EN,Ray
+Mobula tarapacana,AG,Antigua and Barbuda,EN,Ray
+Mobula tarapacana,AW,Aruba,EN,Ray
+Mobula tarapacana,AU,Australia,EN,Ray
+Mobula tarapacana,BS,Bahamas,EN,Ray
+Mobula tarapacana,BD,Bangladesh,EN,Ray
+Mobula tarapacana,BB,Barbados,EN,Ray
+Mobula tarapacana,BZ,Belize,EN,Ray
+Mobula tarapacana,BJ,Benin,EN,Ray
+Mobula tarapacana,BM,Bermuda,EN,Ray
+Mobula tarapacana,BQ,"Bonaire, Sint Eustatius and Saba",EN,Ray
+Mobula tarapacana,BR,Brazil,EN,Ray
+Mobula tarapacana,IO,British Indian Ocean Territory,EN,Ray
+Mobula tarapacana,BN,Brunei Darussalam,EN,Ray
+Mobula tarapacana,CI,Côte d'Ivoire,EN,Ray
+Mobula tarapacana,KH,Cambodia,EN,Ray
+Mobula tarapacana,CM,Cameroon,EN,Ray
+Mobula tarapacana,CV,Cape Verde,EN,Ray
+Mobula tarapacana,KY,Cayman Islands,EN,Ray
+Mobula tarapacana,CL,Chile,EN,Ray
+Mobula tarapacana,CN,China,EN,Ray
+Mobula tarapacana,CX,Christmas Island,EN,Ray
+Mobula tarapacana,CC,Cocos (Keeling) Islands,EN,Ray
+Mobula tarapacana,CO,Colombia,EN,Ray
+Mobula tarapacana,KM,Comoros,EN,Ray
+Mobula tarapacana,CG,Congo,EN,Ray
+Mobula tarapacana,CK,Cook Islands,EN,Ray
+Mobula tarapacana,CR,Costa Rica,EN,Ray
+Mobula tarapacana,CU,Cuba,EN,Ray
+Mobula tarapacana,CW,Curaçao,EN,Ray
+Mobula tarapacana,DJ,Djibouti,EN,Ray
+Mobula tarapacana,DM,Dominica,EN,Ray
+Mobula tarapacana,DO,Dominican Republic,EN,Ray
+Mobula tarapacana,EC,Ecuador,EN,Ray
+Mobula tarapacana,EG,Egypt,EN,Ray
+Mobula tarapacana,SV,El Salvador,EN,Ray
+Mobula tarapacana,GQ,Equatorial Guinea,EN,Ray
+Mobula tarapacana,ER,Eritrea,EN,Ray
+Mobula tarapacana,FJ,Fiji,EN,Ray
+Mobula tarapacana,FR,France,EN,Ray
+Mobula tarapacana,GF,French Guiana,EN,Ray
+Mobula tarapacana,PF,French Polynesia,EN,Ray
+Mobula tarapacana,GA,Gabon,EN,Ray
+Mobula tarapacana,GM,Gambia,EN,Ray
+Mobula tarapacana,GH,Ghana,EN,Ray
+Mobula tarapacana,GD,Grenada,EN,Ray
+Mobula tarapacana,GP,Guadeloupe,EN,Ray
+Mobula tarapacana,GU,Guam,EN,Ray
+Mobula tarapacana,GT,Guatemala,EN,Ray
+Mobula tarapacana,GN,Guinea,EN,Ray
+Mobula tarapacana,GW,Guinea-Bissau,EN,Ray
+Mobula tarapacana,GY,Guyana,EN,Ray
+Mobula tarapacana,HT,Haiti,EN,Ray
+Mobula tarapacana,HN,Honduras,EN,Ray
+Mobula tarapacana,HK,Hong Kong,EN,Ray
+Mobula tarapacana,IN,India,EN,Ray
+Mobula tarapacana,ID,Indonesia,EN,Ray
+Mobula tarapacana,IR,"Iran, Islamic Republic of",EN,Ray
+Mobula tarapacana,JM,Jamaica,EN,Ray
+Mobula tarapacana,JP,Japan,EN,Ray
+Mobula tarapacana,KE,Kenya,EN,Ray
+Mobula tarapacana,KI,Kiribati,EN,Ray
+Mobula tarapacana,KP,"Korea, Democratic People's Republic of",EN,Ray
+Mobula tarapacana,KR,"Korea, Republic of",EN,Ray
+Mobula tarapacana,LR,Liberia,EN,Ray
+Mobula tarapacana,MO,Macao,EN,Ray
+Mobula tarapacana,MG,Madagascar,EN,Ray
+Mobula tarapacana,MY,Malaysia,EN,Ray
+Mobula tarapacana,MV,Maldives,EN,Ray
+Mobula tarapacana,MH,Marshall Islands,EN,Ray
+Mobula tarapacana,MQ,Martinique,EN,Ray
+Mobula tarapacana,MR,Mauritania,EN,Ray
+Mobula tarapacana,MU,Mauritius,EN,Ray
+Mobula tarapacana,YT,Mayotte,EN,Ray
+Mobula tarapacana,MX,Mexico,EN,Ray
+Mobula tarapacana,FM,"Micronesia, Federated States of",EN,Ray
+Mobula tarapacana,MS,Montserrat,EN,Ray
+Mobula tarapacana,MA,Morocco,EN,Ray
+Mobula tarapacana,MZ,Mozambique,EN,Ray
+Mobula tarapacana,MM,Myanmar,EN,Ray
+Mobula tarapacana,NA,Namibia,EN,Ray
+Mobula tarapacana,NR,Nauru,EN,Ray
+Mobula tarapacana,NC,New Caledonia,EN,Ray
+Mobula tarapacana,NI,Nicaragua,EN,Ray
+Mobula tarapacana,NG,Nigeria,EN,Ray
+Mobula tarapacana,NU,Niue,EN,Ray
+Mobula tarapacana,MP,Northern Mariana Islands,EN,Ray
+Mobula tarapacana,OM,Oman,EN,Ray
+Mobula tarapacana,PK,Pakistan,EN,Ray
+Mobula tarapacana,PW,Palau,EN,Ray
+Mobula tarapacana,PA,Panama,EN,Ray
+Mobula tarapacana,PG,Papua New Guinea,EN,Ray
+Mobula tarapacana,PE,Peru,EN,Ray
+Mobula tarapacana,PH,Philippines,EN,Ray
+Mobula tarapacana,PN,Pitcairn,EN,Ray
+Mobula tarapacana,PT,Portugal,EN,Ray
+Mobula tarapacana,PR,Puerto Rico,EN,Ray
+Mobula tarapacana,RE,Réunion,EN,Ray
+Mobula tarapacana,RU,Russian Federation,EN,Ray
+Mobula tarapacana,BL,Saint Barthélemy,EN,Ray
+Mobula tarapacana,SH,"Saint Helena, Ascension and Tristan da Cunha",EN,Ray
+Mobula tarapacana,KN,Saint Kitts and Nevis,EN,Ray
+Mobula tarapacana,LC,Saint Lucia,EN,Ray
+Mobula tarapacana,MF,Saint Martin (French part),EN,Ray
+Mobula tarapacana,VC,Saint Vincent and the Grenadines,EN,Ray
+Mobula tarapacana,WS,Samoa,EN,Ray
+Mobula tarapacana,ST,Sao Tome and Principe,EN,Ray
+Mobula tarapacana,SA,Saudi Arabia,EN,Ray
+Mobula tarapacana,SN,Senegal,EN,Ray
+Mobula tarapacana,SC,Seychelles,EN,Ray
+Mobula tarapacana,SL,Sierra Leone,EN,Ray
+Mobula tarapacana,SG,Singapore,EN,Ray
+Mobula tarapacana,SX,Sint Maarten (Dutch part),EN,Ray
+Mobula tarapacana,SB,Solomon Islands,EN,Ray
+Mobula tarapacana,SO,Somalia,EN,Ray
+Mobula tarapacana,ZA,South Africa,EN,Ray
+Mobula tarapacana,ES,Spain,EN,Ray
+Mobula tarapacana,LK,Sri Lanka,EN,Ray
+Mobula tarapacana,SD,Sudan,EN,Ray
+Mobula tarapacana,SR,Suriname,EN,Ray
+Mobula tarapacana,TW,"Taiwan, Province of China",EN,Ray
+Mobula tarapacana,TZ,"Tanzania, United Republic of",EN,Ray
+Mobula tarapacana,TH,Thailand,EN,Ray
+Mobula tarapacana,TL,Timor-Leste,EN,Ray
+Mobula tarapacana,TG,Togo,EN,Ray
+Mobula tarapacana,TK,Tokelau,EN,Ray
+Mobula tarapacana,TO,Tonga,EN,Ray
+Mobula tarapacana,TT,Trinidad and Tobago,EN,Ray
+Mobula tarapacana,TC,Turks and Caicos Islands,EN,Ray
+Mobula tarapacana,TV,Tuvalu,EN,Ray
+Mobula tarapacana,US,United States,EN,Ray
+Mobula tarapacana,UM,United States Minor Outlying Islands,EN,Ray
+Mobula tarapacana,VU,Vanuatu,EN,Ray
+Mobula tarapacana,VE,"Venezuela, Bolivarian Republic of",EN,Ray
+Mobula tarapacana,VN,Viet Nam,EN,Ray
+Mobula tarapacana,VG,"Virgin Islands, British",EN,Ray
+Mobula tarapacana,VI,"Virgin Islands, U.S.",EN,Ray
+Mobula tarapacana,WF,Wallis and Futuna,EN,Ray
+Mobula tarapacana,EH,Western Sahara,EN,Ray
+Mobula tarapacana,YE,Yemen,EN,Ray
+Mobula thurstoni,AS,American Samoa,EN,Ray
+Mobula thurstoni,AI,Anguilla,EN,Ray
+Mobula thurstoni,AG,Antigua and Barbuda,EN,Ray
+Mobula thurstoni,AR,Argentina,EN,Ray
+Mobula thurstoni,AW,Aruba,EN,Ray
+Mobula thurstoni,AU,Australia,EN,Ray
+Mobula thurstoni,BS,Bahamas,EN,Ray
+Mobula thurstoni,BH,Bahrain,EN,Ray
+Mobula thurstoni,BD,Bangladesh,EN,Ray
+Mobula thurstoni,BB,Barbados,EN,Ray
+Mobula thurstoni,BZ,Belize,EN,Ray
+Mobula thurstoni,BJ,Benin,EN,Ray
+Mobula thurstoni,BQ,"Bonaire, Sint Eustatius and Saba",EN,Ray
+Mobula thurstoni,BR,Brazil,EN,Ray
+Mobula thurstoni,IO,British Indian Ocean Territory,EN,Ray
+Mobula thurstoni,BN,Brunei Darussalam,EN,Ray
+Mobula thurstoni,CI,Côte d'Ivoire,EN,Ray
+Mobula thurstoni,KH,Cambodia,EN,Ray
+Mobula thurstoni,CM,Cameroon,EN,Ray
+Mobula thurstoni,CV,Cape Verde,EN,Ray
+Mobula thurstoni,KY,Cayman Islands,EN,Ray
+Mobula thurstoni,CL,Chile,EN,Ray
+Mobula thurstoni,CN,China,EN,Ray
+Mobula thurstoni,CX,Christmas Island,EN,Ray
+Mobula thurstoni,CC,Cocos (Keeling) Islands,EN,Ray
+Mobula thurstoni,CO,Colombia,EN,Ray
+Mobula thurstoni,KM,Comoros,EN,Ray
+Mobula thurstoni,CG,Congo,EN,Ray
+Mobula thurstoni,CK,Cook Islands,EN,Ray
+Mobula thurstoni,CR,Costa Rica,EN,Ray
+Mobula thurstoni,CU,Cuba,EN,Ray
+Mobula thurstoni,CW,Curaçao,EN,Ray
+Mobula thurstoni,DJ,Djibouti,EN,Ray
+Mobula thurstoni,DM,Dominica,EN,Ray
+Mobula thurstoni,DO,Dominican Republic,EN,Ray
+Mobula thurstoni,EC,Ecuador,EN,Ray
+Mobula thurstoni,EG,Egypt,EN,Ray
+Mobula thurstoni,SV,El Salvador,EN,Ray
+Mobula thurstoni,GQ,Equatorial Guinea,EN,Ray
+Mobula thurstoni,ER,Eritrea,EN,Ray
+Mobula thurstoni,FJ,Fiji,EN,Ray
+Mobula thurstoni,FR,France,EN,Ray
+Mobula thurstoni,GF,French Guiana,EN,Ray
+Mobula thurstoni,PF,French Polynesia,EN,Ray
+Mobula thurstoni,GA,Gabon,EN,Ray
+Mobula thurstoni,GM,Gambia,EN,Ray
+Mobula thurstoni,GH,Ghana,EN,Ray
+Mobula thurstoni,GD,Grenada,EN,Ray
+Mobula thurstoni,GP,Guadeloupe,EN,Ray
+Mobula thurstoni,GU,Guam,EN,Ray
+Mobula thurstoni,GT,Guatemala,EN,Ray
+Mobula thurstoni,GN,Guinea,EN,Ray
+Mobula thurstoni,GW,Guinea-Bissau,EN,Ray
+Mobula thurstoni,GY,Guyana,EN,Ray
+Mobula thurstoni,HT,Haiti,EN,Ray
+Mobula thurstoni,HN,Honduras,EN,Ray
+Mobula thurstoni,HK,Hong Kong,EN,Ray
+Mobula thurstoni,IN,India,EN,Ray
+Mobula thurstoni,ID,Indonesia,EN,Ray
+Mobula thurstoni,IR,"Iran, Islamic Republic of",EN,Ray
+Mobula thurstoni,IQ,Iraq,EN,Ray
+Mobula thurstoni,JM,Jamaica,EN,Ray
+Mobula thurstoni,JP,Japan,EN,Ray
+Mobula thurstoni,KE,Kenya,EN,Ray
+Mobula thurstoni,KI,Kiribati,EN,Ray
+Mobula thurstoni,KP,"Korea, Democratic People's Republic of",EN,Ray
+Mobula thurstoni,KR,"Korea, Republic of",EN,Ray
+Mobula thurstoni,KW,Kuwait,EN,Ray
+Mobula thurstoni,LR,Liberia,EN,Ray
+Mobula thurstoni,MO,Macao,EN,Ray
+Mobula thurstoni,MG,Madagascar,EN,Ray
+Mobula thurstoni,MY,Malaysia,EN,Ray
+Mobula thurstoni,MV,Maldives,EN,Ray
+Mobula thurstoni,MH,Marshall Islands,EN,Ray
+Mobula thurstoni,MQ,Martinique,EN,Ray
+Mobula thurstoni,MR,Mauritania,EN,Ray
+Mobula thurstoni,MU,Mauritius,EN,Ray
+Mobula thurstoni,YT,Mayotte,EN,Ray
+Mobula thurstoni,MX,Mexico,EN,Ray
+Mobula thurstoni,FM,"Micronesia, Federated States of",EN,Ray
+Mobula thurstoni,MS,Montserrat,EN,Ray
+Mobula thurstoni,MA,Morocco,EN,Ray
+Mobula thurstoni,MZ,Mozambique,EN,Ray
+Mobula thurstoni,MM,Myanmar,EN,Ray
+Mobula thurstoni,NA,Namibia,EN,Ray
+Mobula thurstoni,NR,Nauru,EN,Ray
+Mobula thurstoni,NC,New Caledonia,EN,Ray
+Mobula thurstoni,NZ,New Zealand,EN,Ray
+Mobula thurstoni,NI,Nicaragua,EN,Ray
+Mobula thurstoni,NG,Nigeria,EN,Ray
+Mobula thurstoni,NU,Niue,EN,Ray
+Mobula thurstoni,NF,Norfolk Island,EN,Ray
+Mobula thurstoni,MP,Northern Mariana Islands,EN,Ray
+Mobula thurstoni,OM,Oman,EN,Ray
+Mobula thurstoni,PK,Pakistan,EN,Ray
+Mobula thurstoni,PW,Palau,EN,Ray
+Mobula thurstoni,PA,Panama,EN,Ray
+Mobula thurstoni,PG,Papua New Guinea,EN,Ray
+Mobula thurstoni,PE,Peru,EN,Ray
+Mobula thurstoni,PH,Philippines,EN,Ray
+Mobula thurstoni,PN,Pitcairn,EN,Ray
+Mobula thurstoni,PT,Portugal,EN,Ray
+Mobula thurstoni,PR,Puerto Rico,EN,Ray
+Mobula thurstoni,QA,Qatar,EN,Ray
+Mobula thurstoni,RE,Réunion,EN,Ray
+Mobula thurstoni,RU,Russian Federation,EN,Ray
+Mobula thurstoni,BL,Saint Barthélemy,EN,Ray
+Mobula thurstoni,SH,"Saint Helena, Ascension and Tristan da Cunha",EN,Ray
+Mobula thurstoni,KN,Saint Kitts and Nevis,EN,Ray
+Mobula thurstoni,LC,Saint Lucia,EN,Ray
+Mobula thurstoni,MF,Saint Martin (French part),EN,Ray
+Mobula thurstoni,VC,Saint Vincent and the Grenadines,EN,Ray
+Mobula thurstoni,WS,Samoa,EN,Ray
+Mobula thurstoni,ST,Sao Tome and Principe,EN,Ray
+Mobula thurstoni,SA,Saudi Arabia,EN,Ray
+Mobula thurstoni,SN,Senegal,EN,Ray
+Mobula thurstoni,SC,Seychelles,EN,Ray
+Mobula thurstoni,SL,Sierra Leone,EN,Ray
+Mobula thurstoni,SG,Singapore,EN,Ray
+Mobula thurstoni,SX,Sint Maarten (Dutch part),EN,Ray
+Mobula thurstoni,SB,Solomon Islands,EN,Ray
+Mobula thurstoni,SO,Somalia,EN,Ray
+Mobula thurstoni,ZA,South Africa,EN,Ray
+Mobula thurstoni,ES,Spain,EN,Ray
+Mobula thurstoni,LK,Sri Lanka,EN,Ray
+Mobula thurstoni,SD,Sudan,EN,Ray
+Mobula thurstoni,SR,Suriname,EN,Ray
+Mobula thurstoni,TW,"Taiwan, Province of China",EN,Ray
+Mobula thurstoni,TZ,"Tanzania, United Republic of",EN,Ray
+Mobula thurstoni,TH,Thailand,EN,Ray
+Mobula thurstoni,TL,Timor-Leste,EN,Ray
+Mobula thurstoni,TG,Togo,EN,Ray
+Mobula thurstoni,TK,Tokelau,EN,Ray
+Mobula thurstoni,TO,Tonga,EN,Ray
+Mobula thurstoni,TT,Trinidad and Tobago,EN,Ray
+Mobula thurstoni,TC,Turks and Caicos Islands,EN,Ray
+Mobula thurstoni,TV,Tuvalu,EN,Ray
+Mobula thurstoni,AE,United Arab Emirates,EN,Ray
+Mobula thurstoni,US,United States,EN,Ray
+Mobula thurstoni,UM,United States Minor Outlying Islands,EN,Ray
+Mobula thurstoni,UY,Uruguay,EN,Ray
+Mobula thurstoni,VU,Vanuatu,EN,Ray
+Mobula thurstoni,VN,Viet Nam,EN,Ray
+Mobula thurstoni,VG,"Virgin Islands, British",EN,Ray
+Mobula thurstoni,VI,"Virgin Islands, U.S.",EN,Ray
+Mobula thurstoni,WF,Wallis and Futuna,EN,Ray
+Mobula thurstoni,EH,Western Sahara,EN,Ray
+Mobula thurstoni,YE,Yemen,EN,Ray
+Mustelus mosis,BH,Bahrain,NT,Shark
+Mustelus mosis,DJ,Djibouti,NT,Shark
+Mustelus mosis,EG,Egypt,NT,Shark
+Mustelus mosis,ER,Eritrea,NT,Shark
+Mustelus mosis,IN,India,NT,Shark
+Mustelus mosis,IR,"Iran, Islamic Republic of",NT,Shark
+Mustelus mosis,IQ,Iraq,NT,Shark
+Mustelus mosis,KW,Kuwait,NT,Shark
+Mustelus mosis,MZ,Mozambique,NT,Shark
+Mustelus mosis,OM,Oman,NT,Shark
+Mustelus mosis,PK,Pakistan,NT,Shark
+Mustelus mosis,QA,Qatar,NT,Shark
+Mustelus mosis,SA,Saudi Arabia,NT,Shark
+Mustelus mosis,SO,Somalia,NT,Shark
+Mustelus mosis,ZA,South Africa,NT,Shark
+Mustelus mosis,LK,Sri Lanka,NT,Shark
+Mustelus mosis,SD,Sudan,NT,Shark
+Mustelus mosis,TZ,"Tanzania, United Republic of",NT,Shark
+Mustelus mosis,AE,United Arab Emirates,NT,Shark
+Mustelus mosis,YE,Yemen,NT,Shark
+Narcine entemedor,CO,Colombia,VU,Ray
+Narcine entemedor,CR,Costa Rica,VU,Ray
+Narcine entemedor,EC,Ecuador,VU,Ray
+Narcine entemedor,SV,El Salvador,VU,Ray
+Narcine entemedor,GT,Guatemala,VU,Ray
+Narcine entemedor,HN,Honduras,VU,Ray
+Narcine entemedor,MX,Mexico,VU,Ray
+Narcine entemedor,NI,Nicaragua,VU,Ray
+Narcine entemedor,PA,Panama,VU,Ray
+Narcine entemedor,PE,Peru,VU,Ray
+Nebrius ferrugineus,AS,American Samoa,VU,Shark
+Nebrius ferrugineus,AU,Australia,VU,Shark
+Nebrius ferrugineus,BH,Bahrain,VU,Shark
+Nebrius ferrugineus,BD,Bangladesh,VU,Shark
+Nebrius ferrugineus,IO,British Indian Ocean Territory,VU,Shark
+Nebrius ferrugineus,BN,Brunei Darussalam,VU,Shark
+Nebrius ferrugineus,KH,Cambodia,VU,Shark
+Nebrius ferrugineus,CN,China,VU,Shark
+Nebrius ferrugineus,CX,Christmas Island,VU,Shark
+Nebrius ferrugineus,CC,Cocos (Keeling) Islands,VU,Shark
+Nebrius ferrugineus,KM,Comoros,VU,Shark
+Nebrius ferrugineus,CK,Cook Islands,VU,Shark
+Nebrius ferrugineus,DJ,Djibouti,VU,Shark
+Nebrius ferrugineus,EG,Egypt,VU,Shark
+Nebrius ferrugineus,ER,Eritrea,VU,Shark
+Nebrius ferrugineus,FJ,Fiji,VU,Shark
+Nebrius ferrugineus,PF,French Polynesia,VU,Shark
+Nebrius ferrugineus,GU,Guam,VU,Shark
+Nebrius ferrugineus,IN,India,VU,Shark
+Nebrius ferrugineus,ID,Indonesia,VU,Shark
+Nebrius ferrugineus,IR,"Iran, Islamic Republic of",VU,Shark
+Nebrius ferrugineus,IQ,Iraq,VU,Shark
+Nebrius ferrugineus,IL,Israel,VU,Shark
+Nebrius ferrugineus,JP,Japan,VU,Shark
+Nebrius ferrugineus,JO,Jordan,VU,Shark
+Nebrius ferrugineus,KE,Kenya,VU,Shark
+Nebrius ferrugineus,KI,Kiribati,VU,Shark
+Nebrius ferrugineus,KW,Kuwait,VU,Shark
+Nebrius ferrugineus,MG,Madagascar,VU,Shark
+Nebrius ferrugineus,MY,Malaysia,VU,Shark
+Nebrius ferrugineus,MV,Maldives,VU,Shark
+Nebrius ferrugineus,MH,Marshall Islands,VU,Shark
+Nebrius ferrugineus,YT,Mayotte,VU,Shark
+Nebrius ferrugineus,FM,"Micronesia, Federated States of",VU,Shark
+Nebrius ferrugineus,MZ,Mozambique,VU,Shark
+Nebrius ferrugineus,MM,Myanmar,VU,Shark
+Nebrius ferrugineus,NR,Nauru,VU,Shark
+Nebrius ferrugineus,NC,New Caledonia,VU,Shark
+Nebrius ferrugineus,NU,Niue,VU,Shark
+Nebrius ferrugineus,MP,Northern Mariana Islands,VU,Shark
+Nebrius ferrugineus,OM,Oman,VU,Shark
+Nebrius ferrugineus,PK,Pakistan,VU,Shark
+Nebrius ferrugineus,PW,Palau,VU,Shark
+Nebrius ferrugineus,PG,Papua New Guinea,VU,Shark
+Nebrius ferrugineus,PH,Philippines,VU,Shark
+Nebrius ferrugineus,QA,Qatar,VU,Shark
+Nebrius ferrugineus,RE,Réunion,VU,Shark
+Nebrius ferrugineus,WS,Samoa,VU,Shark
+Nebrius ferrugineus,SA,Saudi Arabia,VU,Shark
+Nebrius ferrugineus,SC,Seychelles,VU,Shark
+Nebrius ferrugineus,SG,Singapore,VU,Shark
+Nebrius ferrugineus,SB,Solomon Islands,VU,Shark
+Nebrius ferrugineus,SO,Somalia,VU,Shark
+Nebrius ferrugineus,ZA,South Africa,VU,Shark
+Nebrius ferrugineus,LK,Sri Lanka,VU,Shark
+Nebrius ferrugineus,SD,Sudan,VU,Shark
+Nebrius ferrugineus,TW,"Taiwan, Province of China",VU,Shark
+Nebrius ferrugineus,TZ,"Tanzania, United Republic of",VU,Shark
+Nebrius ferrugineus,TH,Thailand,VU,Shark
+Nebrius ferrugineus,TL,Timor-Leste,VU,Shark
+Nebrius ferrugineus,TK,Tokelau,VU,Shark
+Nebrius ferrugineus,TO,Tonga,VU,Shark
+Nebrius ferrugineus,TV,Tuvalu,VU,Shark
+Nebrius ferrugineus,AE,United Arab Emirates,VU,Shark
+Nebrius ferrugineus,UM,United States Minor Outlying Islands,VU,Shark
+Nebrius ferrugineus,VU,Vanuatu,VU,Shark
+Nebrius ferrugineus,VN,Viet Nam,VU,Shark
+Nebrius ferrugineus,WF,Wallis and Futuna,VU,Shark
+Nebrius ferrugineus,YE,Yemen,VU,Shark
+Negaprion acutidens,AS,American Samoa,EN,Shark
+Negaprion acutidens,AU,Australia,EN,Shark
+Negaprion acutidens,BH,Bahrain,EN,Shark
+Negaprion acutidens,BD,Bangladesh,EN,Shark
+Negaprion acutidens,IO,British Indian Ocean Territory,EN,Shark
+Negaprion acutidens,BN,Brunei Darussalam,EN,Shark
+Negaprion acutidens,KH,Cambodia,EN,Shark
+Negaprion acutidens,CN,China,EN,Shark
+Negaprion acutidens,KM,Comoros,EN,Shark
+Negaprion acutidens,CK,Cook Islands,EN,Shark
+Negaprion acutidens,DJ,Djibouti,EN,Shark
+Negaprion acutidens,EG,Egypt,EN,Shark
+Negaprion acutidens,ER,Eritrea,EN,Shark
+Negaprion acutidens,FJ,Fiji,EN,Shark
+Negaprion acutidens,PF,French Polynesia,EN,Shark
+Negaprion acutidens,GU,Guam,EN,Shark
+Negaprion acutidens,HK,Hong Kong,EN,Shark
+Negaprion acutidens,IN,India,EN,Shark
+Negaprion acutidens,ID,Indonesia,EN,Shark
+Negaprion acutidens,IR,"Iran, Islamic Republic of",EN,Shark
+Negaprion acutidens,JP,Japan,EN,Shark
+Negaprion acutidens,KE,Kenya,EN,Shark
+Negaprion acutidens,KI,Kiribati,EN,Shark
+Negaprion acutidens,KW,Kuwait,EN,Shark
+Negaprion acutidens,MG,Madagascar,EN,Shark
+Negaprion acutidens,MY,Malaysia,EN,Shark
+Negaprion acutidens,MV,Maldives,EN,Shark
+Negaprion acutidens,MH,Marshall Islands,EN,Shark
+Negaprion acutidens,YT,Mayotte,EN,Shark
+Negaprion acutidens,FM,"Micronesia, Federated States of",EN,Shark
+Negaprion acutidens,MZ,Mozambique,EN,Shark
+Negaprion acutidens,MM,Myanmar,EN,Shark
+Negaprion acutidens,NR,Nauru,EN,Shark
+Negaprion acutidens,NC,New Caledonia,EN,Shark
+Negaprion acutidens,NU,Niue,EN,Shark
+Negaprion acutidens,MP,Northern Mariana Islands,EN,Shark
+Negaprion acutidens,OM,Oman,EN,Shark
+Negaprion acutidens,PK,Pakistan,EN,Shark
+Negaprion acutidens,PW,Palau,EN,Shark
+Negaprion acutidens,PG,Papua New Guinea,EN,Shark
+Negaprion acutidens,PH,Philippines,EN,Shark
+Negaprion acutidens,QA,Qatar,EN,Shark
+Negaprion acutidens,RE,Réunion,EN,Shark
+Negaprion acutidens,WS,Samoa,EN,Shark
+Negaprion acutidens,SA,Saudi Arabia,EN,Shark
+Negaprion acutidens,SC,Seychelles,EN,Shark
+Negaprion acutidens,SG,Singapore,EN,Shark
+Negaprion acutidens,SB,Solomon Islands,EN,Shark
+Negaprion acutidens,SO,Somalia,EN,Shark
+Negaprion acutidens,ZA,South Africa,EN,Shark
+Negaprion acutidens,LK,Sri Lanka,EN,Shark
+Negaprion acutidens,SD,Sudan,EN,Shark
+Negaprion acutidens,TW,"Taiwan, Province of China",EN,Shark
+Negaprion acutidens,TZ,"Tanzania, United Republic of",EN,Shark
+Negaprion acutidens,TH,Thailand,EN,Shark
+Negaprion acutidens,TL,Timor-Leste,EN,Shark
+Negaprion acutidens,TK,Tokelau,EN,Shark
+Negaprion acutidens,TO,Tonga,EN,Shark
+Negaprion acutidens,TV,Tuvalu,EN,Shark
+Negaprion acutidens,AE,United Arab Emirates,EN,Shark
+Negaprion acutidens,VU,Vanuatu,EN,Shark
+Negaprion acutidens,VN,Viet Nam,EN,Shark
+Negaprion acutidens,YE,Yemen,EN,Shark
+Negaprion brevirostris,AO,Angola,VU,Shark
+Negaprion brevirostris,AI,Anguilla,VU,Shark
+Negaprion brevirostris,AG,Antigua and Barbuda,VU,Shark
+Negaprion brevirostris,AW,Aruba,VU,Shark
+Negaprion brevirostris,BS,Bahamas,VU,Shark
+Negaprion brevirostris,BB,Barbados,VU,Shark
+Negaprion brevirostris,BZ,Belize,VU,Shark
+Negaprion brevirostris,BJ,Benin,VU,Shark
+Negaprion brevirostris,BM,Bermuda,VU,Shark
+Negaprion brevirostris,BQ,"Bonaire, Sint Eustatius and Saba",VU,Shark
+Negaprion brevirostris,BR,Brazil,VU,Shark
+Negaprion brevirostris,CI,Côte d'Ivoire,VU,Shark
+Negaprion brevirostris,CM,Cameroon,VU,Shark
+Negaprion brevirostris,CV,Cape Verde,VU,Shark
+Negaprion brevirostris,KY,Cayman Islands,VU,Shark
+Negaprion brevirostris,CG,Congo,VU,Shark
+Negaprion brevirostris,CD,"Congo, the Democratic Republic of the",VU,Shark
+Negaprion brevirostris,CR,Costa Rica,VU,Shark
+Negaprion brevirostris,CU,Cuba,VU,Shark
+Negaprion brevirostris,CW,Curaçao,VU,Shark
+Negaprion brevirostris,DM,Dominica,VU,Shark
+Negaprion brevirostris,DO,Dominican Republic,VU,Shark
+Negaprion brevirostris,EC,Ecuador,VU,Shark
+Negaprion brevirostris,SV,El Salvador,VU,Shark
+Negaprion brevirostris,GQ,Equatorial Guinea,VU,Shark
+Negaprion brevirostris,GF,French Guiana,VU,Shark
+Negaprion brevirostris,GA,Gabon,VU,Shark
+Negaprion brevirostris,GM,Gambia,VU,Shark
+Negaprion brevirostris,GH,Ghana,VU,Shark
+Negaprion brevirostris,GD,Grenada,VU,Shark
+Negaprion brevirostris,GP,Guadeloupe,VU,Shark
+Negaprion brevirostris,GT,Guatemala,VU,Shark
+Negaprion brevirostris,GN,Guinea,VU,Shark
+Negaprion brevirostris,GW,Guinea-Bissau,VU,Shark
+Negaprion brevirostris,GY,Guyana,VU,Shark
+Negaprion brevirostris,HT,Haiti,VU,Shark
+Negaprion brevirostris,HN,Honduras,VU,Shark
+Negaprion brevirostris,JM,Jamaica,VU,Shark
+Negaprion brevirostris,LR,Liberia,VU,Shark
+Negaprion brevirostris,MQ,Martinique,VU,Shark
+Negaprion brevirostris,MR,Mauritania,VU,Shark
+Negaprion brevirostris,MX,Mexico,VU,Shark
+Negaprion brevirostris,MS,Montserrat,VU,Shark
+Negaprion brevirostris,MA,Morocco,VU,Shark
+Negaprion brevirostris,NI,Nicaragua,VU,Shark
+Negaprion brevirostris,NG,Nigeria,VU,Shark
+Negaprion brevirostris,PA,Panama,VU,Shark
+Negaprion brevirostris,PR,Puerto Rico,VU,Shark
+Negaprion brevirostris,BL,Saint Barthélemy,VU,Shark
+Negaprion brevirostris,KN,Saint Kitts and Nevis,VU,Shark
+Negaprion brevirostris,LC,Saint Lucia,VU,Shark
+Negaprion brevirostris,MF,Saint Martin (French part),VU,Shark
+Negaprion brevirostris,VC,Saint Vincent and the Grenadines,VU,Shark
+Negaprion brevirostris,ST,Sao Tome and Principe,VU,Shark
+Negaprion brevirostris,SN,Senegal,VU,Shark
+Negaprion brevirostris,SL,Sierra Leone,VU,Shark
+Negaprion brevirostris,SX,Sint Maarten (Dutch part),VU,Shark
+Negaprion brevirostris,SR,Suriname,VU,Shark
+Negaprion brevirostris,TG,Togo,VU,Shark
+Negaprion brevirostris,TT,Trinidad and Tobago,VU,Shark
+Negaprion brevirostris,TC,Turks and Caicos Islands,VU,Shark
+Negaprion brevirostris,US,United States,VU,Shark
+Negaprion brevirostris,VE,"Venezuela, Bolivarian Republic of",VU,Shark
+Negaprion brevirostris,VG,"Virgin Islands, British",VU,Shark
+Negaprion brevirostris,VI,"Virgin Islands, U.S.",VU,Shark
+Neotrygon annotata,AU,Australia,NT,Ray
+Neotrygon annotata,PG,Papua New Guinea,NT,Ray
+Neotrygon australiae,AU,Australia,NT,Ray
+Neotrygon australiae,ID,Indonesia,NT,Ray
+Neotrygon australiae,PG,Papua New Guinea,NT,Ray
+Neotrygon australiae,TL,Timor-Leste,NT,Ray
+Neotrygon caeruleopunctata,BD,Bangladesh,LC,Ray
+Neotrygon caeruleopunctata,DJ,Djibouti,LC,Ray
+Neotrygon caeruleopunctata,IN,India,LC,Ray
+Neotrygon caeruleopunctata,ID,Indonesia,LC,Ray
+Neotrygon caeruleopunctata,IR,"Iran, Islamic Republic of",LC,Ray
+Neotrygon caeruleopunctata,KE,Kenya,LC,Ray
+Neotrygon caeruleopunctata,MY,Malaysia,LC,Ray
+Neotrygon caeruleopunctata,MZ,Mozambique,LC,Ray
+Neotrygon caeruleopunctata,MM,Myanmar,LC,Ray
+Neotrygon caeruleopunctata,OM,Oman,LC,Ray
+Neotrygon caeruleopunctata,PK,Pakistan,LC,Ray
+Neotrygon caeruleopunctata,SO,Somalia,LC,Ray
+Neotrygon caeruleopunctata,LK,Sri Lanka,LC,Ray
+Neotrygon caeruleopunctata,TZ,"Tanzania, United Republic of",LC,Ray
+Neotrygon caeruleopunctata,TH,Thailand,LC,Ray
+Neotrygon caeruleopunctata,AE,United Arab Emirates,LC,Ray
+Neotrygon caeruleopunctata,YE,Yemen,LC,Ray
+Neotrygon kuhlii,SB,Solomon Islands,DD,Ray
+Neotrygon leylandi,AU,Australia,LC,Ray
+Neotrygon ningalooensis,AU,Australia,DD,Ray
+Neotrygon orientale,BN,Brunei Darussalam,LC,Ray
+Neotrygon orientale,ID,Indonesia,LC,Ray
+Neotrygon orientale,MY,Malaysia,LC,Ray
+Neotrygon orientale,PH,Philippines,LC,Ray
+Neotrygon orientale,SG,Singapore,LC,Ray
+Neotrygon orientale,TW,"Taiwan, Province of China",LC,Ray
+Neotrygon picta,AU,Australia,LC,Ray
+Neotrygon picta,PG,Papua New Guinea,LC,Ray
+Neotrygon trigonoides,AU,Australia,LC,Ray
+Neotrygon trigonoides,NC,New Caledonia,LC,Ray
+Neotrygon varidens,KH,Cambodia,LC,Ray
+Neotrygon varidens,CN,China,LC,Ray
+Neotrygon varidens,ID,Indonesia,LC,Ray
+Neotrygon varidens,MY,Malaysia,LC,Ray
+Neotrygon varidens,TW,"Taiwan, Province of China",LC,Ray
+Neotrygon varidens,TH,Thailand,LC,Ray
+Neotrygon varidens,VN,Viet Nam,LC,Ray
+Orectolobus halei,AU,Australia,LC,Shark
+Orectolobus japonicus,CN,China,LC,Shark
+Orectolobus japonicus,JP,Japan,LC,Shark
+Orectolobus japonicus,KP,"Korea, Democratic People's Republic of",LC,Shark
+Orectolobus japonicus,KR,"Korea, Republic of",LC,Shark
+Orectolobus japonicus,PH,Philippines,LC,Shark
+Orectolobus japonicus,TW,"Taiwan, Province of China",LC,Shark
+Orectolobus japonicus,VN,Viet Nam,LC,Shark
+Orectolobus maculatus,AU,Australia,LC,Shark
+Orectolobus ornatus,AU,Australia,LC,Shark
+Orectolobus reticulatus,AU,Australia,DD,Shark
+Orectolobus wardi,AU,Australia,LC,Shark
+Pastinachus ater,AU,Australia,VU,Ray
+Pastinachus ater,BD,Bangladesh,VU,Ray
+Pastinachus ater,BN,Brunei Darussalam,VU,Ray
+Pastinachus ater,IN,India,VU,Ray
+Pastinachus ater,ID,Indonesia,VU,Ray
+Pastinachus ater,IR,"Iran, Islamic Republic of",VU,Ray
+Pastinachus ater,IQ,Iraq,VU,Ray
+Pastinachus ater,KE,Kenya,VU,Ray
+Pastinachus ater,KW,Kuwait,VU,Ray
+Pastinachus ater,MG,Madagascar,VU,Ray
+Pastinachus ater,MY,Malaysia,VU,Ray
+Pastinachus ater,MZ,Mozambique,VU,Ray
+Pastinachus ater,MM,Myanmar,VU,Ray
+Pastinachus ater,NC,New Caledonia,VU,Ray
+Pastinachus ater,OM,Oman,VU,Ray
+Pastinachus ater,PK,Pakistan,VU,Ray
+Pastinachus ater,PG,Papua New Guinea,VU,Ray
+Pastinachus ater,PH,Philippines,VU,Ray
+Pastinachus ater,QA,Qatar,VU,Ray
+Pastinachus ater,SA,Saudi Arabia,VU,Ray
+Pastinachus ater,SG,Singapore,VU,Ray
+Pastinachus ater,SB,Solomon Islands,VU,Ray
+Pastinachus ater,SO,Somalia,VU,Ray
+Pastinachus ater,LK,Sri Lanka,VU,Ray
+Pastinachus ater,TZ,"Tanzania, United Republic of",VU,Ray
+Pastinachus ater,TH,Thailand,VU,Ray
+Pastinachus ater,AE,United Arab Emirates,VU,Ray
+Pastinachus ater,VU,Vanuatu,VU,Ray
+Pastinachus ater,YE,Yemen,VU,Ray
+Pastinachus sephen,BH,Bahrain,NT,Ray
+Pastinachus sephen,DJ,Djibouti,NT,Ray
+Pastinachus sephen,EG,Egypt,NT,Ray
+Pastinachus sephen,ER,Eritrea,NT,Ray
+Pastinachus sephen,IN,India,NT,Ray
+Pastinachus sephen,IR,"Iran, Islamic Republic of",NT,Ray
+Pastinachus sephen,IQ,Iraq,NT,Ray
+Pastinachus sephen,KW,Kuwait,NT,Ray
+Pastinachus sephen,MV,Maldives,NT,Ray
+Pastinachus sephen,OM,Oman,NT,Ray
+Pastinachus sephen,PK,Pakistan,NT,Ray
+Pastinachus sephen,QA,Qatar,NT,Ray
+Pastinachus sephen,SA,Saudi Arabia,NT,Ray
+Pastinachus sephen,SO,Somalia,NT,Ray
+Pastinachus sephen,LK,Sri Lanka,NT,Ray
+Pastinachus sephen,SD,Sudan,NT,Ray
+Pastinachus sephen,AE,United Arab Emirates,NT,Ray
+Pastinachus sephen,YE,Yemen,NT,Ray
+Pateobatis fai,AU,Australia,VU,Ray
+Pateobatis fai,EG,Egypt,VU,Ray
+Pateobatis fai,ID,Indonesia,VU,Ray
+Pateobatis fai,JP,Japan,VU,Ray
+Pateobatis fai,MY,Malaysia,VU,Ray
+Pateobatis fai,MV,Maldives,VU,Ray
+Pateobatis fai,FM,"Micronesia, Federated States of",VU,Ray
+Pateobatis fai,MM,Myanmar,VU,Ray
+Pateobatis fai,PG,Papua New Guinea,VU,Ray
+Pateobatis fai,PH,Philippines,VU,Ray
+Pateobatis fai,WS,Samoa,VU,Ray
+Pateobatis fai,ZA,South Africa,VU,Ray
+Pateobatis fai,TH,Thailand,VU,Ray
+Pateobatis fai,VN,Viet Nam,VU,Ray
+Pateobatis jenkinsii,AU,Australia,VU,Ray
+Pateobatis jenkinsii,BD,Bangladesh,VU,Ray
+Pateobatis jenkinsii,BN,Brunei Darussalam,VU,Ray
+Pateobatis jenkinsii,IN,India,VU,Ray
+Pateobatis jenkinsii,ID,Indonesia,VU,Ray
+Pateobatis jenkinsii,MG,Madagascar,VU,Ray
+Pateobatis jenkinsii,MY,Malaysia,VU,Ray
+Pateobatis jenkinsii,MZ,Mozambique,VU,Ray
+Pateobatis jenkinsii,MM,Myanmar,VU,Ray
+Pateobatis jenkinsii,PK,Pakistan,VU,Ray
+Pateobatis jenkinsii,PG,Papua New Guinea,VU,Ray
+Pateobatis jenkinsii,PH,Philippines,VU,Ray
+Pateobatis jenkinsii,ZA,South Africa,VU,Ray
+Pateobatis jenkinsii,LK,Sri Lanka,VU,Ray
+Pateobatis jenkinsii,TH,Thailand,VU,Ray
+Pateobatis jenkinsii,YE,Yemen,VU,Ray
+Pristis clavata,AU,Australia,EN,Ray
+Pristis clavata,IN,India,EN,Ray
+Pristis clavata,ID,Indonesia,EN,Ray
+Pristis clavata,MY,Malaysia,EN,Ray
+Pristis clavata,PG,Papua New Guinea,EN,Ray
+Pristis clavata,RE,Réunion,EN,Ray
+Pristis pectinata,AO,Angola,CR,Ray
+Pristis pectinata,AI,Anguilla,CR,Ray
+Pristis pectinata,AG,Antigua and Barbuda,CR,Ray
+Pristis pectinata,AW,Aruba,CR,Ray
+Pristis pectinata,BS,Bahamas,CR,Ray
+Pristis pectinata,BB,Barbados,CR,Ray
+Pristis pectinata,BZ,Belize,CR,Ray
+Pristis pectinata,BJ,Benin,CR,Ray
+Pristis pectinata,BQ,"Bonaire, Sint Eustatius and Saba",CR,Ray
+Pristis pectinata,BR,Brazil,CR,Ray
+Pristis pectinata,CI,Côte d'Ivoire,CR,Ray
+Pristis pectinata,CM,Cameroon,CR,Ray
+Pristis pectinata,KY,Cayman Islands,CR,Ray
+Pristis pectinata,CO,Colombia,CR,Ray
+Pristis pectinata,CG,Congo,CR,Ray
+Pristis pectinata,CD,"Congo, the Democratic Republic of the",CR,Ray
+Pristis pectinata,CR,Costa Rica,CR,Ray
+Pristis pectinata,CU,Cuba,CR,Ray
+Pristis pectinata,CW,Curaçao,CR,Ray
+Pristis pectinata,DM,Dominica,CR,Ray
+Pristis pectinata,DO,Dominican Republic,CR,Ray
+Pristis pectinata,GQ,Equatorial Guinea,CR,Ray
+Pristis pectinata,GF,French Guiana,CR,Ray
+Pristis pectinata,GA,Gabon,CR,Ray
+Pristis pectinata,GM,Gambia,CR,Ray
+Pristis pectinata,GH,Ghana,CR,Ray
+Pristis pectinata,GD,Grenada,CR,Ray
+Pristis pectinata,GP,Guadeloupe,CR,Ray
+Pristis pectinata,GN,Guinea,CR,Ray
+Pristis pectinata,GW,Guinea-Bissau,CR,Ray
+Pristis pectinata,GY,Guyana,CR,Ray
+Pristis pectinata,HT,Haiti,CR,Ray
+Pristis pectinata,HN,Honduras,CR,Ray
+Pristis pectinata,JM,Jamaica,CR,Ray
+Pristis pectinata,LR,Liberia,CR,Ray
+Pristis pectinata,MQ,Martinique,CR,Ray
+Pristis pectinata,MR,Mauritania,CR,Ray
+Pristis pectinata,MX,Mexico,CR,Ray
+Pristis pectinata,MS,Montserrat,CR,Ray
+Pristis pectinata,NI,Nicaragua,CR,Ray
+Pristis pectinata,NG,Nigeria,CR,Ray
+Pristis pectinata,PA,Panama,CR,Ray
+Pristis pectinata,PR,Puerto Rico,CR,Ray
+Pristis pectinata,KN,Saint Kitts and Nevis,CR,Ray
+Pristis pectinata,LC,Saint Lucia,CR,Ray
+Pristis pectinata,MF,Saint Martin (French part),CR,Ray
+Pristis pectinata,VC,Saint Vincent and the Grenadines,CR,Ray
+Pristis pectinata,SN,Senegal,CR,Ray
+Pristis pectinata,SL,Sierra Leone,CR,Ray
+Pristis pectinata,SX,Sint Maarten (Dutch part),CR,Ray
+Pristis pectinata,SR,Suriname,CR,Ray
+Pristis pectinata,TG,Togo,CR,Ray
+Pristis pectinata,TT,Trinidad and Tobago,CR,Ray
+Pristis pectinata,TC,Turks and Caicos Islands,CR,Ray
+Pristis pectinata,US,United States,CR,Ray
+Pristis pectinata,UY,Uruguay,CR,Ray
+Pristis pectinata,VE,"Venezuela, Bolivarian Republic of",CR,Ray
+Pristis pectinata,VG,"Virgin Islands, British",CR,Ray
+Pristis pectinata,VI,"Virgin Islands, U.S.",CR,Ray
+Pristis zijsron,AU,Australia,CR,Ray
+Pristis zijsron,BH,Bahrain,CR,Ray
+Pristis zijsron,BD,Bangladesh,CR,Ray
+Pristis zijsron,BN,Brunei Darussalam,CR,Ray
+Pristis zijsron,KH,Cambodia,CR,Ray
+Pristis zijsron,CN,China,CR,Ray
+Pristis zijsron,DJ,Djibouti,CR,Ray
+Pristis zijsron,EG,Egypt,CR,Ray
+Pristis zijsron,ER,Eritrea,CR,Ray
+Pristis zijsron,IN,India,CR,Ray
+Pristis zijsron,ID,Indonesia,CR,Ray
+Pristis zijsron,IR,"Iran, Islamic Republic of",CR,Ray
+Pristis zijsron,IQ,Iraq,CR,Ray
+Pristis zijsron,KE,Kenya,CR,Ray
+Pristis zijsron,KW,Kuwait,CR,Ray
+Pristis zijsron,MG,Madagascar,CR,Ray
+Pristis zijsron,MY,Malaysia,CR,Ray
+Pristis zijsron,MU,Mauritius,CR,Ray
+Pristis zijsron,MZ,Mozambique,CR,Ray
+Pristis zijsron,MM,Myanmar,CR,Ray
+Pristis zijsron,OM,Oman,CR,Ray
+Pristis zijsron,PK,Pakistan,CR,Ray
+Pristis zijsron,PG,Papua New Guinea,CR,Ray
+Pristis zijsron,PH,Philippines,CR,Ray
+Pristis zijsron,QA,Qatar,CR,Ray
+Pristis zijsron,RE,Réunion,CR,Ray
+Pristis zijsron,SA,Saudi Arabia,CR,Ray
+Pristis zijsron,SG,Singapore,CR,Ray
+Pristis zijsron,SO,Somalia,CR,Ray
+Pristis zijsron,ZA,South Africa,CR,Ray
+Pristis zijsron,LK,Sri Lanka,CR,Ray
+Pristis zijsron,SD,Sudan,CR,Ray
+Pristis zijsron,TW,"Taiwan, Province of China",CR,Ray
+Pristis zijsron,TZ,"Tanzania, United Republic of",CR,Ray
+Pristis zijsron,TH,Thailand,CR,Ray
+Pristis zijsron,TL,Timor-Leste,CR,Ray
+Pristis zijsron,AE,United Arab Emirates,CR,Ray
+Pristis zijsron,VN,Viet Nam,CR,Ray
+Pristis zijsron,YE,Yemen,CR,Ray
+Pseudobatos lentiginosus,BZ,Belize,VU,Ray
+Pseudobatos lentiginosus,BR,Brazil,VU,Ray
+Pseudobatos lentiginosus,GT,Guatemala,VU,Ray
+Pseudobatos lentiginosus,HN,Honduras,VU,Ray
+Pseudobatos lentiginosus,MX,Mexico,VU,Ray
+Pseudobatos lentiginosus,NI,Nicaragua,VU,Ray
+Pseudobatos lentiginosus,US,United States,VU,Ray
+Pseudobatos prahli,CO,Colombia,VU,Ray
+Pseudobatos prahli,CR,Costa Rica,VU,Ray
+Pseudobatos prahli,EC,Ecuador,VU,Ray
+Pseudobatos prahli,SV,El Salvador,VU,Ray
+Pseudobatos prahli,GT,Guatemala,VU,Ray
+Pseudobatos prahli,HN,Honduras,VU,Ray
+Pseudobatos prahli,MX,Mexico,VU,Ray
+Pseudobatos prahli,NI,Nicaragua,VU,Ray
+Pseudobatos prahli,PA,Panama,VU,Ray
+Pseudobatos prahli,PE,Peru,VU,Ray
+Pseudoginglymostoma brevicaudatum,KE,Kenya,CR,Shark
+Pseudoginglymostoma brevicaudatum,MG,Madagascar,CR,Shark
+Pseudoginglymostoma brevicaudatum,MU,Mauritius,CR,Shark
+Pseudoginglymostoma brevicaudatum,SC,Seychelles,CR,Shark
+Pseudoginglymostoma brevicaudatum,TZ,"Tanzania, United Republic of",CR,Shark
+Rhina ancylostoma,AU,Australia,CR,Ray
+Rhina ancylostoma,BH,Bahrain,CR,Ray
+Rhina ancylostoma,BD,Bangladesh,CR,Ray
+Rhina ancylostoma,BN,Brunei Darussalam,CR,Ray
+Rhina ancylostoma,KH,Cambodia,CR,Ray
+Rhina ancylostoma,CN,China,CR,Ray
+Rhina ancylostoma,DJ,Djibouti,CR,Ray
+Rhina ancylostoma,EG,Egypt,CR,Ray
+Rhina ancylostoma,ER,Eritrea,CR,Ray
+Rhina ancylostoma,IN,India,CR,Ray
+Rhina ancylostoma,ID,Indonesia,CR,Ray
+Rhina ancylostoma,IR,"Iran, Islamic Republic of",CR,Ray
+Rhina ancylostoma,IQ,Iraq,CR,Ray
+Rhina ancylostoma,IL,Israel,CR,Ray
+Rhina ancylostoma,JP,Japan,CR,Ray
+Rhina ancylostoma,KE,Kenya,CR,Ray
+Rhina ancylostoma,KP,"Korea, Democratic People's Republic of",CR,Ray
+Rhina ancylostoma,KR,"Korea, Republic of",CR,Ray
+Rhina ancylostoma,KW,Kuwait,CR,Ray
+Rhina ancylostoma,MG,Madagascar,CR,Ray
+Rhina ancylostoma,MY,Malaysia,CR,Ray
+Rhina ancylostoma,MV,Maldives,CR,Ray
+Rhina ancylostoma,MU,Mauritius,CR,Ray
+Rhina ancylostoma,MZ,Mozambique,CR,Ray
+Rhina ancylostoma,MM,Myanmar,CR,Ray
+Rhina ancylostoma,NC,New Caledonia,CR,Ray
+Rhina ancylostoma,OM,Oman,CR,Ray
+Rhina ancylostoma,PK,Pakistan,CR,Ray
+Rhina ancylostoma,PG,Papua New Guinea,CR,Ray
+Rhina ancylostoma,PH,Philippines,CR,Ray
+Rhina ancylostoma,QA,Qatar,CR,Ray
+Rhina ancylostoma,RE,Réunion,CR,Ray
+Rhina ancylostoma,SA,Saudi Arabia,CR,Ray
+Rhina ancylostoma,SC,Seychelles,CR,Ray
+Rhina ancylostoma,SG,Singapore,CR,Ray
+Rhina ancylostoma,SO,Somalia,CR,Ray
+Rhina ancylostoma,ZA,South Africa,CR,Ray
+Rhina ancylostoma,LK,Sri Lanka,CR,Ray
+Rhina ancylostoma,SD,Sudan,CR,Ray
+Rhina ancylostoma,TW,"Taiwan, Province of China",CR,Ray
+Rhina ancylostoma,TZ,"Tanzania, United Republic of",CR,Ray
+Rhina ancylostoma,TH,Thailand,CR,Ray
+Rhina ancylostoma,TL,Timor-Leste,CR,Ray
+Rhina ancylostoma,AE,United Arab Emirates,CR,Ray
+Rhina ancylostoma,VN,Viet Nam,CR,Ray
+Rhina ancylostoma,YE,Yemen,CR,Ray
+Rhincodon typus,AS,American Samoa,EN,Shark
+Rhincodon typus,AO,Angola,EN,Shark
+Rhincodon typus,AI,Anguilla,EN,Shark
+Rhincodon typus,AG,Antigua and Barbuda,EN,Shark
+Rhincodon typus,AR,Argentina,EN,Shark
+Rhincodon typus,AW,Aruba,EN,Shark
+Rhincodon typus,AU,Australia,EN,Shark
+Rhincodon typus,BS,Bahamas,EN,Shark
+Rhincodon typus,BH,Bahrain,EN,Shark
+Rhincodon typus,BD,Bangladesh,EN,Shark
+Rhincodon typus,BB,Barbados,EN,Shark
+Rhincodon typus,BZ,Belize,EN,Shark
+Rhincodon typus,BJ,Benin,EN,Shark
+Rhincodon typus,BR,Brazil,EN,Shark
+Rhincodon typus,BN,Brunei Darussalam,EN,Shark
+Rhincodon typus,CI,Côte d'Ivoire,EN,Shark
+Rhincodon typus,KH,Cambodia,EN,Shark
+Rhincodon typus,CM,Cameroon,EN,Shark
+Rhincodon typus,CA,Canada,EN,Shark
+Rhincodon typus,CV,Cape Verde,EN,Shark
+Rhincodon typus,KY,Cayman Islands,EN,Shark
+Rhincodon typus,CL,Chile,EN,Shark
+Rhincodon typus,CN,China,EN,Shark
+Rhincodon typus,CO,Colombia,EN,Shark
+Rhincodon typus,CG,Congo,EN,Shark
+Rhincodon typus,CD,"Congo, the Democratic Republic of the",EN,Shark
+Rhincodon typus,CK,Cook Islands,EN,Shark
+Rhincodon typus,CR,Costa Rica,EN,Shark
+Rhincodon typus,CU,Cuba,EN,Shark
+Rhincodon typus,CW,Curaçao,EN,Shark
+Rhincodon typus,DJ,Djibouti,EN,Shark
+Rhincodon typus,DM,Dominica,EN,Shark
+Rhincodon typus,EC,Ecuador,EN,Shark
+Rhincodon typus,EG,Egypt,EN,Shark
+Rhincodon typus,SV,El Salvador,EN,Shark
+Rhincodon typus,GQ,Equatorial Guinea,EN,Shark
+Rhincodon typus,ER,Eritrea,EN,Shark
+Rhincodon typus,ET,Ethiopia,EN,Shark
+Rhincodon typus,FJ,Fiji,EN,Shark
+Rhincodon typus,GF,French Guiana,EN,Shark
+Rhincodon typus,PF,French Polynesia,EN,Shark
+Rhincodon typus,GA,Gabon,EN,Shark
+Rhincodon typus,GM,Gambia,EN,Shark
+Rhincodon typus,GH,Ghana,EN,Shark
+Rhincodon typus,GD,Grenada,EN,Shark
+Rhincodon typus,GP,Guadeloupe,EN,Shark
+Rhincodon typus,GT,Guatemala,EN,Shark
+Rhincodon typus,GN,Guinea,EN,Shark
+Rhincodon typus,GW,Guinea-Bissau,EN,Shark
+Rhincodon typus,GY,Guyana,EN,Shark
+Rhincodon typus,HT,Haiti,EN,Shark
+Rhincodon typus,HN,Honduras,EN,Shark
+Rhincodon typus,IN,India,EN,Shark
+Rhincodon typus,ID,Indonesia,EN,Shark
+Rhincodon typus,IR,"Iran, Islamic Republic of",EN,Shark
+Rhincodon typus,IQ,Iraq,EN,Shark
+Rhincodon typus,IL,Israel,EN,Shark
+Rhincodon typus,JM,Jamaica,EN,Shark
+Rhincodon typus,JP,Japan,EN,Shark
+Rhincodon typus,JO,Jordan,EN,Shark
+Rhincodon typus,KE,Kenya,EN,Shark
+Rhincodon typus,KI,Kiribati,EN,Shark
+Rhincodon typus,LR,Liberia,EN,Shark
+Rhincodon typus,MG,Madagascar,EN,Shark
+Rhincodon typus,MY,Malaysia,EN,Shark
+Rhincodon typus,MV,Maldives,EN,Shark
+Rhincodon typus,MH,Marshall Islands,EN,Shark
+Rhincodon typus,MQ,Martinique,EN,Shark
+Rhincodon typus,MR,Mauritania,EN,Shark
+Rhincodon typus,MX,Mexico,EN,Shark
+Rhincodon typus,FM,"Micronesia, Federated States of",EN,Shark
+Rhincodon typus,MS,Montserrat,EN,Shark
+Rhincodon typus,MA,Morocco,EN,Shark
+Rhincodon typus,MZ,Mozambique,EN,Shark
+Rhincodon typus,MM,Myanmar,EN,Shark
+Rhincodon typus,NA,Namibia,EN,Shark
+Rhincodon typus,NR,Nauru,EN,Shark
+Rhincodon typus,NC,New Caledonia,EN,Shark
+Rhincodon typus,NZ,New Zealand,EN,Shark
+Rhincodon typus,NI,Nicaragua,EN,Shark
+Rhincodon typus,NG,Nigeria,EN,Shark
+Rhincodon typus,NU,Niue,EN,Shark
+Rhincodon typus,OM,Oman,EN,Shark
+Rhincodon typus,PK,Pakistan,EN,Shark
+Rhincodon typus,PA,Panama,EN,Shark
+Rhincodon typus,PG,Papua New Guinea,EN,Shark
+Rhincodon typus,PE,Peru,EN,Shark
+Rhincodon typus,PH,Philippines,EN,Shark
+Rhincodon typus,PN,Pitcairn,EN,Shark
+Rhincodon typus,PT,Portugal,EN,Shark
+Rhincodon typus,PR,Puerto Rico,EN,Shark
+Rhincodon typus,QA,Qatar,EN,Shark
+Rhincodon typus,SH,"Saint Helena, Ascension and Tristan da Cunha",EN,Shark
+Rhincodon typus,KN,Saint Kitts and Nevis,EN,Shark
+Rhincodon typus,LC,Saint Lucia,EN,Shark
+Rhincodon typus,MF,Saint Martin (French part),EN,Shark
+Rhincodon typus,VC,Saint Vincent and the Grenadines,EN,Shark
+Rhincodon typus,WS,Samoa,EN,Shark
+Rhincodon typus,ST,Sao Tome and Principe,EN,Shark
+Rhincodon typus,SA,Saudi Arabia,EN,Shark
+Rhincodon typus,SN,Senegal,EN,Shark
+Rhincodon typus,SL,Sierra Leone,EN,Shark
+Rhincodon typus,SX,Sint Maarten (Dutch part),EN,Shark
+Rhincodon typus,SB,Solomon Islands,EN,Shark
+Rhincodon typus,SO,Somalia,EN,Shark
+Rhincodon typus,ZA,South Africa,EN,Shark
+Rhincodon typus,SD,Sudan,EN,Shark
+Rhincodon typus,SR,Suriname,EN,Shark
+Rhincodon typus,TW,"Taiwan, Province of China",EN,Shark
+Rhincodon typus,TZ,"Tanzania, United Republic of",EN,Shark
+Rhincodon typus,TH,Thailand,EN,Shark
+Rhincodon typus,TG,Togo,EN,Shark
+Rhincodon typus,TK,Tokelau,EN,Shark
+Rhincodon typus,TO,Tonga,EN,Shark
+Rhincodon typus,TC,Turks and Caicos Islands,EN,Shark
+Rhincodon typus,TV,Tuvalu,EN,Shark
+Rhincodon typus,AE,United Arab Emirates,EN,Shark
+Rhincodon typus,US,United States,EN,Shark
+Rhincodon typus,UY,Uruguay,EN,Shark
+Rhincodon typus,VU,Vanuatu,EN,Shark
+Rhincodon typus,VE,"Venezuela, Bolivarian Republic of",EN,Shark
+Rhincodon typus,VN,Viet Nam,EN,Shark
+Rhincodon typus,VG,"Virgin Islands, British",EN,Shark
+Rhincodon typus,VI,"Virgin Islands, U.S.",EN,Shark
+Rhincodon typus,WF,Wallis and Futuna,EN,Shark
+Rhincodon typus,EH,Western Sahara,EN,Shark
+Rhincodon typus,YE,Yemen,EN,Shark
+Rhinobatos hynnicephalus,CN,China,EN,Ray
+Rhinobatos hynnicephalus,JP,Japan,EN,Ray
+Rhinobatos hynnicephalus,KR,"Korea, Republic of",EN,Ray
+Rhinobatos hynnicephalus,TW,"Taiwan, Province of China",EN,Ray
+Rhinobatos hynnicephalus,VN,Viet Nam,EN,Ray
+Rhinobatos schlegelii,CN,China,CR,Ray
+Rhinobatos schlegelii,JP,Japan,CR,Ray
+Rhinobatos schlegelii,KR,"Korea, Republic of",CR,Ray
+Rhinobatos schlegelii,TW,"Taiwan, Province of China",CR,Ray
+Rhinoptera javanica,AU,Australia,EN,Ray
+Rhinoptera javanica,BD,Bangladesh,EN,Ray
+Rhinoptera javanica,BN,Brunei Darussalam,EN,Ray
+Rhinoptera javanica,KH,Cambodia,EN,Ray
+Rhinoptera javanica,CN,China,EN,Ray
+Rhinoptera javanica,IN,India,EN,Ray
+Rhinoptera javanica,ID,Indonesia,EN,Ray
+Rhinoptera javanica,IR,"Iran, Islamic Republic of",EN,Ray
+Rhinoptera javanica,JP,Japan,EN,Ray
+Rhinoptera javanica,MY,Malaysia,EN,Ray
+Rhinoptera javanica,MM,Myanmar,EN,Ray
+Rhinoptera javanica,OM,Oman,EN,Ray
+Rhinoptera javanica,PK,Pakistan,EN,Ray
+Rhinoptera javanica,PH,Philippines,EN,Ray
+Rhinoptera javanica,SG,Singapore,EN,Ray
+Rhinoptera javanica,LK,Sri Lanka,EN,Ray
+Rhinoptera javanica,TW,"Taiwan, Province of China",EN,Ray
+Rhinoptera javanica,TH,Thailand,EN,Ray
+Rhinoptera javanica,TL,Timor-Leste,EN,Ray
+Rhinoptera javanica,AE,United Arab Emirates,EN,Ray
+Rhinoptera javanica,VN,Viet Nam,EN,Ray
+Rhynchobatus australiae,AU,Australia,CR,Ray
+Rhynchobatus australiae,BH,Bahrain,CR,Ray
+Rhynchobatus australiae,BD,Bangladesh,CR,Ray
+Rhynchobatus australiae,BN,Brunei Darussalam,CR,Ray
+Rhynchobatus australiae,KH,Cambodia,CR,Ray
+Rhynchobatus australiae,CN,China,CR,Ray
+Rhynchobatus australiae,DJ,Djibouti,CR,Ray
+Rhynchobatus australiae,EG,Egypt,CR,Ray
+Rhynchobatus australiae,ER,Eritrea,CR,Ray
+Rhynchobatus australiae,IN,India,CR,Ray
+Rhynchobatus australiae,ID,Indonesia,CR,Ray
+Rhynchobatus australiae,IR,"Iran, Islamic Republic of",CR,Ray
+Rhynchobatus australiae,IQ,Iraq,CR,Ray
+Rhynchobatus australiae,IL,Israel,CR,Ray
+Rhynchobatus australiae,KE,Kenya,CR,Ray
+Rhynchobatus australiae,KW,Kuwait,CR,Ray
+Rhynchobatus australiae,MY,Malaysia,CR,Ray
+Rhynchobatus australiae,MV,Maldives,CR,Ray
+Rhynchobatus australiae,MZ,Mozambique,CR,Ray
+Rhynchobatus australiae,MM,Myanmar,CR,Ray
+Rhynchobatus australiae,OM,Oman,CR,Ray
+Rhynchobatus australiae,PK,Pakistan,CR,Ray
+Rhynchobatus australiae,PG,Papua New Guinea,CR,Ray
+Rhynchobatus australiae,PH,Philippines,CR,Ray
+Rhynchobatus australiae,QA,Qatar,CR,Ray
+Rhynchobatus australiae,SA,Saudi Arabia,CR,Ray
+Rhynchobatus australiae,SC,Seychelles,CR,Ray
+Rhynchobatus australiae,SG,Singapore,CR,Ray
+Rhynchobatus australiae,SB,Solomon Islands,CR,Ray
+Rhynchobatus australiae,SO,Somalia,CR,Ray
+Rhynchobatus australiae,LK,Sri Lanka,CR,Ray
+Rhynchobatus australiae,SD,Sudan,CR,Ray
+Rhynchobatus australiae,TW,"Taiwan, Province of China",CR,Ray
+Rhynchobatus australiae,TZ,"Tanzania, United Republic of",CR,Ray
+Rhynchobatus australiae,TH,Thailand,CR,Ray
+Rhynchobatus australiae,TL,Timor-Leste,CR,Ray
+Rhynchobatus australiae,VN,Viet Nam,CR,Ray
+Rhynchobatus australiae,YE,Yemen,CR,Ray
+Rhynchobatus djiddensis,BH,Bahrain,CR,Ray
+Rhynchobatus djiddensis,DJ,Djibouti,CR,Ray
+Rhynchobatus djiddensis,EG,Egypt,CR,Ray
+Rhynchobatus djiddensis,ER,Eritrea,CR,Ray
+Rhynchobatus djiddensis,IR,"Iran, Islamic Republic of",CR,Ray
+Rhynchobatus djiddensis,IQ,Iraq,CR,Ray
+Rhynchobatus djiddensis,IL,Israel,CR,Ray
+Rhynchobatus djiddensis,KE,Kenya,CR,Ray
+Rhynchobatus djiddensis,KW,Kuwait,CR,Ray
+Rhynchobatus djiddensis,MZ,Mozambique,CR,Ray
+Rhynchobatus djiddensis,OM,Oman,CR,Ray
+Rhynchobatus djiddensis,QA,Qatar,CR,Ray
+Rhynchobatus djiddensis,SA,Saudi Arabia,CR,Ray
+Rhynchobatus djiddensis,SO,Somalia,CR,Ray
+Rhynchobatus djiddensis,ZA,South Africa,CR,Ray
+Rhynchobatus djiddensis,SD,Sudan,CR,Ray
+Rhynchobatus djiddensis,TZ,"Tanzania, United Republic of",CR,Ray
+Rhynchobatus djiddensis,AE,United Arab Emirates,CR,Ray
+Rhynchobatus djiddensis,YE,Yemen,CR,Ray
+Rhynchobatus laevis,BH,Bahrain,CR,Ray
+Rhynchobatus laevis,BD,Bangladesh,CR,Ray
+Rhynchobatus laevis,CN,China,CR,Ray
+Rhynchobatus laevis,IN,India,CR,Ray
+Rhynchobatus laevis,IR,"Iran, Islamic Republic of",CR,Ray
+Rhynchobatus laevis,IQ,Iraq,CR,Ray
+Rhynchobatus laevis,JP,Japan,CR,Ray
+Rhynchobatus laevis,KW,Kuwait,CR,Ray
+Rhynchobatus laevis,OM,Oman,CR,Ray
+Rhynchobatus laevis,PK,Pakistan,CR,Ray
+Rhynchobatus laevis,QA,Qatar,CR,Ray
+Rhynchobatus laevis,SA,Saudi Arabia,CR,Ray
+Rhynchobatus laevis,LK,Sri Lanka,CR,Ray
+Rhynchobatus laevis,TW,"Taiwan, Province of China",CR,Ray
+Rhynchobatus laevis,AE,United Arab Emirates,CR,Ray
+Scoliodon macrorhynchos,BN,Brunei Darussalam,NT,Shark
+Scoliodon macrorhynchos,CN,China,NT,Shark
+Scoliodon macrorhynchos,JP,Japan,NT,Shark
+Scoliodon macrorhynchos,KP,"Korea, Democratic People's Republic of",NT,Shark
+Scoliodon macrorhynchos,KR,"Korea, Republic of",NT,Shark
+Scoliodon macrorhynchos,MY,Malaysia,NT,Shark
+Scoliodon macrorhynchos,PH,Philippines,NT,Shark
+Scoliodon macrorhynchos,SG,Singapore,NT,Shark
+Scoliodon macrorhynchos,TW,"Taiwan, Province of China",NT,Shark
+Scoliodon macrorhynchos,TH,Thailand,NT,Shark
+Scoliodon macrorhynchos,VN,Viet Nam,NT,Shark
+Sphyrna lewini,AL,Albania,CR,Shark
+Sphyrna lewini,DZ,Algeria,CR,Shark
+Sphyrna lewini,AO,Angola,CR,Shark
+Sphyrna lewini,AI,Anguilla,CR,Shark
+Sphyrna lewini,AG,Antigua and Barbuda,CR,Shark
+Sphyrna lewini,AW,Aruba,CR,Shark
+Sphyrna lewini,AU,Australia,CR,Shark
+Sphyrna lewini,BS,Bahamas,CR,Shark
+Sphyrna lewini,BH,Bahrain,CR,Shark
+Sphyrna lewini,BD,Bangladesh,CR,Shark
+Sphyrna lewini,BB,Barbados,CR,Shark
+Sphyrna lewini,BZ,Belize,CR,Shark
+Sphyrna lewini,BJ,Benin,CR,Shark
+Sphyrna lewini,BQ,"Bonaire, Sint Eustatius and Saba",CR,Shark
+Sphyrna lewini,BA,Bosnia and Herzegovina,CR,Shark
+Sphyrna lewini,BR,Brazil,CR,Shark
+Sphyrna lewini,BN,Brunei Darussalam,CR,Shark
+Sphyrna lewini,CI,Côte d'Ivoire,CR,Shark
+Sphyrna lewini,KH,Cambodia,CR,Shark
+Sphyrna lewini,CM,Cameroon,CR,Shark
+Sphyrna lewini,CV,Cape Verde,CR,Shark
+Sphyrna lewini,KY,Cayman Islands,CR,Shark
+Sphyrna lewini,CN,China,CR,Shark
+Sphyrna lewini,CO,Colombia,CR,Shark
+Sphyrna lewini,KM,Comoros,CR,Shark
+Sphyrna lewini,CG,Congo,CR,Shark
+Sphyrna lewini,CR,Costa Rica,CR,Shark
+Sphyrna lewini,HR,Croatia,CR,Shark
+Sphyrna lewini,CU,Cuba,CR,Shark
+Sphyrna lewini,CW,Curaçao,CR,Shark
+Sphyrna lewini,DJ,Djibouti,CR,Shark
+Sphyrna lewini,DM,Dominica,CR,Shark
+Sphyrna lewini,DO,Dominican Republic,CR,Shark
+Sphyrna lewini,EC,Ecuador,CR,Shark
+Sphyrna lewini,EG,Egypt,CR,Shark
+Sphyrna lewini,SV,El Salvador,CR,Shark
+Sphyrna lewini,GQ,Equatorial Guinea,CR,Shark
+Sphyrna lewini,ER,Eritrea,CR,Shark
+Sphyrna lewini,FR,France,CR,Shark
+Sphyrna lewini,GF,French Guiana,CR,Shark
+Sphyrna lewini,PF,French Polynesia,CR,Shark
+Sphyrna lewini,GA,Gabon,CR,Shark
+Sphyrna lewini,GM,Gambia,CR,Shark
+Sphyrna lewini,GH,Ghana,CR,Shark
+Sphyrna lewini,GR,Greece,CR,Shark
+Sphyrna lewini,GD,Grenada,CR,Shark
+Sphyrna lewini,GP,Guadeloupe,CR,Shark
+Sphyrna lewini,GT,Guatemala,CR,Shark
+Sphyrna lewini,GN,Guinea,CR,Shark
+Sphyrna lewini,GW,Guinea-Bissau,CR,Shark
+Sphyrna lewini,GY,Guyana,CR,Shark
+Sphyrna lewini,HT,Haiti,CR,Shark
+Sphyrna lewini,HN,Honduras,CR,Shark
+Sphyrna lewini,HK,Hong Kong,CR,Shark
+Sphyrna lewini,IN,India,CR,Shark
+Sphyrna lewini,ID,Indonesia,CR,Shark
+Sphyrna lewini,IR,"Iran, Islamic Republic of",CR,Shark
+Sphyrna lewini,IQ,Iraq,CR,Shark
+Sphyrna lewini,IL,Israel,CR,Shark
+Sphyrna lewini,IT,Italy,CR,Shark
+Sphyrna lewini,JM,Jamaica,CR,Shark
+Sphyrna lewini,JP,Japan,CR,Shark
+Sphyrna lewini,KE,Kenya,CR,Shark
+Sphyrna lewini,KR,"Korea, Republic of",CR,Shark
+Sphyrna lewini,KW,Kuwait,CR,Shark
+Sphyrna lewini,LB,Lebanon,CR,Shark
+Sphyrna lewini,LR,Liberia,CR,Shark
+Sphyrna lewini,LY,Libya,CR,Shark
+Sphyrna lewini,MO,Macao,CR,Shark
+Sphyrna lewini,MG,Madagascar,CR,Shark
+Sphyrna lewini,MY,Malaysia,CR,Shark
+Sphyrna lewini,MV,Maldives,CR,Shark
+Sphyrna lewini,MR,Mauritania,CR,Shark
+Sphyrna lewini,MU,Mauritius,CR,Shark
+Sphyrna lewini,YT,Mayotte,CR,Shark
+Sphyrna lewini,MX,Mexico,CR,Shark
+Sphyrna lewini,ME,Montenegro,CR,Shark
+Sphyrna lewini,MA,Morocco,CR,Shark
+Sphyrna lewini,MM,Myanmar,CR,Shark
+Sphyrna lewini,NA,Namibia,CR,Shark
+Sphyrna lewini,NC,New Caledonia,CR,Shark
+Sphyrna lewini,NI,Nicaragua,CR,Shark
+Sphyrna lewini,NG,Nigeria,CR,Shark
+Sphyrna lewini,OM,Oman,CR,Shark
+Sphyrna lewini,PK,Pakistan,CR,Shark
+Sphyrna lewini,PA,Panama,CR,Shark
+Sphyrna lewini,PG,Papua New Guinea,CR,Shark
+Sphyrna lewini,PE,Peru,CR,Shark
+Sphyrna lewini,PH,Philippines,CR,Shark
+Sphyrna lewini,PT,Portugal,CR,Shark
+Sphyrna lewini,PR,Puerto Rico,CR,Shark
+Sphyrna lewini,QA,Qatar,CR,Shark
+Sphyrna lewini,RE,Réunion,CR,Shark
+Sphyrna lewini,KN,Saint Kitts and Nevis,CR,Shark
+Sphyrna lewini,LC,Saint Lucia,CR,Shark
+Sphyrna lewini,VC,Saint Vincent and the Grenadines,CR,Shark
+Sphyrna lewini,SM,San Marino,CR,Shark
+Sphyrna lewini,ST,Sao Tome and Principe,CR,Shark
+Sphyrna lewini,SA,Saudi Arabia,CR,Shark
+Sphyrna lewini,SN,Senegal,CR,Shark
+Sphyrna lewini,SC,Seychelles,CR,Shark
+Sphyrna lewini,SL,Sierra Leone,CR,Shark
+Sphyrna lewini,SG,Singapore,CR,Shark
+Sphyrna lewini,SI,Slovenia,CR,Shark
+Sphyrna lewini,SB,Solomon Islands,CR,Shark
+Sphyrna lewini,SO,Somalia,CR,Shark
+Sphyrna lewini,ZA,South Africa,CR,Shark
+Sphyrna lewini,ES,Spain,CR,Shark
+Sphyrna lewini,LK,Sri Lanka,CR,Shark
+Sphyrna lewini,SD,Sudan,CR,Shark
+Sphyrna lewini,SR,Suriname,CR,Shark
+Sphyrna lewini,SY,Syrian Arab Republic,CR,Shark
+Sphyrna lewini,TW,"Taiwan, Province of China",CR,Shark
+Sphyrna lewini,TZ,"Tanzania, United Republic of",CR,Shark
+Sphyrna lewini,TH,Thailand,CR,Shark
+Sphyrna lewini,TL,Timor-Leste,CR,Shark
+Sphyrna lewini,TG,Togo,CR,Shark
+Sphyrna lewini,TT,Trinidad and Tobago,CR,Shark
+Sphyrna lewini,TN,Tunisia,CR,Shark
+Sphyrna lewini,TR,Turkey,CR,Shark
+Sphyrna lewini,AE,United Arab Emirates,CR,Shark
+Sphyrna lewini,US,United States,CR,Shark
+Sphyrna lewini,UY,Uruguay,CR,Shark
+Sphyrna lewini,VE,"Venezuela, Bolivarian Republic of",CR,Shark
+Sphyrna lewini,VN,Viet Nam,CR,Shark
+Sphyrna lewini,EH,Western Sahara,CR,Shark
+Sphyrna lewini,YE,Yemen,CR,Shark
+Sphyrna mokarran,AL,Albania,CR,Shark
+Sphyrna mokarran,DZ,Algeria,CR,Shark
+Sphyrna mokarran,AO,Angola,CR,Shark
+Sphyrna mokarran,AI,Anguilla,CR,Shark
+Sphyrna mokarran,AG,Antigua and Barbuda,CR,Shark
+Sphyrna mokarran,AW,Aruba,CR,Shark
+Sphyrna mokarran,AU,Australia,CR,Shark
+Sphyrna mokarran,BS,Bahamas,CR,Shark
+Sphyrna mokarran,BH,Bahrain,CR,Shark
+Sphyrna mokarran,BD,Bangladesh,CR,Shark
+Sphyrna mokarran,BB,Barbados,CR,Shark
+Sphyrna mokarran,BZ,Belize,CR,Shark
+Sphyrna mokarran,BJ,Benin,CR,Shark
+Sphyrna mokarran,BQ,"Bonaire, Sint Eustatius and Saba",CR,Shark
+Sphyrna mokarran,BA,Bosnia and Herzegovina,CR,Shark
+Sphyrna mokarran,BR,Brazil,CR,Shark
+Sphyrna mokarran,IO,British Indian Ocean Territory,CR,Shark
+Sphyrna mokarran,CI,Côte d'Ivoire,CR,Shark
+Sphyrna mokarran,KH,Cambodia,CR,Shark
+Sphyrna mokarran,CM,Cameroon,CR,Shark
+Sphyrna mokarran,CV,Cape Verde,CR,Shark
+Sphyrna mokarran,KY,Cayman Islands,CR,Shark
+Sphyrna mokarran,CL,Chile,CR,Shark
+Sphyrna mokarran,CN,China,CR,Shark
+Sphyrna mokarran,CO,Colombia,CR,Shark
+Sphyrna mokarran,KM,Comoros,CR,Shark
+Sphyrna mokarran,CG,Congo,CR,Shark
+Sphyrna mokarran,CR,Costa Rica,CR,Shark
+Sphyrna mokarran,HR,Croatia,CR,Shark
+Sphyrna mokarran,CU,Cuba,CR,Shark
+Sphyrna mokarran,CW,Curaçao,CR,Shark
+Sphyrna mokarran,DJ,Djibouti,CR,Shark
+Sphyrna mokarran,DM,Dominica,CR,Shark
+Sphyrna mokarran,DO,Dominican Republic,CR,Shark
+Sphyrna mokarran,EC,Ecuador,CR,Shark
+Sphyrna mokarran,EG,Egypt,CR,Shark
+Sphyrna mokarran,SV,El Salvador,CR,Shark
+Sphyrna mokarran,GQ,Equatorial Guinea,CR,Shark
+Sphyrna mokarran,ER,Eritrea,CR,Shark
+Sphyrna mokarran,FR,France,CR,Shark
+Sphyrna mokarran,GF,French Guiana,CR,Shark
+Sphyrna mokarran,PF,French Polynesia,CR,Shark
+Sphyrna mokarran,TF,French Southern Territories,CR,Shark
+Sphyrna mokarran,GA,Gabon,CR,Shark
+Sphyrna mokarran,GM,Gambia,CR,Shark
+Sphyrna mokarran,GH,Ghana,CR,Shark
+Sphyrna mokarran,GI,Gibraltar,CR,Shark
+Sphyrna mokarran,GR,Greece,CR,Shark
+Sphyrna mokarran,GD,Grenada,CR,Shark
+Sphyrna mokarran,GP,Guadeloupe,CR,Shark
+Sphyrna mokarran,GT,Guatemala,CR,Shark
+Sphyrna mokarran,GN,Guinea,CR,Shark
+Sphyrna mokarran,GW,Guinea-Bissau,CR,Shark
+Sphyrna mokarran,GY,Guyana,CR,Shark
+Sphyrna mokarran,HT,Haiti,CR,Shark
+Sphyrna mokarran,HN,Honduras,CR,Shark
+Sphyrna mokarran,HK,Hong Kong,CR,Shark
+Sphyrna mokarran,IN,India,CR,Shark
+Sphyrna mokarran,ID,Indonesia,CR,Shark
+Sphyrna mokarran,IR,"Iran, Islamic Republic of",CR,Shark
+Sphyrna mokarran,IQ,Iraq,CR,Shark
+Sphyrna mokarran,IL,Israel,CR,Shark
+Sphyrna mokarran,IT,Italy,CR,Shark
+Sphyrna mokarran,JM,Jamaica,CR,Shark
+Sphyrna mokarran,JP,Japan,CR,Shark
+Sphyrna mokarran,KE,Kenya,CR,Shark
+Sphyrna mokarran,KW,Kuwait,CR,Shark
+Sphyrna mokarran,LR,Liberia,CR,Shark
+Sphyrna mokarran,LY,Libya,CR,Shark
+Sphyrna mokarran,MO,Macao,CR,Shark
+Sphyrna mokarran,MG,Madagascar,CR,Shark
+Sphyrna mokarran,MV,Maldives,CR,Shark
+Sphyrna mokarran,MT,Malta,CR,Shark
+Sphyrna mokarran,MQ,Martinique,CR,Shark
+Sphyrna mokarran,MR,Mauritania,CR,Shark
+Sphyrna mokarran,MU,Mauritius,CR,Shark
+Sphyrna mokarran,MX,Mexico,CR,Shark
+Sphyrna mokarran,MC,Monaco,CR,Shark
+Sphyrna mokarran,ME,Montenegro,CR,Shark
+Sphyrna mokarran,MS,Montserrat,CR,Shark
+Sphyrna mokarran,MA,Morocco,CR,Shark
+Sphyrna mokarran,MZ,Mozambique,CR,Shark
+Sphyrna mokarran,MM,Myanmar,CR,Shark
+Sphyrna mokarran,NC,New Caledonia,CR,Shark
+Sphyrna mokarran,NI,Nicaragua,CR,Shark
+Sphyrna mokarran,NG,Nigeria,CR,Shark
+Sphyrna mokarran,OM,Oman,CR,Shark
+Sphyrna mokarran,PK,Pakistan,CR,Shark
+Sphyrna mokarran,PA,Panama,CR,Shark
+Sphyrna mokarran,PG,Papua New Guinea,CR,Shark
+Sphyrna mokarran,PH,Philippines,CR,Shark
+Sphyrna mokarran,PT,Portugal,CR,Shark
+Sphyrna mokarran,PR,Puerto Rico,CR,Shark
+Sphyrna mokarran,QA,Qatar,CR,Shark
+Sphyrna mokarran,RE,Réunion,CR,Shark
+Sphyrna mokarran,BL,Saint Barthélemy,CR,Shark
+Sphyrna mokarran,KN,Saint Kitts and Nevis,CR,Shark
+Sphyrna mokarran,LC,Saint Lucia,CR,Shark
+Sphyrna mokarran,MF,Saint Martin (French part),CR,Shark
+Sphyrna mokarran,VC,Saint Vincent and the Grenadines,CR,Shark
+Sphyrna mokarran,ST,Sao Tome and Principe,CR,Shark
+Sphyrna mokarran,SA,Saudi Arabia,CR,Shark
+Sphyrna mokarran,SN,Senegal,CR,Shark
+Sphyrna mokarran,SC,Seychelles,CR,Shark
+Sphyrna mokarran,SL,Sierra Leone,CR,Shark
+Sphyrna mokarran,SX,Sint Maarten (Dutch part),CR,Shark
+Sphyrna mokarran,SI,Slovenia,CR,Shark
+Sphyrna mokarran,SB,Solomon Islands,CR,Shark
+Sphyrna mokarran,SO,Somalia,CR,Shark
+Sphyrna mokarran,ZA,South Africa,CR,Shark
+Sphyrna mokarran,ES,Spain,CR,Shark
+Sphyrna mokarran,LK,Sri Lanka,CR,Shark
+Sphyrna mokarran,SD,Sudan,CR,Shark
+Sphyrna mokarran,SR,Suriname,CR,Shark
+Sphyrna mokarran,TW,"Taiwan, Province of China",CR,Shark
+Sphyrna mokarran,TZ,"Tanzania, United Republic of",CR,Shark
+Sphyrna mokarran,TH,Thailand,CR,Shark
+Sphyrna mokarran,TG,Togo,CR,Shark
+Sphyrna mokarran,TT,Trinidad and Tobago,CR,Shark
+Sphyrna mokarran,TN,Tunisia,CR,Shark
+Sphyrna mokarran,TC,Turks and Caicos Islands,CR,Shark
+Sphyrna mokarran,AE,United Arab Emirates,CR,Shark
+Sphyrna mokarran,US,United States,CR,Shark
+Sphyrna mokarran,UY,Uruguay,CR,Shark
+Sphyrna mokarran,VE,"Venezuela, Bolivarian Republic of",CR,Shark
+Sphyrna mokarran,VN,Viet Nam,CR,Shark
+Sphyrna mokarran,VG,"Virgin Islands, British",CR,Shark
+Sphyrna mokarran,VI,"Virgin Islands, U.S.",CR,Shark
+Sphyrna mokarran,EH,Western Sahara,CR,Shark
+Sphyrna mokarran,YE,Yemen,CR,Shark
+Sphyrna tiburo,AW,Aruba,EN,Shark
+Sphyrna tiburo,BS,Bahamas,EN,Shark
+Sphyrna tiburo,BZ,Belize,EN,Shark
+Sphyrna tiburo,BM,Bermuda,EN,Shark
+Sphyrna tiburo,BQ,"Bonaire, Sint Eustatius and Saba",EN,Shark
+Sphyrna tiburo,BR,Brazil,EN,Shark
+Sphyrna tiburo,CO,Colombia,EN,Shark
+Sphyrna tiburo,CR,Costa Rica,EN,Shark
+Sphyrna tiburo,CU,Cuba,EN,Shark
+Sphyrna tiburo,CW,Curaçao,EN,Shark
+Sphyrna tiburo,EC,Ecuador,EN,Shark
+Sphyrna tiburo,SV,El Salvador,EN,Shark
+Sphyrna tiburo,GF,French Guiana,EN,Shark
+Sphyrna tiburo,GT,Guatemala,EN,Shark
+Sphyrna tiburo,GY,Guyana,EN,Shark
+Sphyrna tiburo,HN,Honduras,EN,Shark
+Sphyrna tiburo,MX,Mexico,EN,Shark
+Sphyrna tiburo,NI,Nicaragua,EN,Shark
+Sphyrna tiburo,PA,Panama,EN,Shark
+Sphyrna tiburo,PE,Peru,EN,Shark
+Sphyrna tiburo,SR,Suriname,EN,Shark
+Sphyrna tiburo,TT,Trinidad and Tobago,EN,Shark
+Sphyrna tiburo,US,United States,EN,Shark
+Sphyrna tiburo,UY,Uruguay,EN,Shark
+Sphyrna tiburo,VE,"Venezuela, Bolivarian Republic of",EN,Shark
+Stegostoma tigrinum,AU,Australia,EN,Shark
+Stegostoma tigrinum,BH,Bahrain,EN,Shark
+Stegostoma tigrinum,BD,Bangladesh,EN,Shark
+Stegostoma tigrinum,KH,Cambodia,EN,Shark
+Stegostoma tigrinum,CN,China,EN,Shark
+Stegostoma tigrinum,FJ,Fiji,EN,Shark
+Stegostoma tigrinum,IN,India,EN,Shark
+Stegostoma tigrinum,ID,Indonesia,EN,Shark
+Stegostoma tigrinum,IR,"Iran, Islamic Republic of",EN,Shark
+Stegostoma tigrinum,JP,Japan,EN,Shark
+Stegostoma tigrinum,KW,Kuwait,EN,Shark
+Stegostoma tigrinum,MG,Madagascar,EN,Shark
+Stegostoma tigrinum,MY,Malaysia,EN,Shark
+Stegostoma tigrinum,MV,Maldives,EN,Shark
+Stegostoma tigrinum,MH,Marshall Islands,EN,Shark
+Stegostoma tigrinum,MZ,Mozambique,EN,Shark
+Stegostoma tigrinum,MM,Myanmar,EN,Shark
+Stegostoma tigrinum,NC,New Caledonia,EN,Shark
+Stegostoma tigrinum,OM,Oman,EN,Shark
+Stegostoma tigrinum,PK,Pakistan,EN,Shark
+Stegostoma tigrinum,PW,Palau,EN,Shark
+Stegostoma tigrinum,PG,Papua New Guinea,EN,Shark
+Stegostoma tigrinum,PH,Philippines,EN,Shark
+Stegostoma tigrinum,QA,Qatar,EN,Shark
+Stegostoma tigrinum,SA,Saudi Arabia,EN,Shark
+Stegostoma tigrinum,SG,Singapore,EN,Shark
+Stegostoma tigrinum,SB,Solomon Islands,EN,Shark
+Stegostoma tigrinum,ZA,South Africa,EN,Shark
+Stegostoma tigrinum,LK,Sri Lanka,EN,Shark
+Stegostoma tigrinum,SD,Sudan,EN,Shark
+Stegostoma tigrinum,TW,"Taiwan, Province of China",EN,Shark
+Stegostoma tigrinum,TZ,"Tanzania, United Republic of",EN,Shark
+Stegostoma tigrinum,TH,Thailand,EN,Shark
+Stegostoma tigrinum,TL,Timor-Leste,EN,Shark
+Stegostoma tigrinum,TO,Tonga,EN,Shark
+Stegostoma tigrinum,AE,United Arab Emirates,EN,Shark
+Stegostoma tigrinum,VN,Viet Nam,EN,Shark
+Stegostoma tigrinum,YE,Yemen,EN,Shark
+Styracura pacifica,CO,Colombia,VU,Ray
+Styracura pacifica,CR,Costa Rica,VU,Ray
+Styracura pacifica,EC,Ecuador,VU,Ray
+Styracura pacifica,SV,El Salvador,VU,Ray
+Styracura pacifica,GT,Guatemala,VU,Ray
+Styracura pacifica,HN,Honduras,VU,Ray
+Styracura pacifica,MX,Mexico,VU,Ray
+Styracura pacifica,NI,Nicaragua,VU,Ray
+Styracura pacifica,PA,Panama,VU,Ray
+Styracura schmardae,AI,Anguilla,EN,Ray
+Styracura schmardae,AG,Antigua and Barbuda,EN,Ray
+Styracura schmardae,AW,Aruba,EN,Ray
+Styracura schmardae,BS,Bahamas,EN,Ray
+Styracura schmardae,BB,Barbados,EN,Ray
+Styracura schmardae,BZ,Belize,EN,Ray
+Styracura schmardae,BR,Brazil,EN,Ray
+Styracura schmardae,KY,Cayman Islands,EN,Ray
+Styracura schmardae,CO,Colombia,EN,Ray
+Styracura schmardae,CR,Costa Rica,EN,Ray
+Styracura schmardae,CU,Cuba,EN,Ray
+Styracura schmardae,CW,Curaçao,EN,Ray
+Styracura schmardae,DM,Dominica,EN,Ray
+Styracura schmardae,DO,Dominican Republic,EN,Ray
+Styracura schmardae,G,French Guiana,EN,Ray
+Styracura schmardae,GD,Grenada,EN,Ray
+Styracura schmardae,GP,Guadeloupe,EN,Ray
+Styracura schmardae,GT,Guatemala,EN,Ray
+Styracura schmardae,GY,Guyana,EN,Ray
+Styracura schmardae,HT,Haiti,EN,Ray
+Styracura schmardae,HN,Honduras,EN,Ray
+Styracura schmardae,JM,Jamaica,EN,Ray
+Styracura schmardae,MQ,Martinique,EN,Ray
+Styracura schmardae,MX,Mexico,EN,Ray
+Styracura schmardae,MS,Montserrat,EN,Ray
+Styracura schmardae,NI,Nicaragua,EN,Ray
+Styracura schmardae,PA,Panama,EN,Ray
+Styracura schmardae,PR,Puerto Rico,EN,Ray
+Styracura schmardae,BL,Saint Barthélemy,EN,Ray
+Styracura schmardae,KN,Saint Kitts and Nevis,EN,Ray
+Styracura schmardae,LC,Saint Lucia,EN,Ray
+Styracura schmardae,MF,Saint Martin (French part),EN,Ray
+Styracura schmardae,VC,Saint Vincent and the Grenadines,EN,Ray
+Styracura schmardae,SX,Sint Maarten (Dutch part),EN,Ray
+Styracura schmardae,SR,Suriname,EN,Ray
+Styracura schmardae,TT,Trinidad and Tobago,EN,Ray
+Styracura schmardae,TC,Turks and Caicos Islands,EN,Ray
+Styracura schmardae,VE,"Venezuela, Bolivarian Republic of",EN,Ray
+Styracura schmardae,VG,"Virgin Islands, British",EN,Ray
+Styracura schmardae,VI,"Virgin Islands, U.S.",EN,Ray
+Taeniura lessoni,FJ,Fiji,DD,Ray
+Taeniura lessoni,PG,Papua New Guinea,DD,Ray
+Taeniura lessoni,SB,Solomon Islands,DD,Ray
+Taeniura lessoni,VU,Vanuatu,DD,Ray
+Taeniura lymma,AU,Australia,LC,Ray
+Taeniura lymma,BH,Bahrain,LC,Ray
+Taeniura lymma,BD,Bangladesh,LC,Ray
+Taeniura lymma,BN,Brunei Darussalam,LC,Ray
+Taeniura lymma,KH,Cambodia,LC,Ray
+Taeniura lymma,DJ,Djibouti,LC,Ray
+Taeniura lymma,EG,Egypt,LC,Ray
+Taeniura lymma,ER,Eritrea,LC,Ray
+Taeniura lymma,IN,India,LC,Ray
+Taeniura lymma,ID,Indonesia,LC,Ray
+Taeniura lymma,IR,"Iran, Islamic Republic of",LC,Ray
+Taeniura lymma,IQ,Iraq,LC,Ray
+Taeniura lymma,IL,Israel,LC,Ray
+Taeniura lymma,KE,Kenya,LC,Ray
+Taeniura lymma,KW,Kuwait,LC,Ray
+Taeniura lymma,MG,Madagascar,LC,Ray
+Taeniura lymma,MY,Malaysia,LC,Ray
+Taeniura lymma,MZ,Mozambique,LC,Ray
+Taeniura lymma,MM,Myanmar,LC,Ray
+Taeniura lymma,OM,Oman,LC,Ray
+Taeniura lymma,PK,Pakistan,LC,Ray
+Taeniura lymma,PG,Papua New Guinea,LC,Ray
+Taeniura lymma,PH,Philippines,LC,Ray
+Taeniura lymma,QA,Qatar,LC,Ray
+Taeniura lymma,SA,Saudi Arabia,LC,Ray
+Taeniura lymma,SC,Seychelles,LC,Ray
+Taeniura lymma,SG,Singapore,LC,Ray
+Taeniura lymma,SO,Somalia,LC,Ray
+Taeniura lymma,ZA,South Africa,LC,Ray
+Taeniura lymma,LK,Sri Lanka,LC,Ray
+Taeniura lymma,SD,Sudan,LC,Ray
+Taeniura lymma,TZ,"Tanzania, United Republic of",LC,Ray
+Taeniura lymma,TH,Thailand,LC,Ray
+Taeniura lymma,VN,Viet Nam,LC,Ray
+Taeniura lymma,YE,Yemen,LC,Ray
+Taeniurops meyeni,AU,Australia,VU,Ray
+Taeniurops meyeni,BD,Bangladesh,VU,Ray
+Taeniurops meyeni,KH,Cambodia,VU,Ray
+Taeniurops meyeni,CN,China,VU,Ray
+Taeniurops meyeni,CK,Cook Islands,VU,Ray
+Taeniurops meyeni,DJ,Djibouti,VU,Ray
+Taeniurops meyeni,EG,Egypt,VU,Ray
+Taeniurops meyeni,ER,Eritrea,VU,Ray
+Taeniurops meyeni,ET,Ethiopia,VU,Ray
+Taeniurops meyeni,IN,India,VU,Ray
+Taeniurops meyeni,ID,Indonesia,VU,Ray
+Taeniurops meyeni,IR,"Iran, Islamic Republic of",VU,Ray
+Taeniurops meyeni,IQ,Iraq,VU,Ray
+Taeniurops meyeni,JP,Japan,VU,Ray
+Taeniurops meyeni,KE,Kenya,VU,Ray
+Taeniurops meyeni,KP,"Korea, Democratic People's Republic of",VU,Ray
+Taeniurops meyeni,KR,"Korea, Republic of",VU,Ray
+Taeniurops meyeni,KW,Kuwait,VU,Ray
+Taeniurops meyeni,MG,Madagascar,VU,Ray
+Taeniurops meyeni,MY,Malaysia,VU,Ray
+Taeniurops meyeni,MU,Mauritius,VU,Ray
+Taeniurops meyeni,FM,"Micronesia, Federated States of",VU,Ray
+Taeniurops meyeni,MZ,Mozambique,VU,Ray
+Taeniurops meyeni,MM,Myanmar,VU,Ray
+Taeniurops meyeni,NC,New Caledonia,VU,Ray
+Taeniurops meyeni,OM,Oman,VU,Ray
+Taeniurops meyeni,PK,Pakistan,VU,Ray
+Taeniurops meyeni,PG,Papua New Guinea,VU,Ray
+Taeniurops meyeni,PH,Philippines,VU,Ray
+Taeniurops meyeni,QA,Qatar,VU,Ray
+Taeniurops meyeni,RE,Réunion,VU,Ray
+Taeniurops meyeni,SA,Saudi Arabia,VU,Ray
+Taeniurops meyeni,SC,Seychelles,VU,Ray
+Taeniurops meyeni,SG,Singapore,VU,Ray
+Taeniurops meyeni,SO,Somalia,VU,Ray
+Taeniurops meyeni,ZA,South Africa,VU,Ray
+Taeniurops meyeni,LK,Sri Lanka,VU,Ray
+Taeniurops meyeni,SD,Sudan,VU,Ray
+Taeniurops meyeni,TW,"Taiwan, Province of China",VU,Ray
+Taeniurops meyeni,TZ,"Tanzania, United Republic of",VU,Ray
+Taeniurops meyeni,TH,Thailand,VU,Ray
+Taeniurops meyeni,TL,Timor-Leste,VU,Ray
+Taeniurops meyeni,AE,United Arab Emirates,VU,Ray
+Taeniurops meyeni,VU,Vanuatu,VU,Ray
+Taeniurops meyeni,VN,Viet Nam,VU,Ray
+Taeniurops meyeni,YE,Yemen,VU,Ray
+Torpedo andersoni,BS,Bahamas,LC,Ray
+Torpedo andersoni,KY,Cayman Islands,LC,Ray
+Torpedo andersoni,MX,Mexico,LC,Ray
+Torpedo andersoni,NI,Nicaragua,LC,Ray
+Torpedo andersoni,US,United States,LC,Ray
+Torpedo sinuspersici,BH,Bahrain,DD,Ray
+Torpedo sinuspersici,DJ,Djibouti,DD,Ray
+Torpedo sinuspersici,EG,Egypt,DD,Ray
+Torpedo sinuspersici,ER,Eritrea,DD,Ray
+Torpedo sinuspersici,IN,India,DD,Ray
+Torpedo sinuspersici,IR,"Iran, Islamic Republic of",DD,Ray
+Torpedo sinuspersici,IQ,Iraq,DD,Ray
+Torpedo sinuspersici,KE,Kenya,DD,Ray
+Torpedo sinuspersici,KW,Kuwait,DD,Ray
+Torpedo sinuspersici,MG,Madagascar,DD,Ray
+Torpedo sinuspersici,MZ,Mozambique,DD,Ray
+Torpedo sinuspersici,OM,Oman,DD,Ray
+Torpedo sinuspersici,QA,Qatar,DD,Ray
+Torpedo sinuspersici,SA,Saudi Arabia,DD,Ray
+Torpedo sinuspersici,SO,Somalia,DD,Ray
+Torpedo sinuspersici,ZA,South Africa,DD,Ray
+Torpedo sinuspersici,SD,Sudan,DD,Ray
+Torpedo sinuspersici,TZ,"Tanzania, United Republic of",DD,Ray
+Torpedo sinuspersici,AE,United Arab Emirates,DD,Ray
+Torpedo sinuspersici,YE,Yemen,DD,Ray
+Triaenodon obesus,AS,American Samoa,VU,Shark
+Triaenodon obesus,AU,Australia,VU,Shark
+Triaenodon obesus,IO,British Indian Ocean Territory,VU,Shark
+Triaenodon obesus,KH,Cambodia,VU,Shark
+Triaenodon obesus,CX,Christmas Island,VU,Shark
+Triaenodon obesus,CC,Cocos (Keeling) Islands,VU,Shark
+Triaenodon obesus,CK,Cook Islands,VU,Shark
+Triaenodon obesus,CR,Costa Rica,VU,Shark
+Triaenodon obesus,DJ,Djibouti,VU,Shark
+Triaenodon obesus,EG,Egypt,VU,Shark
+Triaenodon obesus,ER,Eritrea,VU,Shark
+Triaenodon obesus,FJ,Fiji,VU,Shark
+Triaenodon obesus,PF,French Polynesia,VU,Shark
+Triaenodon obesus,GU,Guam,VU,Shark
+Triaenodon obesus,HK,Hong Kong,VU,Shark
+Triaenodon obesus,IN,India,VU,Shark
+Triaenodon obesus,ID,Indonesia,VU,Shark
+Triaenodon obesus,IL,Israel,VU,Shark
+Triaenodon obesus,JP,Japan,VU,Shark
+Triaenodon obesus,KI,Kiribati,VU,Shark
+Triaenodon obesus,MG,Madagascar,VU,Shark
+Triaenodon obesus,MY,Malaysia,VU,Shark
+Triaenodon obesus,MV,Maldives,VU,Shark
+Triaenodon obesus,MH,Marshall Islands,VU,Shark
+Triaenodon obesus,YT,Mayotte,VU,Shark
+Triaenodon obesus,FM,"Micronesia, Federated States of",VU,Shark
+Triaenodon obesus,MZ,Mozambique,VU,Shark
+Triaenodon obesus,MM,Myanmar,VU,Shark
+Triaenodon obesus,NR,Nauru,VU,Shark
+Triaenodon obesus,NC,New Caledonia,VU,Shark
+Triaenodon obesus,NU,Niue,VU,Shark
+Triaenodon obesus,MP,Northern Mariana Islands,VU,Shark
+Triaenodon obesus,OM,Oman,VU,Shark
+Triaenodon obesus,PK,Pakistan,VU,Shark
+Triaenodon obesus,PW,Palau,VU,Shark
+Triaenodon obesus,PA,Panama,VU,Shark
+Triaenodon obesus,PG,Papua New Guinea,VU,Shark
+Triaenodon obesus,PH,Philippines,VU,Shark
+Triaenodon obesus,QA,Qatar,VU,Shark
+Triaenodon obesus,RE,Réunion,VU,Shark
+Triaenodon obesus,WS,Samoa,VU,Shark
+Triaenodon obesus,SA,Saudi Arabia,VU,Shark
+Triaenodon obesus,SC,Seychelles,VU,Shark
+Triaenodon obesus,SG,Singapore,VU,Shark
+Triaenodon obesus,SB,Solomon Islands,VU,Shark
+Triaenodon obesus,SO,Somalia,VU,Shark
+Triaenodon obesus,ZA,South Africa,VU,Shark
+Triaenodon obesus,LK,Sri Lanka,VU,Shark
+Triaenodon obesus,SD,Sudan,VU,Shark
+Triaenodon obesus,TW,"Taiwan, Province of China",VU,Shark
+Triaenodon obesus,TZ,"Tanzania, United Republic of",VU,Shark
+Triaenodon obesus,TH,Thailand,VU,Shark
+Triaenodon obesus,TL,Timor-Leste,VU,Shark
+Triaenodon obesus,TK,Tokelau,VU,Shark
+Triaenodon obesus,TO,Tonga,VU,Shark
+Triaenodon obesus,TV,Tuvalu,VU,Shark
+Triaenodon obesus,AE,United Arab Emirates,VU,Shark
+Triaenodon obesus,UM,United States Minor Outlying Islands,VU,Shark
+Triaenodon obesus,VU,Vanuatu,VU,Shark
+Triaenodon obesus,VN,Viet Nam,VU,Shark
+Triaenodon obesus,WF,Wallis and Futuna,VU,Shark
+Triaenodon obesus,YE,Yemen,VU,Shark
+Triakis scyllium,CN,China,EN,Shark
+Triakis scyllium,JP,Japan,EN,Shark
+Triakis scyllium,KP,"Korea, Democratic People's Republic of",EN,Shark
+Triakis scyllium,KR,"Korea, Republic of",EN,Shark
+Triakis scyllium,PH,Philippines,EN,Shark
+Triakis scyllium,RU,Russian Federation,EN,Shark
+Triakis scyllium,TW,"Taiwan, Province of China",EN,Shark
+Urobatis concentricus,MX,Mexico,LC,Ray
+Urobatis halleri,CR,Costa Rica,LC,Ray
+Urobatis halleri,SV,El Salvador,LC,Ray
+Urobatis halleri,GT,Guatemala,LC,Ray
+Urobatis halleri,HN,Honduras,LC,Ray
+Urobatis halleri,MX,Mexico,LC,Ray
+Urobatis halleri,NI,Nicaragua,LC,Ray
+Urobatis halleri,PA,Panama,LC,Ray
+Urobatis halleri,US,United States,LC,Ray
+Urobatis jamaicensis,AI,Anguilla,LC,Ray
+Urobatis jamaicensis,AG,Antigua and Barbuda,LC,Ray
+Urobatis jamaicensis,AW,Aruba,LC,Ray
+Urobatis jamaicensis,BS,Bahamas,LC,Ray
+Urobatis jamaicensis,BB,Barbados,LC,Ray
+Urobatis jamaicensis,BZ,Belize,LC,Ray
+Urobatis jamaicensis,BQ,"Bonaire, Sint Eustatius and Saba",LC,Ray
+Urobatis jamaicensis,BR,Brazil,LC,Ray
+Urobatis jamaicensis,KY,Cayman Islands,LC,Ray
+Urobatis jamaicensis,CO,Colombia,LC,Ray
+Urobatis jamaicensis,CR,Costa Rica,LC,Ray
+Urobatis jamaicensis,CU,Cuba,LC,Ray
+Urobatis jamaicensis,CW,Curaçao,LC,Ray
+Urobatis jamaicensis,DM,Dominica,LC,Ray
+Urobatis jamaicensis,DO,Dominican Republic,LC,Ray
+Urobatis jamaicensis,GD,Grenada,LC,Ray
+Urobatis jamaicensis,GP,Guadeloupe,LC,Ray
+Urobatis jamaicensis,GT,Guatemala,LC,Ray
+Urobatis jamaicensis,GY,Guyana,LC,Ray
+Urobatis jamaicensis,HT,Haiti,LC,Ray
+Urobatis jamaicensis,HN,Honduras,LC,Ray
+Urobatis jamaicensis,JM,Jamaica,LC,Ray
+Urobatis jamaicensis,MQ,Martinique,LC,Ray
+Urobatis jamaicensis,MX,Mexico,LC,Ray
+Urobatis jamaicensis,MS,Montserrat,LC,Ray
+Urobatis jamaicensis,NI,Nicaragua,LC,Ray
+Urobatis jamaicensis,PA,Panama,LC,Ray
+Urobatis jamaicensis,PR,Puerto Rico,LC,Ray
+Urobatis jamaicensis,BL,Saint Barthélemy,LC,Ray
+Urobatis jamaicensis,KN,Saint Kitts and Nevis,LC,Ray
+Urobatis jamaicensis,LC,Saint Lucia,LC,Ray
+Urobatis jamaicensis,MF,Saint Martin (French part),LC,Ray
+Urobatis jamaicensis,VC,Saint Vincent and the Grenadines,LC,Ray
+Urobatis jamaicensis,SX,Sint Maarten (Dutch part),LC,Ray
+Urobatis jamaicensis,SR,Suriname,LC,Ray
+Urobatis jamaicensis,TT,Trinidad and Tobago,LC,Ray
+Urobatis jamaicensis,TC,Turks and Caicos Islands,LC,Ray
+Urobatis jamaicensis,US,United States,LC,Ray
+Urobatis jamaicensis,VE,"Venezuela, Bolivarian Republic of",LC,Ray
+Urobatis jamaicensis,VG,"Virgin Islands, British",LC,Ray
+Urobatis jamaicensis,VI,"Virgin Islands, U.S.",LC,Ray
+Urobatis maculatus,MX,Mexico,LC,Ray
+Urogymnus asperrimus,AU,Australia,VU,Ray
+Urogymnus asperrimus,EG,Egypt,VU,Ray
+Urogymnus asperrimus,ER,Eritrea,VU,Ray
+Urogymnus asperrimus,FJ,Fiji,VU,Ray
+Urogymnus asperrimus,IN,India,VU,Ray
+Urogymnus asperrimus,ID,Indonesia,VU,Ray
+Urogymnus asperrimus,IR,"Iran, Islamic Republic of",VU,Ray
+Urogymnus asperrimus,IQ,Iraq,VU,Ray
+Urogymnus asperrimus,KE,Kenya,VU,Ray
+Urogymnus asperrimus,MG,Madagascar,VU,Ray
+Urogymnus asperrimus,MY,Malaysia,VU,Ray
+Urogymnus asperrimus,MM,Myanmar,VU,Ray
+Urogymnus asperrimus,NC,New Caledonia,VU,Ray
+Urogymnus asperrimus,NF,Norfolk Island,VU,Ray
+Urogymnus asperrimus,OM,Oman,VU,Ray
+Urogymnus asperrimus,PK,Pakistan,VU,Ray
+Urogymnus asperrimus,PH,Philippines,VU,Ray
+Urogymnus asperrimus,SA,Saudi Arabia,VU,Ray
+Urogymnus asperrimus,SC,Seychelles,VU,Ray
+Urogymnus asperrimus,SG,Singapore,VU,Ray
+Urogymnus asperrimus,SB,Solomon Islands,VU,Ray
+Urogymnus asperrimus,ZA,South Africa,VU,Ray
+Urogymnus asperrimus,LK,Sri Lanka,VU,Ray
+Urogymnus asperrimus,SD,Sudan,VU,Ray
+Urogymnus asperrimus,TW,"Taiwan, Province of China",VU,Ray
+Urogymnus asperrimus,TH,Thailand,VU,Ray
+Urogymnus asperrimus,AE,United Arab Emirates,VU,Ray
+Urogymnus asperrimus,VU,Vanuatu,VU,Ray
+Urogymnus asperrimus,VN,Viet Nam,VU,Ray
+Urogymnus asperrimus,YE,Yemen,VU,Ray
+Urogymnus granulatus,AU,Australia,VU,Ray
+Urogymnus granulatus,BD,Bangladesh,VU,Ray
+Urogymnus granulatus,FJ,Fiji,VU,Ray
+Urogymnus granulatus,GU,Guam,VU,Ray
+Urogymnus granulatus,IN,India,VU,Ray
+Urogymnus granulatus,ID,Indonesia,VU,Ray
+Urogymnus granulatus,JO,Jordan,VU,Ray
+Urogymnus granulatus,MY,Malaysia,VU,Ray
+Urogymnus granulatus,FM,"Micronesia, Federated States of",VU,Ray
+Urogymnus granulatus,MM,Myanmar,VU,Ray
+Urogymnus granulatus,PG,Papua New Guinea,VU,Ray
+Urogymnus granulatus,PH,Philippines,VU,Ray
+Urogymnus granulatus,SB,Solomon Islands,VU,Ray
+Urogymnus granulatus,LK,Sri Lanka,VU,Ray
+Urogymnus granulatus,TH,Thailand,VU,Ray
+Urogymnus granulatus,YE,Yemen,VU,Ray
+Urotrygon chilensis,CL,Chile,NT,Ray
+Urotrygon chilensis,CO,Colombia,NT,Ray
+Urotrygon chilensis,CR,Costa Rica,NT,Ray
+Urotrygon chilensis,EC,Ecuador,NT,Ray
+Urotrygon chilensis,SV,El Salvador,NT,Ray
+Urotrygon chilensis,GT,Guatemala,NT,Ray
+Urotrygon chilensis,HN,Honduras,NT,Ray
+Urotrygon chilensis,MX,Mexico,NT,Ray
+Urotrygon chilensis,NI,Nicaragua,NT,Ray
+Urotrygon chilensis,PA,Panama,NT,Ray
+Urotrygon chilensis,PE,Peru,NT,Ray
+Zapteryx xyster,CO,Colombia,VU,Ray
+Zapteryx xyster,CR,Costa Rica,VU,Ray
+Zapteryx xyster,EC,Ecuador,VU,Ray
+Zapteryx xyster,SV,El Salvador,VU,Ray
+Zapteryx xyster,GT,Guatemala,VU,Ray
+Zapteryx xyster,HN,Honduras,VU,Ray
+Zapteryx xyster,MX,Mexico,VU,Ray
+Zapteryx xyster,NI,Nicaragua,VU,Ray
+Zapteryx xyster,PA,Panama,VU,Ray
+Zapteryx xyster,PE,Peru,VU,Ray
